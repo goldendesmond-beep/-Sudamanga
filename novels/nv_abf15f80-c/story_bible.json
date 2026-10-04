@@ -1,0 +1,228 @@
+{
+  "novel_id": "nv_abf15f80-c",
+  "last_processed_chapter": 1,
+  "characters": {
+    "القائد": {
+      "id": "القائد",
+      "canonical_name": {
+        "value": "القائد",
+        "confidence": "CONFIRMED_FROM_NOVEL",
+        "source_chapter": 1,
+        "last_updated_chapter": 1
+      },
+      "aliases": {
+        "value": [],
+        "confidence": "CONFIRMED_FROM_NOVEL",
+        "source_chapter": 1,
+        "last_updated_chapter": 1
+      },
+      "gender": {
+        "value": null,
+        "confidence": "AI_INFERRED",
+        "source_chapter": 1,
+        "last_updated_chapter": 1
+      },
+      "age": {
+        "value": null,
+        "confidence": "AI_INFERRED",
+        "source_chapter": 1,
+        "last_updated_chapter": 1
+      },
+      "appearance": {
+        "physical": {
+          "value": "ملامح مميزة وهيبة ملحوظة",
+          "confidence": "CONFIRMED_FROM_NOVEL",
+          "source_chapter": 1,
+          "last_updated_chapter": 1
+        },
+        "hairstyle": {
+          "value": "شعر طبيعي داكن",
+          "confidence": "CONFIRMED_FROM_NOVEL",
+          "source_chapter": 1,
+          "last_updated_chapter": 1
+        },
+        "clothing": {
+          "value": "عباءة سفر متينة",
+          "confidence": "CONFIRMED_FROM_NOVEL",
+          "source_chapter": 1,
+          "last_updated_chapter": 1
+        }
+      },
+      "personality": {
+        "value": "هادئ ومصمم",
+        "confidence": "CONFIRMED_FROM_NOVEL",
+        "source_chapter": 1,
+        "last_updated_chapter": 1
+      },
+      "role": {
+        "value": "الشخصية",
+        "confidence": "CONFIRMED_FROM_NOVEL",
+        "source_chapter": 1,
+        "last_updated_chapter": 1
+      },
+      "faction": {
+        "value": null,
+        "confidence": "AI_INFERRED",
+        "source_chapter": 1,
+        "last_updated_chapter": 1
+      },
+      "abilities": {
+        "value": [],
+        "confidence": "CONFIRMED_FROM_NOVEL",
+        "source_chapter": 1,
+        "last_updated_chapter": 1
+      },
+      "weapons": {
+        "value": [],
+        "confidence": "CONFIRMED_FROM_NOVEL",
+        "source_chapter": 1,
+        "last_updated_chapter": 1
+      },
+      "possessions": {
+        "value": [],
+        "confidence": "CONFIRMED_FROM_NOVEL",
+        "source_chapter": 1,
+        "last_updated_chapter": 1
+      },
+      "current_status": {
+        "value": "نشط في القصة",
+        "confidence": "CONFIRMED_FROM_NOVEL",
+        "source_chapter": 1,
+        "last_updated_chapter": 1
+      },
+      "last_known_location": {
+        "value": null,
+        "confidence": "AI_INFERRED",
+        "source_chapter": 1,
+        "last_updated_chapter": 1
+      },
+      "first_appearance": 1,
+      "latest_chapter": 1
+    },
+    "طارق": {
+      "id": "طارق",
+      "canonical_name": {
+        "value": "طارق",
+        "confidence": "CONFIRMED_FROM_NOVEL",
+        "source_chapter": 1,
+        "last_updated_chapter": 1
+      },
+      "aliases": {
+        "value": [],
+        "confidence": "CONFIRMED_FROM_NOVEL",
+        "source_chapter": 1,
+        "last_updated_chapter": 1
+      },
+      "gender": {
+        "value": null,
+        "confidence": "AI_INFERRED",
+        "source_chapter": 1,
+        "last_updated_chapter": 1
+      },
+      "age": {
+        "value": null,
+        "confidence": "AI_INFERRED",
+        "source_chapter": 1,
+        "last_updated_chapter": 1
+      },
+      "appearance": {
+        "physical": {
+          "value": "ملامح مميزة وهيبة ملحوظة",
+          "confidence": "CONFIRMED_FROM_NOVEL",
+          "source_chapter": 1,
+          "last_updated_chapter": 1
+        },
+        "hairstyle": {
+          "value": "شعر طبيعي داكن",
+          "confidence": "CONFIRMED_FROM_NOVEL",
+          "source_chapter": 1,
+          "last_updated_chapter": 1
+        },
+        "clothing": {
+          "value": "عباءة سفر متينة",
+          "confidence": "CONFIRMED_FROM_NOVEL",
+          "source_chapter": 1,
+          "last_updated_chapter": 1
+        }
+      },
+      "personality": {
+        "value": "هادئ ومصمم",
+        "confidence": "CONFIRMED_FROM_NOVEL",
+        "source_chapter": 1,
+        "last_updated_chapter": 1
+      },
+      "role": {
+        "value": "الشخصية",
+        "confidence": "CONFIRMED_FROM_NOVEL",
+        "source_chapter": 1,
+        "last_updated_chapter": 1
+      },
+      "faction": {
+        "value": null,
+        "confidence": "AI_INFERRED",
+        "source_chapter": 1,
+        "last_updated_chapter": 1
+      },
+      "abilities": {
+        "value": [],
+        "confidence": "CONFIRMED_FROM_NOVEL",
+        "source_chapter": 1,
+        "last_updated_chapter": 1
+      },
+      "weapons": {
+        "value": [],
+        "confidence": "CONFIRMED_FROM_NOVEL",
+        "source_chapter": 1,
+        "last_updated_chapter": 1
+      },
+      "possessions": {
+        "value": [],
+        "confidence": "CONFIRMED_FROM_NOVEL",
+        "source_chapter": 1,
+        "last_updated_chapter": 1
+      },
+      "current_status": {
+        "value": "نشط في القصة",
+        "confidence": "CONFIRMED_FROM_NOVEL",
+        "source_chapter": 1,
+        "last_updated_chapter": 1
+      },
+      "last_known_location": {
+        "value": null,
+        "confidence": "AI_INFERRED",
+        "source_chapter": 1,
+        "last_updated_chapter": 1
+      },
+      "first_appearance": 1,
+      "latest_chapter": 1
+    }
+  },
+  "locations": {},
+  "factions": {},
+  "powers": {},
+  "objects": {},
+  "relationships": {},
+  "timeline": [
+    {
+      "id": "evt_c1_1790770176050",
+      "chapter": 1,
+      "summary": "الفصل 1: فجر الصحراء وقف القائد طارق على تلة الرمل يشاهد شروق الشمس فوق واحة النخيل. اقترب الفارس كريم ممسكاً بسيفه الدمشقي العريق. قال طارق وهو يتفقد ",
+      "participants": [
+        "القائد",
+        "طارق"
+      ],
+      "timestamp": 1790770176050
+    },
+    {
+      "id": "evt_c1_1790770179965",
+      "chapter": 1,
+      "summary": "الفصل 1: فجر الصحراء وقف القائد طارق على تلة الرمل يشاهد شروق الشمس فوق واحة النخيل. اقترب الفارس كريم ممسكاً بسيفه الدمشقي العريق. قال طارق وهو يتفقد",
+      "participants": [
+        "القائد",
+        "طارق"
+      ],
+      "timestamp": 1790770179965
+    }
+  ],
+  "updated_at": 1790770179965
+}

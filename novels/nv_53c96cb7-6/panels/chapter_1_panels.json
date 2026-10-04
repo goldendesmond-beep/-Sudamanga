@@ -1,0 +1,237 @@
+[
+  {
+    "panel_id": "p_ch1_s1_1",
+    "novel_id": "nv_53c96cb7-6",
+    "chapter_id": "1",
+    "chapter_number": 1,
+    "scene_id": "scene_ch1_s1",
+    "page_or_strip_id": "strip_01",
+    "global_panel_number": 1,
+    "status": "COMPLETE",
+    "image_url": "/api/novels/nv_53c96cb7-6/panels/files/ch01_p_ch1_s1_1.png",
+    "aspect_ratio": "3:4",
+    "input_layers": {
+      "character_constraints": "",
+      "style_constraints": "[VISUAL STYLE: Solo Leveling v1] Line Art: Variable crisp tapering ink lines thickness, Medium-high density, Ultra-clean digital vector-assisted. Color Mode: full_color. Shading: Rich gradient cel-shading with glowing specular highlights, shadows: Deep pitch blacks contrasting neon emissives, contrast: High dramatic contrast. Rendering: Smooth cel-shaded planes with glossy edge highlights, Creased modern streetwear & stylized tactical coats. Effects: Radial burst lines with particle dispersion, Swirling ethereal violet and blue smoke tendrils. Mood: Dark, thrilling, overpowered, electrifying action.",
+      "story_constraints": "[STORY BEAT] Scene at Setting. Action: Establishing shot of Setting. القائد, طارق positioned in environment.. Character expression: Composed observation. Pose: Standing surveying the surroundings. Background: Setting with atmospheric perspective and perspective depth.",
+      "panel_composition": "[PANEL COMPOSITION] Camera Angle: eye_level. Framing: wide_shot. Lighting: Clean key light with soft fill. Composition Notes: wide_shot focusing on visual storytelling with clean speech bubble clearance.",
+      "negative_constraints": "photorealistic, 3d render, western superhero comic style, deformed hands, missing fingers, extra limbs, inconsistent costume colors, blurry line art, unrendered background, bad anatomy, text on base artwork"
+    },
+    "reference_mode": "characters_and_style",
+    "provider_tier": "LOCAL_ZERO_COST",
+    "provider_name": "Inkstone Zero-Cost Renderer",
+    "seed": 3642075,
+    "cached": false,
+    "cache_key": "db006e16d96c56f854b77dc5",
+    "continuity": {
+      "previous_characters": [],
+      "environment": "Setting",
+      "lighting": "Clean key light with soft fill",
+      "active_style_version": 1
+    },
+    "drift_check": {
+      "has_drift": false,
+      "drift_type": "none",
+      "status": "APPROVED",
+      "style_drift_reasons": [],
+      "character_drift_reasons": [],
+      "confidence": 0.95
+    },
+    "lettering": {
+      "bubbles": [],
+      "sfx": [],
+      "svg_overlay": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 800 1100\" width=\"100%\" height=\"100%\" style=\"position:absolute;top:0;left:0;pointer-events:none;\">\n      \n    </svg>",
+      "language": "ar",
+      "updated_at": 1790944592506
+    },
+    "character_locks_applied": [],
+    "style_lock_id": "style_e3e9f31c",
+    "style_version": 1,
+    "is_locked": false,
+    "user_edited": false,
+    "created_at": 1790944592506,
+    "updated_at": 1790944592506
+  },
+  {
+    "panel_id": "p_ch1_s1_2",
+    "novel_id": "nv_53c96cb7-6",
+    "chapter_id": "1",
+    "chapter_number": 1,
+    "scene_id": "scene_ch1_s1",
+    "page_or_strip_id": "strip_01",
+    "global_panel_number": 2,
+    "status": "COMPLETE",
+    "image_url": "/api/novels/nv_53c96cb7-6/panels/files/ch01_p_ch1_s1_2.png",
+    "aspect_ratio": "3:4",
+    "input_layers": {
+      "character_constraints": "",
+      "style_constraints": "[VISUAL STYLE: Solo Leveling v1] Line Art: Variable crisp tapering ink lines thickness, Medium-high density, Ultra-clean digital vector-assisted. Color Mode: full_color. Shading: Rich gradient cel-shading with glowing specular highlights, shadows: Deep pitch blacks contrasting neon emissives, contrast: High dramatic contrast. Rendering: Smooth cel-shaded planes with glossy edge highlights, Creased modern streetwear & stylized tactical coats. Effects: Radial burst lines with particle dispersion, Swirling ethereal violet and blue smoke tendrils. Mood: Dark, thrilling, overpowered, electrifying action.",
+      "story_constraints": "[STORY BEAT] Scene at Setting. Action: القائد launches dynamic strike with weapon.. Character expression: Fierce battle cry, sharp intense eyes. Pose: Low dynamic combat stance, momentum forward. Background: Setting with atmospheric perspective and perspective depth. [CONTINUITY from p_ch1_s1_1] Environmental consistency: Setting. Lighting: Clean key light with soft fill. Active character continuity: maintained.",
+      "panel_composition": "[PANEL COMPOSITION] Camera Angle: low_angle. Framing: medium_shot. Lighting: Clean key light with soft fill. Composition Notes: medium_shot focusing on visual storytelling with clean speech bubble clearance.",
+      "negative_constraints": "photorealistic, 3d render, western superhero comic style, deformed hands, missing fingers, extra limbs, inconsistent costume colors, blurry line art, unrendered background, bad anatomy, text on base artwork"
+    },
+    "reference_mode": "characters_and_style",
+    "provider_tier": "LOCAL_ZERO_COST",
+    "provider_name": "Inkstone Zero-Cost Renderer",
+    "seed": 8362466,
+    "cached": false,
+    "cache_key": "dac23c5f426003b9f19a4ccc",
+    "continuity": {
+      "previous_panel_id": "p_ch1_s1_1",
+      "previous_characters": [],
+      "environment": "Setting",
+      "lighting": "Clean key light with soft fill",
+      "active_style_version": 1
+    },
+    "drift_check": {
+      "has_drift": false,
+      "drift_type": "none",
+      "status": "APPROVED",
+      "style_drift_reasons": [],
+      "character_drift_reasons": [],
+      "confidence": 0.95
+    },
+    "lettering": {
+      "bubbles": [],
+      "sfx": [
+        {
+          "id": "sfx_1",
+          "text": "SLASH!",
+          "x": 60,
+          "y": 48,
+          "rotation": -12,
+          "style": "manga_action",
+          "language": "ar"
+        }
+      ],
+      "svg_overlay": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 800 1100\" width=\"100%\" height=\"100%\" style=\"position:absolute;top:0;left:0;pointer-events:none;\">\n      \n        <g transform=\"translate(480, 528) rotate(-12)\">\n          <text text-anchor=\"middle\" font-family=\"'Amiri', 'Scheherazade New', 'Tahoma', sans-serif\" font-weight=\"900\" font-size=\"34\"\n                fill=\"#ffdd00\" stroke=\"#111111\" stroke-width=\"4\" stroke-linejoin=\"round\"\n                filter=\"drop-shadow(3px 5px 0px rgba(0,0,0,0.85))\">SLASH!</text>\n        </g>\n    </svg>",
+      "language": "ar",
+      "updated_at": 1790944592512
+    },
+    "character_locks_applied": [],
+    "style_lock_id": "style_e3e9f31c",
+    "style_version": 1,
+    "is_locked": false,
+    "user_edited": false,
+    "created_at": 1790944592512,
+    "updated_at": 1790944592512
+  },
+  {
+    "panel_id": "p_ch1_s1_3",
+    "novel_id": "nv_53c96cb7-6",
+    "chapter_id": "1",
+    "chapter_number": 1,
+    "scene_id": "scene_ch1_s1",
+    "page_or_strip_id": "strip_01",
+    "global_panel_number": 3,
+    "status": "COMPLETE",
+    "image_url": "/api/novels/nv_53c96cb7-6/panels/files/ch01_p_ch1_s1_3.png",
+    "aspect_ratio": "3:4",
+    "input_layers": {
+      "character_constraints": "",
+      "style_constraints": "[VISUAL STYLE: Solo Leveling v1] Line Art: Variable crisp tapering ink lines thickness, Medium-high density, Ultra-clean digital vector-assisted. Color Mode: full_color. Shading: Rich gradient cel-shading with glowing specular highlights, shadows: Deep pitch blacks contrasting neon emissives, contrast: High dramatic contrast. Rendering: Smooth cel-shaded planes with glossy edge highlights, Creased modern streetwear & stylized tactical coats. Effects: Radial burst lines with particle dispersion, Swirling ethereal violet and blue smoke tendrils. Mood: Dark, thrilling, overpowered, electrifying action.",
+      "story_constraints": "[STORY BEAT] Scene at Setting. Action: Shockwave impact as blade connects, energy sparks flying.. Character expression: Strained exertion. Pose: Mid-collision tension. Background: Setting with atmospheric perspective and perspective depth. [CONTINUITY from p_ch1_s1_2] Environmental consistency: Setting. Lighting: Clean key light with soft fill. Active character continuity: maintained.",
+      "panel_composition": "[PANEL COMPOSITION] Camera Angle: dutch_tilt. Framing: cut_in. Lighting: Clean key light with soft fill. Composition Notes: cut_in focusing on visual storytelling with clean speech bubble clearance.",
+      "negative_constraints": "photorealistic, 3d render, western superhero comic style, deformed hands, missing fingers, extra limbs, inconsistent costume colors, blurry line art, unrendered background, bad anatomy, text on base artwork"
+    },
+    "reference_mode": "characters_and_style",
+    "provider_tier": "LOCAL_ZERO_COST",
+    "provider_name": "Inkstone Zero-Cost Renderer",
+    "seed": 1386395,
+    "cached": false,
+    "cache_key": "b70d0b6f9fb31b657d22dc32",
+    "continuity": {
+      "previous_panel_id": "p_ch1_s1_2",
+      "previous_characters": [],
+      "environment": "Setting",
+      "lighting": "Clean key light with soft fill",
+      "active_style_version": 1
+    },
+    "drift_check": {
+      "has_drift": false,
+      "drift_type": "none",
+      "status": "APPROVED",
+      "style_drift_reasons": [],
+      "character_drift_reasons": [],
+      "confidence": 0.95
+    },
+    "lettering": {
+      "bubbles": [],
+      "sfx": [
+        {
+          "id": "sfx_1",
+          "text": "BOOM!",
+          "x": 60,
+          "y": 48,
+          "rotation": -12,
+          "style": "manga_action",
+          "language": "ar"
+        }
+      ],
+      "svg_overlay": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 800 1100\" width=\"100%\" height=\"100%\" style=\"position:absolute;top:0;left:0;pointer-events:none;\">\n      \n        <g transform=\"translate(480, 528) rotate(-12)\">\n          <text text-anchor=\"middle\" font-family=\"'Amiri', 'Scheherazade New', 'Tahoma', sans-serif\" font-weight=\"900\" font-size=\"34\"\n                fill=\"#ffdd00\" stroke=\"#111111\" stroke-width=\"4\" stroke-linejoin=\"round\"\n                filter=\"drop-shadow(3px 5px 0px rgba(0,0,0,0.85))\">BOOM!</text>\n        </g>\n    </svg>",
+      "language": "ar",
+      "updated_at": 1790944592516
+    },
+    "character_locks_applied": [],
+    "style_lock_id": "style_e3e9f31c",
+    "style_version": 1,
+    "is_locked": false,
+    "user_edited": false,
+    "created_at": 1790944592516,
+    "updated_at": 1790944592516
+  },
+  {
+    "panel_id": "p_ch1_s1_4",
+    "novel_id": "nv_53c96cb7-6",
+    "chapter_id": "1",
+    "chapter_number": 1,
+    "scene_id": "scene_ch1_s1",
+    "page_or_strip_id": "strip_01",
+    "global_panel_number": 4,
+    "status": "COMPLETE",
+    "image_url": "/api/novels/nv_53c96cb7-6/panels/files/ch01_p_ch1_s1_4.png",
+    "aspect_ratio": "3:4",
+    "input_layers": {
+      "character_constraints": "",
+      "style_constraints": "[VISUAL STYLE: Solo Leveling v1] Line Art: Variable crisp tapering ink lines thickness, Medium-high density, Ultra-clean digital vector-assisted. Color Mode: full_color. Shading: Rich gradient cel-shading with glowing specular highlights, shadows: Deep pitch blacks contrasting neon emissives, contrast: High dramatic contrast. Rendering: Smooth cel-shaded planes with glossy edge highlights, Creased modern streetwear & stylized tactical coats. Effects: Radial burst lines with particle dispersion, Swirling ethereal violet and blue smoke tendrils. Mood: Dark, thrilling, overpowered, electrifying action.",
+      "story_constraints": "[STORY BEAT] Scene at Setting. Action: Close-up reaction on القائد.. Character expression: Firm, stoic resolve. Pose: Subtle head turn, hair catching wind. Background: Setting with atmospheric perspective and perspective depth. [CONTINUITY from p_ch1_s1_3] Environmental consistency: Setting. Lighting: Clean key light with soft fill. Active character continuity: maintained.",
+      "panel_composition": "[PANEL COMPOSITION] Camera Angle: eye_level. Framing: close_up. Lighting: Clean key light with soft fill. Composition Notes: close_up focusing on visual storytelling with clean speech bubble clearance.",
+      "negative_constraints": "photorealistic, 3d render, western superhero comic style, deformed hands, missing fingers, extra limbs, inconsistent costume colors, blurry line art, unrendered background, bad anatomy, text on base artwork"
+    },
+    "reference_mode": "characters_and_style",
+    "provider_tier": "LOCAL_ZERO_COST",
+    "provider_name": "Inkstone Zero-Cost Renderer",
+    "seed": 9374362,
+    "cached": false,
+    "cache_key": "0c6dd746a40a3cb24aef5fca",
+    "continuity": {
+      "previous_panel_id": "p_ch1_s1_3",
+      "previous_characters": [],
+      "environment": "Setting",
+      "lighting": "Clean key light with soft fill",
+      "active_style_version": 1
+    },
+    "drift_check": {
+      "has_drift": false,
+      "drift_type": "none",
+      "status": "APPROVED",
+      "style_drift_reasons": [],
+      "character_drift_reasons": [],
+      "confidence": 0.95
+    },
+    "lettering": {
+      "bubbles": [],
+      "sfx": [],
+      "svg_overlay": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 800 1100\" width=\"100%\" height=\"100%\" style=\"position:absolute;top:0;left:0;pointer-events:none;\">\n      \n    </svg>",
+      "language": "ar",
+      "updated_at": 1790944592520
+    },
+    "character_locks_applied": [],
+    "style_lock_id": "style_e3e9f31c",
+    "style_version": 1,
+    "is_locked": false,
+    "user_edited": false,
+    "created_at": 1790944592520,
+    "updated_at": 1790944592520
+  }
+]

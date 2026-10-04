@@ -1,0 +1,72 @@
+{
+  "novel_id": "nv_83e4cfc8-3",
+  "reference_mode": "characters_and_style",
+  "character_lock_active": true,
+  "style_lock_active": true,
+  "active_series_title": "Solo Leveling",
+  "character_mappings": {},
+  "character_locks": {},
+  "style_locks": [
+    {
+      "style_id": "style_447319e5",
+      "version": 1,
+      "reference_series": "Solo Leveling",
+      "series_type": "manhwa",
+      "line_art": {
+        "density": "Medium-high",
+        "thickness": "Variable crisp tapering ink lines",
+        "cleanliness": "Ultra-clean digital vector-assisted"
+      },
+      "proportions": {
+        "face": "Elongated angular manhwa aesthetics",
+        "eyes": "Sleek narrow almond",
+        "anatomy": "Heroic elongated athletic manhwa proportions"
+      },
+      "rendering": {
+        "hair": "Smooth cel-shaded planes with glossy edge highlights",
+        "clothing": "Creased modern streetwear & stylized tactical coats",
+        "color_mode": "full_color"
+      },
+      "shading": {
+        "technique": "Rich gradient cel-shading with glowing specular highlights",
+        "screentone_behavior": "Digital soft glow & bloom overlays",
+        "shadows": "Deep pitch blacks contrasting neon emissives",
+        "contrast": "High dramatic contrast"
+      },
+      "background": {
+        "detail_level": "High detailed modern metropolitan ruins & dungeon caverns",
+        "environment_rendering": "Atmospheric volumetric fog and glowing portal runes",
+        "lighting": "Strong directional neon lighting against dark backgrounds",
+        "texture": "Polished digital gloss"
+      },
+      "effects": {
+        "motion_lines": "Curved digital speed arcs",
+        "speed_lines": "Radial burst lines with particle dispersion",
+        "impact_frames": "High contrast black-and-white inverted impact flashes",
+        "fight_effects": "Violent slashing energy arcs with dissipating sparks",
+        "aura_power": "Swirling ethereal violet and blue smoke tendrils"
+      },
+      "cinematography": {
+        "shot_selection": "Vertical scrolling webtoon composition with full-body hero shots",
+        "camera_angles": "Extreme low-angle Dutch tilts looking up at towering figures",
+        "close_up_frequency": "Frequent dramatic eye close-ups during power activations",
+        "action_framing": "Sprawling vertical panels with breaking gutters",
+        "emotional_framing": "Isolated dark figure amidst vast cavernous space",
+        "panel_density": "Sparse vertical spacing for pacing flow",
+        "page_webtoon_rhythm": "Expansive vertical scroll pacing",
+        "sfx_presentation": "Stylized glowing Korean/English onomatopoeia integrated into action",
+        "overall_mood": "Dark, thrilling, overpowered, electrifying action"
+      },
+      "active": true,
+      "user_overrides": {},
+      "provider_notes": "Standardized provider-independent visual constraints; adaptable to both Agnes L2 img2img and prompt conditioning.",
+      "created_at": 1790945875492,
+      "updated_at": 1790945875492
+    }
+  ],
+  "active_style_version": 1,
+  "chapter_style_bindings": {
+    "1": 1
+  },
+  "updated_at": 1790945875492
+}

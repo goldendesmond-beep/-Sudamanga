@@ -1,0 +1,279 @@
+{
+  "23e52790c855b47736d4a1a2": {
+    "panel_id": "p_ch1_s1_1",
+    "novel_id": "nv_f8368cf3-7",
+    "chapter_number": 1,
+    "scene_id": "scene_ch1_s1",
+    "page_or_strip_id": "strip_01",
+    "global_panel_number": 1,
+    "status": "COMPLETE",
+    "image_url": "/api/novels/nv_f8368cf3-7/panels/files/ch01_p_ch1_s1_1.png",
+    "aspect_ratio": "3:4",
+    "input_layers": {
+      "character_constraints": "[CHARACTER: Protagonist] Native novel depiction, neutral manga character design.",
+      "style_constraints": "[VISUAL STYLE: The Eternal Supreme v1] Line Art: Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework thickness, High-clarity xianxia martial arts line work with sharp dynamic taper density, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition. Color Mode: full_color. Shading: Dimensional multi-layer cel-shading with glowing emissive rim lighting, shadows: Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, contrast: High dramatic contrast between deep environmental shadows and radiant spiritual energy. Rendering: Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases. Effects: Radial convergence lines focused on martial strikes, explosive kinetic shockwave bursts, Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence. Mood: Majestic, domineering, mystical, high-stakes cultivation martial grandeur.",
+      "story_constraints": "[STORY BEAT] Scene at Setting. Action: Establishing shot of Setting. Protagonist positioned in environment.. Character expression: Composed observation. Pose: Standing surveying the surroundings. Background: Setting with atmospheric perspective and perspective depth.",
+      "panel_composition": "[PANEL COMPOSITION] Camera Angle: eye_level. Framing: wide_shot. Lighting: Clean key light with soft fill. Composition Notes: wide_shot focusing on visual storytelling with clean speech bubble clearance.",
+      "negative_constraints": "photorealistic, 3d render, western superhero comic style, deformed hands, missing fingers, extra limbs, inconsistent costume colors, blurry line art, unrendered background, bad anatomy, text on base artwork"
+    },
+    "reference_mode": "style_only",
+    "provider_tier": "LOCAL_ZERO_COST",
+    "provider_name": "Inkstone Zero-Cost Renderer",
+    "seed": 7859823,
+    "cached": false,
+    "cache_key": "23e52790c855b47736d4a1a2",
+    "continuity": {
+      "previous_characters": [],
+      "environment": "Setting",
+      "lighting": "Clean key light with soft fill",
+      "active_style_version": 1
+    },
+    "drift_check": {
+      "has_drift": false,
+      "drift_type": "none",
+      "status": "APPROVED",
+      "style_drift_reasons": [],
+      "character_drift_reasons": [],
+      "confidence": 0.95
+    },
+    "lettering": {
+      "bubbles": [
+        {
+          "id": "bubble_1_dlg_scene_ch1_s1_1",
+          "type": "shout",
+          "speaker": "Protagonist",
+          "text": "ثلاثمائة عام... لقد عدت أخيرًا",
+          "x": 74,
+          "y": 14,
+          "size": "small",
+          "tail_direction": "right",
+          "tail_x": 82,
+          "tail_y": 26,
+          "language": "ar"
+        }
+      ],
+      "sfx": [],
+      "svg_overlay": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 800 1100\" width=\"100%\" height=\"100%\" dir=\"rtl\" style=\"position:absolute;top:0;left:0;pointer-events:none;\">\n      \n        <g id=\"bubble_1_dlg_scene_ch1_s1_1\" class=\"lettering-bubble\" data-bubble-id=\"bubble_1_dlg_scene_ch1_s1_1\">\n          <polygon points=\"678,154 654,160 669,170 642,171 646,182 620,178 611,189 592,181 573,189 564,178 538,182 542,171 515,170 530,160 506,154 530,148 515,138 542,137 538,126 564,130 573,119 592,127 611,119 620,130 646,126 642,137 669,138 654,148\" fill=\"#ffffff\" stroke=\"#e11d48\" stroke-width=\"3.5\" filter=\"drop-shadow(2px 3px 0px rgba(0,0,0,0.3))\" />\n          <text x=\"592\" y=\"138.5\" text-anchor=\"middle\" font-family=\"'Amiri', 'Scheherazade New', 'Tahoma', sans-serif\" font-size=\"9\" font-weight=\"bold\" fill=\"#64748b\" direction=\"rtl\">[Protagonist]</text>\n          <text x=\"592\" y=\"158\" text-anchor=\"middle\" font-family=\"'Amiri', 'Scheherazade New', 'Tahoma', sans-serif\" font-size=\"12\" font-weight=\"600\"\n                fill=\"#09090b\" direction=\"rtl\" style=\"white-space: pre-wrap; word-break: break-word;\">\n            ثلاثمائة عام... لقد عدت أخيرًا\n          </text>\n        </g>\n    </svg>",
+      "language": "ar",
+      "updated_at": 1790945780183
+    },
+    "character_locks_applied": [],
+    "style_lock_id": "style_82d9322d",
+    "style_version": 1,
+    "is_locked": false,
+    "user_edited": false,
+    "created_at": 1790945780183,
+    "updated_at": 1790945780184
+  },
+  "ecb0fbbbd4c5ed20b9fdebc5": {
+    "panel_id": "p_ch1_s1_1",
+    "novel_id": "nv_00ab8fe2-8",
+    "chapter_number": 1,
+    "scene_id": "scene_ch1_s1",
+    "page_or_strip_id": "strip_01",
+    "global_panel_number": 1,
+    "status": "COMPLETE",
+    "image_url": "/api/novels/nv_00ab8fe2-8/panels/files/ch01_p_ch1_s1_1.png",
+    "aspect_ratio": "3:4",
+    "input_layers": {
+      "character_constraints": "[CHARACTER: Protagonist] Native novel depiction, neutral manga character design.",
+      "style_constraints": "[VISUAL STYLE: The Eternal Supreme v1] Line Art: Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework thickness, High-clarity xianxia martial arts line work with sharp dynamic taper density, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition. Color Mode: full_color. Shading: Dimensional multi-layer cel-shading with glowing emissive rim lighting, shadows: Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, contrast: High dramatic contrast between deep environmental shadows and radiant spiritual energy. Rendering: Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases. Effects: Radial convergence lines focused on martial strikes, explosive kinetic shockwave bursts, Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence. Mood: Majestic, domineering, mystical, high-stakes cultivation martial grandeur.",
+      "story_constraints": "[STORY BEAT] Scene at martial academy. Action: Establishing shot of martial academy. Protagonist positioned in environment.. Character expression: Composed observation. Pose: Standing surveying the surroundings. Background: martial academy with atmospheric perspective and perspective depth.",
+      "panel_composition": "[PANEL COMPOSITION] Camera Angle: eye_level. Framing: wide_shot. Lighting: Clean key light with soft fill. Composition Notes: wide_shot focusing on visual storytelling with clean speech bubble clearance.",
+      "negative_constraints": "photorealistic, 3d render, western superhero comic style, deformed hands, missing fingers, extra limbs, inconsistent costume colors, blurry line art, unrendered background, bad anatomy, text on base artwork"
+    },
+    "reference_mode": "style_only",
+    "provider_tier": "LOCAL_ZERO_COST",
+    "provider_name": "Inkstone Zero-Cost Renderer",
+    "seed": 2279809,
+    "cached": false,
+    "cache_key": "ecb0fbbbd4c5ed20b9fdebc5",
+    "continuity": {
+      "previous_characters": [],
+      "environment": "martial academy",
+      "lighting": "Clean key light with soft fill",
+      "active_style_version": 1
+    },
+    "drift_check": {
+      "has_drift": false,
+      "drift_type": "none",
+      "status": "APPROVED",
+      "style_drift_reasons": [],
+      "character_drift_reasons": [],
+      "confidence": 0.95
+    },
+    "lettering": {
+      "bubbles": [
+        {
+          "id": "bubble_1_dlg_scene_ch1_s1_1",
+          "type": "whisper",
+          "speaker": "Protagonist",
+          "text": "Three hundred years... I have returned,",
+          "x": 24,
+          "y": 14,
+          "size": "medium",
+          "tail_direction": "left",
+          "tail_x": 16,
+          "tail_y": 26,
+          "language": "en"
+        }
+      ],
+      "sfx": [],
+      "svg_overlay": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 800 1100\" width=\"100%\" height=\"100%\" dir=\"ltr\" style=\"position:absolute;top:0;left:0;pointer-events:none;\">\n      \n        <g id=\"bubble_1_dlg_scene_ch1_s1_1\" class=\"lettering-bubble\" data-bubble-id=\"bubble_1_dlg_scene_ch1_s1_1\">\n          <ellipse cx=\"192\" cy=\"154\" rx=\"90\" ry=\"37.5\" fill=\"rgba(255,255,255,0.92)\" stroke=\"#71717a\" stroke-width=\"2\" stroke-dasharray=\"6,4\" />\n          <text x=\"192\" y=\"128.5\" text-anchor=\"middle\" font-family=\"'Bangers', 'Comic Neue', 'Arial Black', sans-serif\" font-size=\"9\" font-weight=\"bold\" fill=\"#64748b\" direction=\"ltr\">[Protagonist]</text>\n          <text x=\"192\" y=\"158\" text-anchor=\"middle\" font-family=\"'Bangers', 'Comic Neue', 'Arial Black', sans-serif\" font-size=\"12\" font-weight=\"600\"\n                fill=\"#09090b\" direction=\"ltr\" style=\"white-space: pre-wrap; word-break: break-word;\">\n            Three hundred years... I have returned,\n          </text>\n        </g>\n    </svg>",
+      "language": "en",
+      "updated_at": 1790945780190
+    },
+    "character_locks_applied": [
+      "Li Yunxiao"
+    ],
+    "style_lock_id": "style_4c995e4b",
+    "style_version": 1,
+    "is_locked": false,
+    "user_edited": false,
+    "created_at": 1790945780190,
+    "updated_at": 1790945780190
+  },
+  "aba96a9da9b22f7669c4ed2e": {
+    "panel_id": "p_ch1_s1_1",
+    "novel_id": "nv_00ab8fe2-8",
+    "chapter_number": 1,
+    "scene_id": "scene_ch1_s1",
+    "page_or_strip_id": "strip_01",
+    "global_panel_number": 1,
+    "status": "COMPLETE",
+    "image_url": "/api/novels/nv_00ab8fe2-8/panels/files/ch01_p_ch1_s1_1.png",
+    "aspect_ratio": "3:4",
+    "input_layers": {
+      "character_constraints": "[CHARACTER: Protagonist] Native novel depiction, neutral manga character design.",
+      "style_constraints": "[VISUAL STYLE: The Eternal Supreme v1] Line Art: Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework thickness, High-clarity xianxia martial arts line work with sharp dynamic taper density, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition. Color Mode: full_color. Shading: Dimensional multi-layer cel-shading with glowing emissive rim lighting, shadows: Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, contrast: High dramatic contrast between deep environmental shadows and radiant spiritual energy. Rendering: Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases. Effects: Radial convergence lines focused on martial strikes, explosive kinetic shockwave bursts, Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence. Mood: Majestic, domineering, mystical, high-stakes cultivation martial grandeur.",
+      "story_constraints": "[STORY BEAT] Scene at martial academy. Action: Establishing shot of martial academy. Protagonist positioned in environment.. Character expression: Composed observation. Pose: Standing surveying the surroundings. Background: martial academy with atmospheric perspective and perspective depth.",
+      "panel_composition": "[PANEL COMPOSITION] Camera Angle: eye_level. Framing: wide_shot. Lighting: Clean key light with soft fill. Composition Notes: wide_shot focusing on visual storytelling with clean speech bubble clearance.",
+      "negative_constraints": "photorealistic, 3d render, western superhero comic style, deformed hands, missing fingers, extra limbs, inconsistent costume colors, blurry line art, unrendered background, bad anatomy, text on base artwork"
+    },
+    "reference_mode": "style_only",
+    "provider_tier": "LOCAL_ZERO_COST",
+    "provider_name": "Inkstone Zero-Cost Renderer",
+    "seed": 5873688,
+    "cached": false,
+    "cache_key": "aba96a9da9b22f7669c4ed2e",
+    "continuity": {
+      "previous_characters": [],
+      "environment": "martial academy",
+      "lighting": "Clean key light with soft fill",
+      "active_style_version": 1
+    },
+    "drift_check": {
+      "has_drift": false,
+      "drift_type": "none",
+      "status": "APPROVED",
+      "style_drift_reasons": [],
+      "character_drift_reasons": [],
+      "confidence": 0.95
+    },
+    "lettering": {
+      "bubbles": [
+        {
+          "id": "bubble_1_dlg_scene_ch1_s1_1",
+          "type": "whisper",
+          "speaker": "Protagonist",
+          "text": "Three hundred years... I have returned,",
+          "x": 24,
+          "y": 14,
+          "size": "medium",
+          "tail_direction": "left",
+          "tail_x": 16,
+          "tail_y": 26,
+          "language": "en"
+        }
+      ],
+      "sfx": [],
+      "svg_overlay": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 800 1100\" width=\"100%\" height=\"100%\" dir=\"ltr\" style=\"position:absolute;top:0;left:0;pointer-events:none;\">\n      \n        <g id=\"bubble_1_dlg_scene_ch1_s1_1\" class=\"lettering-bubble\" data-bubble-id=\"bubble_1_dlg_scene_ch1_s1_1\">\n          <ellipse cx=\"192\" cy=\"154\" rx=\"90\" ry=\"37.5\" fill=\"rgba(255,255,255,0.92)\" stroke=\"#71717a\" stroke-width=\"2\" stroke-dasharray=\"6,4\" />\n          <text x=\"192\" y=\"128.5\" text-anchor=\"middle\" font-family=\"'Bangers', 'Comic Neue', 'Arial Black', sans-serif\" font-size=\"9\" font-weight=\"bold\" fill=\"#64748b\" direction=\"ltr\">[Protagonist]</text>\n          <text x=\"192\" y=\"158\" text-anchor=\"middle\" font-family=\"'Bangers', 'Comic Neue', 'Arial Black', sans-serif\" font-size=\"12\" font-weight=\"600\"\n                fill=\"#09090b\" direction=\"ltr\" style=\"white-space: pre-wrap; word-break: break-word;\">\n            Three hundred years... I have returned,\n          </text>\n        </g>\n    </svg>",
+      "language": "en",
+      "updated_at": 1790945780204
+    },
+    "character_locks_applied": [
+      "Li Yunxiao"
+    ],
+    "style_lock_id": "style_4c995e4b",
+    "style_version": 1,
+    "is_locked": false,
+    "user_edited": false,
+    "created_at": 1790945780204,
+    "updated_at": 1790945780204
+  },
+  "3fa3e46606d9eb99e58188de": {
+    "panel_id": "p_ch1_s1_2",
+    "novel_id": "nv_00ab8fe2-8",
+    "chapter_number": 1,
+    "scene_id": "scene_ch1_s1",
+    "page_or_strip_id": "strip_01",
+    "global_panel_number": 2,
+    "status": "COMPLETE",
+    "image_url": "/api/novels/nv_00ab8fe2-8/panels/files/ch01_p_ch1_s1_2.png",
+    "aspect_ratio": "3:4",
+    "input_layers": {
+      "character_constraints": "[CHARACTER: Protagonist] Native novel depiction, neutral manga character design.",
+      "style_constraints": "[VISUAL STYLE: The Eternal Supreme v1] Line Art: Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework thickness, High-clarity xianxia martial arts line work with sharp dynamic taper density, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition. Color Mode: full_color. Shading: Dimensional multi-layer cel-shading with glowing emissive rim lighting, shadows: Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, contrast: High dramatic contrast between deep environmental shadows and radiant spiritual energy. Rendering: Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases. Effects: Radial convergence lines focused on martial strikes, explosive kinetic shockwave bursts, Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence. Mood: Majestic, domineering, mystical, high-stakes cultivation martial grandeur.",
+      "story_constraints": "[STORY BEAT] Scene at martial academy. Action: Close-up reaction on Protagonist.. Character expression: Firm, stoic resolve. Pose: Subtle head turn, hair catching wind. Background: martial academy with atmospheric perspective and perspective depth. [CONTINUITY from p_ch1_s1_1] Environmental consistency: martial academy. Lighting: Clean key light with soft fill. Active character continuity: Li Yunxiao (same canonical costume, equipped).",
+      "panel_composition": "[PANEL COMPOSITION] Camera Angle: eye_level. Framing: close_up. Lighting: Clean key light with soft fill. Composition Notes: close_up focusing on visual storytelling with clean speech bubble clearance.",
+      "negative_constraints": "photorealistic, 3d render, western superhero comic style, deformed hands, missing fingers, extra limbs, inconsistent costume colors, blurry line art, unrendered background, bad anatomy, text on base artwork"
+    },
+    "reference_mode": "style_only",
+    "provider_tier": "LOCAL_ZERO_COST",
+    "provider_name": "Inkstone Zero-Cost Renderer",
+    "seed": 528845,
+    "cached": false,
+    "cache_key": "3fa3e46606d9eb99e58188de",
+    "continuity": {
+      "previous_panel_id": "p_ch1_s1_1",
+      "previous_characters": [
+        {
+          "name": "Li Yunxiao",
+          "costume_state": "same canonical costume",
+          "weapon_state": "equipped"
+        }
+      ],
+      "environment": "martial academy",
+      "lighting": "Clean key light with soft fill",
+      "active_style_version": 1
+    },
+    "drift_check": {
+      "has_drift": false,
+      "drift_type": "none",
+      "status": "APPROVED",
+      "style_drift_reasons": [],
+      "character_drift_reasons": [],
+      "confidence": 0.95
+    },
+    "lettering": {
+      "bubbles": [
+        {
+          "id": "bubble_1_dlg_scene_ch1_s1_2",
+          "type": "shout",
+          "speaker": "Protagonist",
+          "text": "Show your cultivation technique!",
+          "x": 24,
+          "y": 10,
+          "size": "small",
+          "tail_direction": "left",
+          "tail_x": 16,
+          "tail_y": 26,
+          "language": "en"
+        }
+      ],
+      "sfx": [],
+      "svg_overlay": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 800 1100\" width=\"100%\" height=\"100%\" dir=\"ltr\" style=\"position:absolute;top:0;left:0;pointer-events:none;\">\n      \n        <g id=\"bubble_1_dlg_scene_ch1_s1_2\" class=\"lettering-bubble\" data-bubble-id=\"bubble_1_dlg_scene_ch1_s1_2\">\n          <polygon points=\"278,110 254,116 269,126 242,127 246,138 220,134 211,145 192,137 173,145 164,134 138,138 142,127 115,126 130,116 106,110 130,104 115,94 142,93 138,82 164,86 173,75 192,83 211,75 220,86 246,82 242,93 269,94 254,104\" fill=\"#ffffff\" stroke=\"#e11d48\" stroke-width=\"3.5\" filter=\"drop-shadow(2px 3px 0px rgba(0,0,0,0.3))\" />\n          <text x=\"192\" y=\"94.5\" text-anchor=\"middle\" font-family=\"'Bangers', 'Comic Neue', 'Arial Black', sans-serif\" font-size=\"9\" font-weight=\"bold\" fill=\"#64748b\" direction=\"ltr\">[Protagonist]</text>\n          <text x=\"192\" y=\"114\" text-anchor=\"middle\" font-family=\"'Bangers', 'Comic Neue', 'Arial Black', sans-serif\" font-size=\"12\" font-weight=\"600\"\n                fill=\"#09090b\" direction=\"ltr\" style=\"white-space: pre-wrap; word-break: break-word;\">\n            Show your cultivation technique!\n          </text>\n        </g>\n    </svg>",
+      "language": "en",
+      "updated_at": 1790945780207
+    },
+    "character_locks_applied": [
+      "Li Yunxiao"
+    ],
+    "style_lock_id": "style_4c995e4b",
+    "style_version": 1,
+    "is_locked": false,
+    "user_edited": false,
+    "created_at": 1790945780207,
+    "updated_at": 1790945780207
+  }
+}

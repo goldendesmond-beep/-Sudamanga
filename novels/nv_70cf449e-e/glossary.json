@@ -1,0 +1,38 @@
+[
+  {
+    "id": "gloss_eleanor",
+    "category": "character",
+    "source_term": "Eleanor",
+    "en_term": "Eleanor",
+    "ar_term": "Eleanor",
+    "confidence": "CONFIRMED_FROM_NOVEL",
+    "last_updated_chapter": 1
+  },
+  {
+    "category": "artifact",
+    "source_term": "Starstone",
+    "en_term": "Starstone",
+    "ar_term": "حجر النجوم الأثري",
+    "confidence": "USER_EDITED",
+    "last_updated_chapter": 1,
+    "id": "term_1b397b28"
+  },
+  {
+    "id": "gloss_gareth",
+    "category": "character",
+    "source_term": "Gareth",
+    "en_term": "Gareth",
+    "ar_term": "Gareth",
+    "confidence": "CONFIRMED_FROM_NOVEL",
+    "last_updated_chapter": 2
+  },
+  {
+    "category": "character",
+    "source_term": "The Silver Knight",
+    "en_term": "The Silver Knight",
+    "ar_term": "الفارس الفضي",
+    "confidence": "AI_INFERRED",
+    "last_updated_chapter": 1,
+    "id": "term_a79449b8"
+  }
+]

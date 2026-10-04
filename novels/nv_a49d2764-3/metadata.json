@@ -1,0 +1,18 @@
+{
+  "id": "nv_a49d2764-3",
+  "title": "fursan_al_sahra",
+  "filename": "fursan_al_sahra.txt",
+  "format": "txt",
+  "file_size": 788,
+  "language": "Arabic (ar)",
+  "detected_chapter_count": 2,
+  "approx_word_count": 88,
+  "approx_char_count": 441,
+  "warnings": [],
+  "duplicate_chapters": [],
+  "missing_chapters": [],
+  "custom_pattern": null,
+  "created_at": 1790695733151,
+  "updated_at": 1790695733224,
+  "output_language": "ar"
+}

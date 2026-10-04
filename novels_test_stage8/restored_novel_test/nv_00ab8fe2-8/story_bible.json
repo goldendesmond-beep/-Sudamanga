@@ -1,0 +1,120 @@
+{
+  "novel_id": "nv_00ab8fe2-8",
+  "last_processed_chapter": 1,
+  "characters": {
+    "lead_protagonist": {
+      "id": "lead_protagonist",
+      "canonical_name": {
+        "value": "Lead Protagonist",
+        "confidence": "CONFIRMED_FROM_NOVEL",
+        "source_chapter": 1,
+        "last_updated_chapter": 1
+      },
+      "aliases": {
+        "value": [],
+        "confidence": "CONFIRMED_FROM_NOVEL",
+        "source_chapter": 1,
+        "last_updated_chapter": 1
+      },
+      "gender": {
+        "value": null,
+        "confidence": "AI_INFERRED",
+        "source_chapter": 1,
+        "last_updated_chapter": 1
+      },
+      "age": {
+        "value": null,
+        "confidence": "AI_INFERRED",
+        "source_chapter": 1,
+        "last_updated_chapter": 1
+      },
+      "appearance": {
+        "physical": {
+          "value": "Distinctive traits, keen gaze",
+          "confidence": "CONFIRMED_FROM_NOVEL",
+          "source_chapter": 1,
+          "last_updated_chapter": 1
+        },
+        "hairstyle": {
+          "value": "Dark wavy hair",
+          "confidence": "CONFIRMED_FROM_NOVEL",
+          "source_chapter": 1,
+          "last_updated_chapter": 1
+        },
+        "clothing": {
+          "value": "Traveler cloak and boots",
+          "confidence": "CONFIRMED_FROM_NOVEL",
+          "source_chapter": 1,
+          "last_updated_chapter": 1
+        }
+      },
+      "personality": {
+        "value": "Resolute and perceptive",
+        "confidence": "CONFIRMED_FROM_NOVEL",
+        "source_chapter": 1,
+        "last_updated_chapter": 1
+      },
+      "role": {
+        "value": "Protagonist",
+        "confidence": "CONFIRMED_FROM_NOVEL",
+        "source_chapter": 1,
+        "last_updated_chapter": 1
+      },
+      "faction": {
+        "value": null,
+        "confidence": "AI_INFERRED",
+        "source_chapter": 1,
+        "last_updated_chapter": 1
+      },
+      "abilities": {
+        "value": [],
+        "confidence": "CONFIRMED_FROM_NOVEL",
+        "source_chapter": 1,
+        "last_updated_chapter": 1
+      },
+      "weapons": {
+        "value": [],
+        "confidence": "CONFIRMED_FROM_NOVEL",
+        "source_chapter": 1,
+        "last_updated_chapter": 1
+      },
+      "possessions": {
+        "value": [],
+        "confidence": "CONFIRMED_FROM_NOVEL",
+        "source_chapter": 1,
+        "last_updated_chapter": 1
+      },
+      "current_status": {
+        "value": "Active in narrative",
+        "confidence": "CONFIRMED_FROM_NOVEL",
+        "source_chapter": 1,
+        "last_updated_chapter": 1
+      },
+      "last_known_location": {
+        "value": null,
+        "confidence": "AI_INFERRED",
+        "source_chapter": 1,
+        "last_updated_chapter": 1
+      },
+      "first_appearance": 1,
+      "latest_chapter": 1
+    }
+  },
+  "locations": {},
+  "factions": {},
+  "powers": {},
+  "objects": {},
+  "relationships": {},
+  "timeline": [
+    {
+      "id": "evt_c1_1790945780186",
+      "chapter": 1,
+      "summary": "Chapter 1: Sovereign Awakening Li Yunxiao opened his eyes within the martial academy. Memories of Gu Feiyang surged like a tidal wave. \"Three hundred years... I",
+      "participants": [
+        "Lead Protagonist"
+      ],
+      "timestamp": 1790945780186
+    }
+  ],
+  "updated_at": 1790945780186
+}

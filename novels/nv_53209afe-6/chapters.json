@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ch_0001_1",
+    "number": 1,
+    "title": "الفصل 1 — طريق الأمل",
+    "start_offset": 69,
+    "end_offset": 373,
+    "char_count": 304,
+    "word_count": 61,
+    "status": "NOT_PROCESSED",
+    "last_update": 1790692173505,
+    "output_available": false
+  },
+  {
+    "id": "ch_0002_2",
+    "number": 2,
+    "title": "第2章 风云再起",
+    "start_offset": 373,
+    "end_offset": 665,
+    "char_count": 292,
+    "word_count": 292,
+    "status": "NOT_PROCESSED",
+    "last_update": 1790692173505,
+    "output_available": false
+  },
+  {
+    "id": "ch_0003_3",
+    "number": 3,
+    "title": "CHAPTER 003",
+    "start_offset": 665,
+    "end_offset": 960,
+    "char_count": 295,
+    "word_count": 59,
+    "status": "NOT_PROCESSED",
+    "last_update": 1790692173505,
+    "output_available": false
+  },
+  {
+    "id": "ch_0004_4",
+    "number": 4,
+    "title": "## Volume 1 Chapter 4",
+    "start_offset": 960,
+    "end_offset": 1265,
+    "char_count": 305,
+    "word_count": 61,
+    "status": "NOT_PROCESSED",
+    "last_update": 1790692173505,
+    "output_available": false
+  },
+  {
+    "id": "ch_0005_5",
+    "number": 5,
+    "title": "Ch. 5: Dawn of Light",
+    "start_offset": 1265,
+    "end_offset": 1569,
+    "char_count": 304,
+    "word_count": 61,
+    "status": "NOT_PROCESSED",
+    "last_update": 1790692173505,
+    "output_available": false
+  },
+  {
+    "id": "ch_0006_6",
+    "number": 6,
+    "title": "Chapter 6: The Journey Forward",
+    "start_offset": 1569,
+    "end_offset": 1883,
+    "char_count": 314,
+    "word_count": 63,
+    "status": "NOT_PROCESSED",
+    "last_update": 1790692173505,
+    "output_available": false
+  },
+  {
+    "id": "ch_0007_7",
+    "number": 7,
+    "title": "الفصل 7 — طريق الأمل",
+    "start_offset": 1883,
+    "end_offset": 2187,
+    "char_count": 304,
+    "word_count": 61,
+    "status": "NOT_PROCESSED",
+    "last_update": 1790692173505,
+    "output_available": false
+  },
+  {
+    "id": "ch_0008_8",
+    "number": 8,
+    "title": "第8章 风云再起",
+    "start_offset": 2187,
+    "end_offset": 2479,
+    "char_count": 292,
+    "word_count": 292,
+    "status": "NOT_PROCESSED",
+    "last_update": 1790692173505,
+    "output_available": false
+  },
+  {
+    "id": "ch_0009_9",
+    "number": 9,
+    "title": "CHAPTER 009",
+    "start_offset": 2479,
+    "end_offset": 2774,
+    "char_count": 295,
+    "word_count": 59,
+    "status": "NOT_PROCESSED",
+    "last_update": 1790692173505,
+    "output_available": false
+  },
+  {
+    "id": "ch_0010_10",
+    "number": 10,
+    "title": "## Volume 1 Chapter 10",
+    "start_offset": 2774,
+    "end_offset": 3080,
+    "char_count": 306,
+    "word_count": 61,
+    "status": "NOT_PROCESSED",
+    "last_update": 1790692173505,
+    "output_available": false
+  }
+]

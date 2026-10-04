@@ -1,0 +1,17 @@
+{
+  "id": "nv_c15a9f4e-d",
+  "title": "Sovereign 2000",
+  "filename": "novel_2000.txt",
+  "format": "txt",
+  "file_size": 256705,
+  "language": "English (en)",
+  "detected_chapter_count": 2000,
+  "approx_word_count": 51341,
+  "approx_char_count": 256705,
+  "warnings": [],
+  "duplicate_chapters": [],
+  "missing_chapters": [],
+  "custom_pattern": null,
+  "created_at": 1790945780168,
+  "updated_at": 1790945780168
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ch_0001_1",
+    "number": 1,
+    "title": "Chapter 1\n\n  \n\n\nChapter 1: Chronicle of the Skies",
+    "start_offset": 0,
+    "end_offset": 182,
+    "char_count": 182,
+    "word_count": 36,
+    "status": "NOT_PROCESSED",
+    "last_update": 1790769234113,
+    "output_available": false
+  },
+  {
+    "id": "ch_0002_2",
+    "number": 2,
+    "title": "Chapter 2\n\n  \n\n\nChapter 2: Chronicle of the Skies",
+    "start_offset": 182,
+    "end_offset": 364,
+    "char_count": 182,
+    "word_count": 36,
+    "status": "NOT_PROCESSED",
+    "last_update": 1790769234113,
+    "output_available": false
+  },
+  {
+    "id": "ch_0003_3",
+    "number": 3,
+    "title": "Chapter 3\n\n  \n\n\nChapter 3: Chronicle of the Skies",
+    "start_offset": 364,
+    "end_offset": 546,
+    "char_count": 182,
+    "word_count": 36,
+    "status": "NOT_PROCESSED",
+    "last_update": 1790769234113,
+    "output_available": false
+  },
+  {
+    "id": "ch_0004_4",
+    "number": 4,
+    "title": "Chapter 4\n\n  \n\n\nChapter 4: Chronicle of the Skies",
+    "start_offset": 546,
+    "end_offset": 728,
+    "char_count": 182,
+    "word_count": 36,
+    "status": "NOT_PROCESSED",
+    "last_update": 1790769234113,
+    "output_available": false
+  },
+  {
+    "id": "ch_0005_5",
+    "number": 5,
+    "title": "Chapter 5\n\n  \n\n\nChapter 5: Chronicle of the Skies",
+    "start_offset": 728,
+    "end_offset": 910,
+    "char_count": 182,
+    "word_count": 36,
+    "status": "NOT_PROCESSED",
+    "last_update": 1790769234113,
+    "output_available": false
+  },
+  {
+    "id": "ch_0006_6",
+    "number": 6,
+    "title": "Chapter 6\n\n  \n\n\nChapter 6: Chronicle of the Skies",
+    "start_offset": 910,
+    "end_offset": 1092,
+    "char_count": 182,
+    "word_count": 36,
+    "status": "NOT_PROCESSED",
+    "last_update": 1790769234113,
+    "output_available": false
+  },
+  {
+    "id": "ch_0007_7",
+    "number": 7,
+    "title": "Chapter 7\n\n  \n\n\nChapter 7: Chronicle of the Skies",
+    "start_offset": 1092,
+    "end_offset": 1274,
+    "char_count": 182,
+    "word_count": 36,
+    "status": "NOT_PROCESSED",
+    "last_update": 1790769234113,
+    "output_available": false
+  },
+  {
+    "id": "ch_0008_8",
+    "number": 8,
+    "title": "Chapter 8\n\n  \n\n\nChapter 8: Chronicle of the Skies",
+    "start_offset": 1274,
+    "end_offset": 1456,
+    "char_count": 182,
+    "word_count": 36,
+    "status": "NOT_PROCESSED",
+    "last_update": 1790769234113,
+    "output_available": false
+  },
+  {
+    "id": "ch_0009_9",
+    "number": 9,
+    "title": "Chapter 9\n\n  \n\n\nChapter 9: Chronicle of the Skies",
+    "start_offset": 1456,
+    "end_offset": 1638,
+    "char_count": 182,
+    "word_count": 36,
+    "status": "NOT_PROCESSED",
+    "last_update": 1790769234113,
+    "output_available": false
+  },
+  {
+    "id": "ch_0010_10",
+    "number": 10,
+    "title": "Chapter 10\n\n  \n\n\nChapter 10: Chronicle of the Skies",
+    "start_offset": 1638,
+    "end_offset": 1821,
+    "char_count": 183,
+    "word_count": 37,
+    "status": "NOT_PROCESSED",
+    "last_update": 1790769234113,
+    "output_available": false
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "name": "Inkstone — Turn Novels Into Comics",
+  "description": "Convert novels and stories into visual comics and webtoons with consistent characters and lettering.",
+  "prompt": "Turn novels and creative stories into visual comics and webtoons with consistent characters, automatic layout planning, and lettering.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

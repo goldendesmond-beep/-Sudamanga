@@ -1,0 +1,17 @@
+{
+  "id": "nv_9e21e979-3",
+  "title": "Chapter 1",
+  "filename": "novel_sample.epub",
+  "format": "epub",
+  "file_size": 1821,
+  "language": "English (en)",
+  "detected_chapter_count": 10,
+  "approx_word_count": 364,
+  "approx_char_count": 1821,
+  "warnings": [],
+  "duplicate_chapters": [],
+  "missing_chapters": [],
+  "custom_pattern": null,
+  "created_at": 1790944618087,
+  "updated_at": 1790944618087
+}

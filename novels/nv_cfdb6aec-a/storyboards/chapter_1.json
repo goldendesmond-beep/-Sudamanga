@@ -1,0 +1,752 @@
+{
+  "id": "sb_nv_cfdb6aec-a_ch1_1790864260409",
+  "novel_id": "nv_cfdb6aec-a",
+  "chapter_id": "1",
+  "chapter_number": 1,
+  "chapter_title": "Chapter 1",
+  "layout_mode": "vertical_webtoon",
+  "generation_mode": "FREE_FAST",
+  "scenes": [
+    {
+      "id": "scene_ch1_s1",
+      "scene_number": 1,
+      "location": "Setting",
+      "time_of_day": "Morning",
+      "participating_characters": [
+        "القائد",
+        "طارق"
+      ],
+      "action_summary": "الفصل 1: فجر الصحراء وقف القائد طارق على تلة الرمل يشاهد شروق الشمس فوق واحة النخيل. اقترب الفارس كريم ممسكاً بسيفه الدمشقي العريق.",
+      "dialogue": [],
+      "narration": [
+        "الفصل 1: فجر الصحراء وقف القائد طارق على تلة الرمل يشاهد شروق الشمس فوق واحة النخيل. اقترب الفارس كريم ممسكاً بسيفه الدمشقي العريق."
+      ],
+      "emotional_tone": "Intense kinetic combat",
+      "important_objects": [],
+      "powers_techniques": [],
+      "continuity_requirements": [
+        "Preserve character appearances in Setting"
+      ],
+      "story_bible_references": {
+        "character_ids": [
+          "القائد",
+          "طارق"
+        ]
+      }
+    }
+  ],
+  "pages": [
+    {
+      "page_id": "strip_01",
+      "page_number": 1,
+      "panels": [
+        {
+          "id": "p_ch1_s1_1",
+          "chapter_id": "1",
+          "chapter_number": 1,
+          "scene_id": "scene_ch1_s1",
+          "page_or_strip_id": "strip_01",
+          "panel_number_in_page": 1,
+          "global_panel_number": 1,
+          "characters": [
+            {
+              "name": "القائد",
+              "role": "Participant"
+            },
+            {
+              "name": "طارق",
+              "role": "Participant"
+            }
+          ],
+          "character_lock_ids": [],
+          "style_lock_id": "style_747aedf7",
+          "style_version": 1,
+          "location": "Setting",
+          "story_bible_references": [
+            "القائد",
+            "طارق"
+          ],
+          "action": "Establishing shot of Setting. القائد, طارق positioned in environment.",
+          "pose": "Standing surveying the surroundings",
+          "facial_expression": "Composed observation",
+          "camera_angle": "eye_level",
+          "framing": "wide_shot",
+          "background_detail": "Setting with atmospheric perspective and perspective depth",
+          "lighting": "Clean key light with soft fill",
+          "dialogue": [],
+          "narration_boxes": [
+            "الفصل 1: فجر الصحراء وقف القائد طارق على تلة الرمل يشاهد شروق الشمس فوق واحة النخيل. اقترب الفارس كريم ممسكاً بسيفه الدمشقي العريق."
+          ],
+          "sfx": [],
+          "composition_notes": "wide_shot focusing on visual storytelling with clean speech bubble clearance",
+          "prompt_payload": {
+            "positive_prompt": "Masterpiece comic panel, wide shot, eye level.\nScene: Establishing shot of Setting. القائد, طارق positioned in environment..\nCharacters: القائد, طارق. Expression: Composed observation. Pose: Standing surveying the surroundings.\nEnvironment: Setting, Morning lighting. Intense kinetic combat mood.\n[CHARACTER LOCK: Inactive or No Mapped Characters]\n[VISUAL STYLE PROFILE: Solo Leveling (Version 1)]\n• Line Art: Medium-high density, Variable crisp tapering ink lines, Ultra-clean digital vector-assisted\n• Proportions: Elongated angular manhwa aesthetics, Sleek narrow almond, Heroic elongated athletic manhwa proportions\n• Color & Rendering: FULL_COLOR, Smooth cel-shaded planes with glossy edge highlights, Creased modern streetwear & stylized tactical coats\n• Shading & Contrast: Rich gradient cel-shading with glowing specular highlights, Deep pitch blacks contrasting neon emissives, High dramatic contrast\n• Effects & Energy: Swirling ethereal violet and blue smoke tendrils, Violent slashing energy arcs with dissipating sparks\n• Cinematography: Extreme low-angle Dutch tilts looking up at towering figures, Vertical scrolling webtoon composition with full-body hero shots, Dark, thrilling, overpowered, electrifying action (Density: Sparse vertical spacing for pacing flow)",
+            "negative_prompt": "blurry, distorted anatomy, missing limbs, altered costume colors, deformed eyes, flat lighting, amateur line art, style drift",
+            "character_lock_block": "[CHARACTER LOCK: Inactive or No Mapped Characters]",
+            "style_lock_block": "[VISUAL STYLE PROFILE: Solo Leveling (Version 1)]\n• Line Art: Medium-high density, Variable crisp tapering ink lines, Ultra-clean digital vector-assisted\n• Proportions: Elongated angular manhwa aesthetics, Sleek narrow almond, Heroic elongated athletic manhwa proportions\n• Color & Rendering: FULL_COLOR, Smooth cel-shaded planes with glossy edge highlights, Creased modern streetwear & stylized tactical coats\n• Shading & Contrast: Rich gradient cel-shading with glowing specular highlights, Deep pitch blacks contrasting neon emissives, High dramatic contrast\n• Effects & Energy: Swirling ethereal violet and blue smoke tendrils, Violent slashing energy arcs with dissipating sparks\n• Cinematography: Extreme low-angle Dutch tilts looking up at towering figures, Vertical scrolling webtoon composition with full-body hero shots, Dark, thrilling, overpowered, electrifying action (Density: Sparse vertical spacing for pacing flow)"
+          },
+          "status": "EDITED",
+          "user_edited": true,
+          "created_at": 1790864260408,
+          "updated_at": 1790864261416,
+          "image_url": "/api/novels/nv_cfdb6aec-a/panels/files/ch01_p_ch1_s1_1.png",
+          "drift_status": {
+            "has_drift": false,
+            "drift_type": "none",
+            "drift_reasons": []
+          },
+          "lettering": {
+            "bubbles": [],
+            "sfx": [],
+            "svg_overlay": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 800 1100\" width=\"100%\" height=\"100%\" style=\"position:absolute;top:0;left:0;pointer-events:none;\">\n      \n    </svg>",
+            "language": "ar",
+            "updated_at": 1790864261414
+          }
+        },
+        {
+          "id": "p_ch1_s1_2",
+          "chapter_id": "1",
+          "chapter_number": 1,
+          "scene_id": "scene_ch1_s1",
+          "page_or_strip_id": "strip_01",
+          "panel_number_in_page": 2,
+          "global_panel_number": 2,
+          "characters": [
+            {
+              "name": "القائد",
+              "role": "Participant"
+            },
+            {
+              "name": "طارق",
+              "role": "Participant"
+            }
+          ],
+          "character_lock_ids": [],
+          "style_lock_id": "style_747aedf7",
+          "style_version": 1,
+          "location": "Setting",
+          "story_bible_references": [
+            "القائد",
+            "طارق"
+          ],
+          "action": "القائد launches dynamic strike with weapon.",
+          "pose": "Low dynamic combat stance, momentum forward",
+          "facial_expression": "Fierce battle cry, sharp intense eyes",
+          "camera_angle": "low_angle",
+          "framing": "medium_shot",
+          "background_detail": "Setting with atmospheric perspective and perspective depth",
+          "lighting": "Clean key light with soft fill",
+          "dialogue": [],
+          "narration_boxes": [],
+          "sfx": [
+            {
+              "text": "SLASH!",
+              "placement": "diagonal across weapon arc",
+              "style": "bold kinetic"
+            }
+          ],
+          "composition_notes": "medium_shot focusing on visual storytelling with clean speech bubble clearance",
+          "prompt_payload": {
+            "positive_prompt": "Masterpiece comic panel, medium shot, low angle.\nScene: القائد launches dynamic strike with weapon..\nCharacters: القائد, طارق. Expression: Fierce battle cry, sharp intense eyes. Pose: Low dynamic combat stance, momentum forward.\nEnvironment: Setting, Morning lighting. Intense kinetic combat mood.\n[CHARACTER LOCK: Inactive or No Mapped Characters]\n[VISUAL STYLE PROFILE: Solo Leveling (Version 1)]\n• Line Art: Medium-high density, Variable crisp tapering ink lines, Ultra-clean digital vector-assisted\n• Proportions: Elongated angular manhwa aesthetics, Sleek narrow almond, Heroic elongated athletic manhwa proportions\n• Color & Rendering: FULL_COLOR, Smooth cel-shaded planes with glossy edge highlights, Creased modern streetwear & stylized tactical coats\n• Shading & Contrast: Rich gradient cel-shading with glowing specular highlights, Deep pitch blacks contrasting neon emissives, High dramatic contrast\n• Effects & Energy: Swirling ethereal violet and blue smoke tendrils, Violent slashing energy arcs with dissipating sparks\n• Cinematography: Extreme low-angle Dutch tilts looking up at towering figures, Vertical scrolling webtoon composition with full-body hero shots, Dark, thrilling, overpowered, electrifying action (Density: Sparse vertical spacing for pacing flow)",
+            "negative_prompt": "blurry, distorted anatomy, missing limbs, altered costume colors, deformed eyes, flat lighting, amateur line art, style drift",
+            "character_lock_block": "[CHARACTER LOCK: Inactive or No Mapped Characters]",
+            "style_lock_block": "[VISUAL STYLE PROFILE: Solo Leveling (Version 1)]\n• Line Art: Medium-high density, Variable crisp tapering ink lines, Ultra-clean digital vector-assisted\n• Proportions: Elongated angular manhwa aesthetics, Sleek narrow almond, Heroic elongated athletic manhwa proportions\n• Color & Rendering: FULL_COLOR, Smooth cel-shaded planes with glossy edge highlights, Creased modern streetwear & stylized tactical coats\n• Shading & Contrast: Rich gradient cel-shading with glowing specular highlights, Deep pitch blacks contrasting neon emissives, High dramatic contrast\n• Effects & Energy: Swirling ethereal violet and blue smoke tendrils, Violent slashing energy arcs with dissipating sparks\n• Cinematography: Extreme low-angle Dutch tilts looking up at towering figures, Vertical scrolling webtoon composition with full-body hero shots, Dark, thrilling, overpowered, electrifying action (Density: Sparse vertical spacing for pacing flow)"
+          },
+          "status": "EDITED",
+          "user_edited": true,
+          "created_at": 1790864260408,
+          "updated_at": 1790864261420,
+          "image_url": "/api/novels/nv_cfdb6aec-a/panels/files/ch01_p_ch1_s1_2.png",
+          "drift_status": {
+            "has_drift": false,
+            "drift_type": "none",
+            "drift_reasons": []
+          },
+          "lettering": {
+            "bubbles": [],
+            "sfx": [
+              {
+                "id": "sfx_1",
+                "text": "SLASH!",
+                "x": 60,
+                "y": 48,
+                "rotation": -12,
+                "style": "manga_action",
+                "language": "ar"
+              }
+            ],
+            "svg_overlay": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 800 1100\" width=\"100%\" height=\"100%\" style=\"position:absolute;top:0;left:0;pointer-events:none;\">\n      \n        <g transform=\"translate(480, 528) rotate(-12)\">\n          <text text-anchor=\"middle\" font-family=\"'Amiri', 'Scheherazade New', 'Tahoma', sans-serif\" font-weight=\"900\" font-size=\"34\"\n                fill=\"#ffdd00\" stroke=\"#111111\" stroke-width=\"4\" stroke-linejoin=\"round\"\n                filter=\"drop-shadow(3px 5px 0px rgba(0,0,0,0.85))\">SLASH!</text>\n        </g>\n    </svg>",
+            "language": "ar",
+            "updated_at": 1790864261418
+          }
+        },
+        {
+          "id": "p_ch1_s1_3",
+          "chapter_id": "1",
+          "chapter_number": 1,
+          "scene_id": "scene_ch1_s1",
+          "page_or_strip_id": "strip_01",
+          "panel_number_in_page": 3,
+          "global_panel_number": 3,
+          "characters": [
+            {
+              "name": "القائد",
+              "role": "Participant"
+            },
+            {
+              "name": "طارق",
+              "role": "Participant"
+            }
+          ],
+          "character_lock_ids": [],
+          "style_lock_id": "style_747aedf7",
+          "style_version": 1,
+          "location": "Setting",
+          "story_bible_references": [
+            "القائد",
+            "طارق"
+          ],
+          "action": "Shockwave impact as blade connects, energy sparks flying.",
+          "pose": "Mid-collision tension",
+          "facial_expression": "Strained exertion",
+          "camera_angle": "dutch_tilt",
+          "framing": "cut_in",
+          "background_detail": "Setting with atmospheric perspective and perspective depth",
+          "lighting": "Clean key light with soft fill",
+          "dialogue": [],
+          "narration_boxes": [],
+          "sfx": [
+            {
+              "text": "BOOM!",
+              "placement": "center burst",
+              "style": "heavy impact"
+            }
+          ],
+          "composition_notes": "cut_in focusing on visual storytelling with clean speech bubble clearance",
+          "prompt_payload": {
+            "positive_prompt": "Masterpiece comic panel, cut in, dutch tilt.\nScene: Shockwave impact as blade connects, energy sparks flying..\nCharacters: القائد, طارق. Expression: Strained exertion. Pose: Mid-collision tension.\nEnvironment: Setting, Morning lighting. Intense kinetic combat mood.\n[CHARACTER LOCK: Inactive or No Mapped Characters]\n[VISUAL STYLE PROFILE: Solo Leveling (Version 1)]\n• Line Art: Medium-high density, Variable crisp tapering ink lines, Ultra-clean digital vector-assisted\n• Proportions: Elongated angular manhwa aesthetics, Sleek narrow almond, Heroic elongated athletic manhwa proportions\n• Color & Rendering: FULL_COLOR, Smooth cel-shaded planes with glossy edge highlights, Creased modern streetwear & stylized tactical coats\n• Shading & Contrast: Rich gradient cel-shading with glowing specular highlights, Deep pitch blacks contrasting neon emissives, High dramatic contrast\n• Effects & Energy: Swirling ethereal violet and blue smoke tendrils, Violent slashing energy arcs with dissipating sparks\n• Cinematography: Extreme low-angle Dutch tilts looking up at towering figures, Vertical scrolling webtoon composition with full-body hero shots, Dark, thrilling, overpowered, electrifying action (Density: Sparse vertical spacing for pacing flow)",
+            "negative_prompt": "blurry, distorted anatomy, missing limbs, altered costume colors, deformed eyes, flat lighting, amateur line art, style drift",
+            "character_lock_block": "[CHARACTER LOCK: Inactive or No Mapped Characters]",
+            "style_lock_block": "[VISUAL STYLE PROFILE: Solo Leveling (Version 1)]\n• Line Art: Medium-high density, Variable crisp tapering ink lines, Ultra-clean digital vector-assisted\n• Proportions: Elongated angular manhwa aesthetics, Sleek narrow almond, Heroic elongated athletic manhwa proportions\n• Color & Rendering: FULL_COLOR, Smooth cel-shaded planes with glossy edge highlights, Creased modern streetwear & stylized tactical coats\n• Shading & Contrast: Rich gradient cel-shading with glowing specular highlights, Deep pitch blacks contrasting neon emissives, High dramatic contrast\n• Effects & Energy: Swirling ethereal violet and blue smoke tendrils, Violent slashing energy arcs with dissipating sparks\n• Cinematography: Extreme low-angle Dutch tilts looking up at towering figures, Vertical scrolling webtoon composition with full-body hero shots, Dark, thrilling, overpowered, electrifying action (Density: Sparse vertical spacing for pacing flow)"
+          },
+          "status": "EDITED",
+          "user_edited": true,
+          "created_at": 1790864260408,
+          "updated_at": 1790864261424,
+          "image_url": "/api/novels/nv_cfdb6aec-a/panels/files/ch01_p_ch1_s1_3.png",
+          "drift_status": {
+            "has_drift": false,
+            "drift_type": "none",
+            "drift_reasons": []
+          },
+          "lettering": {
+            "bubbles": [],
+            "sfx": [
+              {
+                "id": "sfx_1",
+                "text": "BOOM!",
+                "x": 60,
+                "y": 48,
+                "rotation": -12,
+                "style": "manga_action",
+                "language": "ar"
+              }
+            ],
+            "svg_overlay": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 800 1100\" width=\"100%\" height=\"100%\" style=\"position:absolute;top:0;left:0;pointer-events:none;\">\n      \n        <g transform=\"translate(480, 528) rotate(-12)\">\n          <text text-anchor=\"middle\" font-family=\"'Amiri', 'Scheherazade New', 'Tahoma', sans-serif\" font-weight=\"900\" font-size=\"34\"\n                fill=\"#ffdd00\" stroke=\"#111111\" stroke-width=\"4\" stroke-linejoin=\"round\"\n                filter=\"drop-shadow(3px 5px 0px rgba(0,0,0,0.85))\">BOOM!</text>\n        </g>\n    </svg>",
+            "language": "ar",
+            "updated_at": 1790864261423
+          }
+        },
+        {
+          "id": "p_ch1_s1_4",
+          "chapter_id": "1",
+          "chapter_number": 1,
+          "scene_id": "scene_ch1_s1",
+          "page_or_strip_id": "strip_01",
+          "panel_number_in_page": 4,
+          "global_panel_number": 4,
+          "characters": [
+            {
+              "name": "القائد",
+              "role": "Participant"
+            },
+            {
+              "name": "طارق",
+              "role": "Participant"
+            }
+          ],
+          "character_lock_ids": [],
+          "style_lock_id": "style_747aedf7",
+          "style_version": 1,
+          "location": "Setting",
+          "story_bible_references": [
+            "القائد",
+            "طارق"
+          ],
+          "action": "Close-up reaction on القائد.",
+          "pose": "Subtle head turn, hair catching wind",
+          "facial_expression": "Firm, stoic resolve",
+          "camera_angle": "eye_level",
+          "framing": "close_up",
+          "background_detail": "Setting with atmospheric perspective and perspective depth",
+          "lighting": "Clean key light with soft fill",
+          "dialogue": [],
+          "narration_boxes": [],
+          "sfx": [],
+          "composition_notes": "close_up focusing on visual storytelling with clean speech bubble clearance",
+          "prompt_payload": {
+            "positive_prompt": "Masterpiece comic panel, close up, eye level.\nScene: Close-up reaction on القائد..\nCharacters: القائد, طارق. Expression: Firm, stoic resolve. Pose: Subtle head turn, hair catching wind.\nEnvironment: Setting, Morning lighting. Intense kinetic combat mood.\n[CHARACTER LOCK: Inactive or No Mapped Characters]\n[VISUAL STYLE PROFILE: Solo Leveling (Version 1)]\n• Line Art: Medium-high density, Variable crisp tapering ink lines, Ultra-clean digital vector-assisted\n• Proportions: Elongated angular manhwa aesthetics, Sleek narrow almond, Heroic elongated athletic manhwa proportions\n• Color & Rendering: FULL_COLOR, Smooth cel-shaded planes with glossy edge highlights, Creased modern streetwear & stylized tactical coats\n• Shading & Contrast: Rich gradient cel-shading with glowing specular highlights, Deep pitch blacks contrasting neon emissives, High dramatic contrast\n• Effects & Energy: Swirling ethereal violet and blue smoke tendrils, Violent slashing energy arcs with dissipating sparks\n• Cinematography: Extreme low-angle Dutch tilts looking up at towering figures, Vertical scrolling webtoon composition with full-body hero shots, Dark, thrilling, overpowered, electrifying action (Density: Sparse vertical spacing for pacing flow)",
+            "negative_prompt": "blurry, distorted anatomy, missing limbs, altered costume colors, deformed eyes, flat lighting, amateur line art, style drift",
+            "character_lock_block": "[CHARACTER LOCK: Inactive or No Mapped Characters]",
+            "style_lock_block": "[VISUAL STYLE PROFILE: Solo Leveling (Version 1)]\n• Line Art: Medium-high density, Variable crisp tapering ink lines, Ultra-clean digital vector-assisted\n• Proportions: Elongated angular manhwa aesthetics, Sleek narrow almond, Heroic elongated athletic manhwa proportions\n• Color & Rendering: FULL_COLOR, Smooth cel-shaded planes with glossy edge highlights, Creased modern streetwear & stylized tactical coats\n• Shading & Contrast: Rich gradient cel-shading with glowing specular highlights, Deep pitch blacks contrasting neon emissives, High dramatic contrast\n• Effects & Energy: Swirling ethereal violet and blue smoke tendrils, Violent slashing energy arcs with dissipating sparks\n• Cinematography: Extreme low-angle Dutch tilts looking up at towering figures, Vertical scrolling webtoon composition with full-body hero shots, Dark, thrilling, overpowered, electrifying action (Density: Sparse vertical spacing for pacing flow)"
+          },
+          "status": "EDITED",
+          "user_edited": true,
+          "created_at": 1790864260408,
+          "updated_at": 1790864261429,
+          "image_url": "/api/novels/nv_cfdb6aec-a/panels/files/ch01_p_ch1_s1_4.png",
+          "drift_status": {
+            "has_drift": false,
+            "drift_type": "none",
+            "drift_reasons": []
+          },
+          "lettering": {
+            "bubbles": [],
+            "sfx": [],
+            "svg_overlay": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 800 1100\" width=\"100%\" height=\"100%\" style=\"position:absolute;top:0;left:0;pointer-events:none;\">\n      \n    </svg>",
+            "language": "ar",
+            "updated_at": 1790864261427
+          }
+        }
+      ]
+    }
+  ],
+  "panels": [
+    {
+      "id": "p_ch1_s1_1",
+      "chapter_id": "1",
+      "chapter_number": 1,
+      "scene_id": "scene_ch1_s1",
+      "page_or_strip_id": "strip_01",
+      "panel_number_in_page": 1,
+      "global_panel_number": 1,
+      "characters": [
+        {
+          "name": "القائد",
+          "role": "Participant"
+        },
+        {
+          "name": "طارق",
+          "role": "Participant"
+        }
+      ],
+      "character_lock_ids": [],
+      "style_lock_id": "style_747aedf7",
+      "style_version": 1,
+      "location": "Setting",
+      "story_bible_references": [
+        "القائد",
+        "طارق"
+      ],
+      "action": "Establishing shot of Setting. القائد, طارق positioned in environment.",
+      "pose": "Standing surveying the surroundings",
+      "facial_expression": "Composed observation",
+      "camera_angle": "eye_level",
+      "framing": "wide_shot",
+      "background_detail": "Setting with atmospheric perspective and perspective depth",
+      "lighting": "Clean key light with soft fill",
+      "dialogue": [],
+      "narration_boxes": [
+        "الفصل 1: فجر الصحراء وقف القائد طارق على تلة الرمل يشاهد شروق الشمس فوق واحة النخيل. اقترب الفارس كريم ممسكاً بسيفه الدمشقي العريق."
+      ],
+      "sfx": [],
+      "composition_notes": "wide_shot focusing on visual storytelling with clean speech bubble clearance",
+      "prompt_payload": {
+        "positive_prompt": "Masterpiece comic panel, wide shot, eye level.\nScene: Establishing shot of Setting. القائد, طارق positioned in environment..\nCharacters: القائد, طارق. Expression: Composed observation. Pose: Standing surveying the surroundings.\nEnvironment: Setting, Morning lighting. Intense kinetic combat mood.\n[CHARACTER LOCK: Inactive or No Mapped Characters]\n[VISUAL STYLE PROFILE: Solo Leveling (Version 1)]\n• Line Art: Medium-high density, Variable crisp tapering ink lines, Ultra-clean digital vector-assisted\n• Proportions: Elongated angular manhwa aesthetics, Sleek narrow almond, Heroic elongated athletic manhwa proportions\n• Color & Rendering: FULL_COLOR, Smooth cel-shaded planes with glossy edge highlights, Creased modern streetwear & stylized tactical coats\n• Shading & Contrast: Rich gradient cel-shading with glowing specular highlights, Deep pitch blacks contrasting neon emissives, High dramatic contrast\n• Effects & Energy: Swirling ethereal violet and blue smoke tendrils, Violent slashing energy arcs with dissipating sparks\n• Cinematography: Extreme low-angle Dutch tilts looking up at towering figures, Vertical scrolling webtoon composition with full-body hero shots, Dark, thrilling, overpowered, electrifying action (Density: Sparse vertical spacing for pacing flow)",
+        "negative_prompt": "blurry, distorted anatomy, missing limbs, altered costume colors, deformed eyes, flat lighting, amateur line art, style drift",
+        "character_lock_block": "[CHARACTER LOCK: Inactive or No Mapped Characters]",
+        "style_lock_block": "[VISUAL STYLE PROFILE: Solo Leveling (Version 1)]\n• Line Art: Medium-high density, Variable crisp tapering ink lines, Ultra-clean digital vector-assisted\n• Proportions: Elongated angular manhwa aesthetics, Sleek narrow almond, Heroic elongated athletic manhwa proportions\n• Color & Rendering: FULL_COLOR, Smooth cel-shaded planes with glossy edge highlights, Creased modern streetwear & stylized tactical coats\n• Shading & Contrast: Rich gradient cel-shading with glowing specular highlights, Deep pitch blacks contrasting neon emissives, High dramatic contrast\n• Effects & Energy: Swirling ethereal violet and blue smoke tendrils, Violent slashing energy arcs with dissipating sparks\n• Cinematography: Extreme low-angle Dutch tilts looking up at towering figures, Vertical scrolling webtoon composition with full-body hero shots, Dark, thrilling, overpowered, electrifying action (Density: Sparse vertical spacing for pacing flow)"
+      },
+      "status": "EDITED",
+      "user_edited": true,
+      "created_at": 1790864260408,
+      "updated_at": 1790864261416,
+      "image_url": "/api/novels/nv_cfdb6aec-a/panels/files/ch01_p_ch1_s1_1.png",
+      "drift_status": {
+        "has_drift": false,
+        "drift_type": "none",
+        "drift_reasons": []
+      },
+      "lettering": {
+        "bubbles": [],
+        "sfx": [],
+        "svg_overlay": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 800 1100\" width=\"100%\" height=\"100%\" style=\"position:absolute;top:0;left:0;pointer-events:none;\">\n      \n    </svg>",
+        "language": "ar",
+        "updated_at": 1790864261414
+      }
+    },
+    {
+      "id": "p_ch1_s1_2",
+      "chapter_id": "1",
+      "chapter_number": 1,
+      "scene_id": "scene_ch1_s1",
+      "page_or_strip_id": "strip_01",
+      "panel_number_in_page": 2,
+      "global_panel_number": 2,
+      "characters": [
+        {
+          "name": "القائد",
+          "role": "Participant"
+        },
+        {
+          "name": "طارق",
+          "role": "Participant"
+        }
+      ],
+      "character_lock_ids": [],
+      "style_lock_id": "style_747aedf7",
+      "style_version": 1,
+      "location": "Setting",
+      "story_bible_references": [
+        "القائد",
+        "طارق"
+      ],
+      "action": "القائد launches dynamic strike with weapon.",
+      "pose": "Low dynamic combat stance, momentum forward",
+      "facial_expression": "Fierce battle cry, sharp intense eyes",
+      "camera_angle": "low_angle",
+      "framing": "medium_shot",
+      "background_detail": "Setting with atmospheric perspective and perspective depth",
+      "lighting": "Clean key light with soft fill",
+      "dialogue": [],
+      "narration_boxes": [],
+      "sfx": [
+        {
+          "text": "SLASH!",
+          "placement": "diagonal across weapon arc",
+          "style": "bold kinetic"
+        }
+      ],
+      "composition_notes": "medium_shot focusing on visual storytelling with clean speech bubble clearance",
+      "prompt_payload": {
+        "positive_prompt": "Masterpiece comic panel, medium shot, low angle.\nScene: القائد launches dynamic strike with weapon..\nCharacters: القائد, طارق. Expression: Fierce battle cry, sharp intense eyes. Pose: Low dynamic combat stance, momentum forward.\nEnvironment: Setting, Morning lighting. Intense kinetic combat mood.\n[CHARACTER LOCK: Inactive or No Mapped Characters]\n[VISUAL STYLE PROFILE: Solo Leveling (Version 1)]\n• Line Art: Medium-high density, Variable crisp tapering ink lines, Ultra-clean digital vector-assisted\n• Proportions: Elongated angular manhwa aesthetics, Sleek narrow almond, Heroic elongated athletic manhwa proportions\n• Color & Rendering: FULL_COLOR, Smooth cel-shaded planes with glossy edge highlights, Creased modern streetwear & stylized tactical coats\n• Shading & Contrast: Rich gradient cel-shading with glowing specular highlights, Deep pitch blacks contrasting neon emissives, High dramatic contrast\n• Effects & Energy: Swirling ethereal violet and blue smoke tendrils, Violent slashing energy arcs with dissipating sparks\n• Cinematography: Extreme low-angle Dutch tilts looking up at towering figures, Vertical scrolling webtoon composition with full-body hero shots, Dark, thrilling, overpowered, electrifying action (Density: Sparse vertical spacing for pacing flow)",
+        "negative_prompt": "blurry, distorted anatomy, missing limbs, altered costume colors, deformed eyes, flat lighting, amateur line art, style drift",
+        "character_lock_block": "[CHARACTER LOCK: Inactive or No Mapped Characters]",
+        "style_lock_block": "[VISUAL STYLE PROFILE: Solo Leveling (Version 1)]\n• Line Art: Medium-high density, Variable crisp tapering ink lines, Ultra-clean digital vector-assisted\n• Proportions: Elongated angular manhwa aesthetics, Sleek narrow almond, Heroic elongated athletic manhwa proportions\n• Color & Rendering: FULL_COLOR, Smooth cel-shaded planes with glossy edge highlights, Creased modern streetwear & stylized tactical coats\n• Shading & Contrast: Rich gradient cel-shading with glowing specular highlights, Deep pitch blacks contrasting neon emissives, High dramatic contrast\n• Effects & Energy: Swirling ethereal violet and blue smoke tendrils, Violent slashing energy arcs with dissipating sparks\n• Cinematography: Extreme low-angle Dutch tilts looking up at towering figures, Vertical scrolling webtoon composition with full-body hero shots, Dark, thrilling, overpowered, electrifying action (Density: Sparse vertical spacing for pacing flow)"
+      },
+      "status": "EDITED",
+      "user_edited": true,
+      "created_at": 1790864260408,
+      "updated_at": 1790864261420,
+      "image_url": "/api/novels/nv_cfdb6aec-a/panels/files/ch01_p_ch1_s1_2.png",
+      "drift_status": {
+        "has_drift": false,
+        "drift_type": "none",
+        "drift_reasons": []
+      },
+      "lettering": {
+        "bubbles": [],
+        "sfx": [
+          {
+            "id": "sfx_1",
+            "text": "SLASH!",
+            "x": 60,
+            "y": 48,
+            "rotation": -12,
+            "style": "manga_action",
+            "language": "ar"
+          }
+        ],
+        "svg_overlay": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 800 1100\" width=\"100%\" height=\"100%\" style=\"position:absolute;top:0;left:0;pointer-events:none;\">\n      \n        <g transform=\"translate(480, 528) rotate(-12)\">\n          <text text-anchor=\"middle\" font-family=\"'Amiri', 'Scheherazade New', 'Tahoma', sans-serif\" font-weight=\"900\" font-size=\"34\"\n                fill=\"#ffdd00\" stroke=\"#111111\" stroke-width=\"4\" stroke-linejoin=\"round\"\n                filter=\"drop-shadow(3px 5px 0px rgba(0,0,0,0.85))\">SLASH!</text>\n        </g>\n    </svg>",
+        "language": "ar",
+        "updated_at": 1790864261418
+      }
+    },
+    {
+      "id": "p_ch1_s1_3",
+      "chapter_id": "1",
+      "chapter_number": 1,
+      "scene_id": "scene_ch1_s1",
+      "page_or_strip_id": "strip_01",
+      "panel_number_in_page": 3,
+      "global_panel_number": 3,
+      "characters": [
+        {
+          "name": "القائد",
+          "role": "Participant"
+        },
+        {
+          "name": "طارق",
+          "role": "Participant"
+        }
+      ],
+      "character_lock_ids": [],
+      "style_lock_id": "style_747aedf7",
+      "style_version": 1,
+      "location": "Setting",
+      "story_bible_references": [
+        "القائد",
+        "طارق"
+      ],
+      "action": "Shockwave impact as blade connects, energy sparks flying.",
+      "pose": "Mid-collision tension",
+      "facial_expression": "Strained exertion",
+      "camera_angle": "dutch_tilt",
+      "framing": "cut_in",
+      "background_detail": "Setting with atmospheric perspective and perspective depth",
+      "lighting": "Clean key light with soft fill",
+      "dialogue": [],
+      "narration_boxes": [],
+      "sfx": [
+        {
+          "text": "BOOM!",
+          "placement": "center burst",
+          "style": "heavy impact"
+        }
+      ],
+      "composition_notes": "cut_in focusing on visual storytelling with clean speech bubble clearance",
+      "prompt_payload": {
+        "positive_prompt": "Masterpiece comic panel, cut in, dutch tilt.\nScene: Shockwave impact as blade connects, energy sparks flying..\nCharacters: القائد, طارق. Expression: Strained exertion. Pose: Mid-collision tension.\nEnvironment: Setting, Morning lighting. Intense kinetic combat mood.\n[CHARACTER LOCK: Inactive or No Mapped Characters]\n[VISUAL STYLE PROFILE: Solo Leveling (Version 1)]\n• Line Art: Medium-high density, Variable crisp tapering ink lines, Ultra-clean digital vector-assisted\n• Proportions: Elongated angular manhwa aesthetics, Sleek narrow almond, Heroic elongated athletic manhwa proportions\n• Color & Rendering: FULL_COLOR, Smooth cel-shaded planes with glossy edge highlights, Creased modern streetwear & stylized tactical coats\n• Shading & Contrast: Rich gradient cel-shading with glowing specular highlights, Deep pitch blacks contrasting neon emissives, High dramatic contrast\n• Effects & Energy: Swirling ethereal violet and blue smoke tendrils, Violent slashing energy arcs with dissipating sparks\n• Cinematography: Extreme low-angle Dutch tilts looking up at towering figures, Vertical scrolling webtoon composition with full-body hero shots, Dark, thrilling, overpowered, electrifying action (Density: Sparse vertical spacing for pacing flow)",
+        "negative_prompt": "blurry, distorted anatomy, missing limbs, altered costume colors, deformed eyes, flat lighting, amateur line art, style drift",
+        "character_lock_block": "[CHARACTER LOCK: Inactive or No Mapped Characters]",
+        "style_lock_block": "[VISUAL STYLE PROFILE: Solo Leveling (Version 1)]\n• Line Art: Medium-high density, Variable crisp tapering ink lines, Ultra-clean digital vector-assisted\n• Proportions: Elongated angular manhwa aesthetics, Sleek narrow almond, Heroic elongated athletic manhwa proportions\n• Color & Rendering: FULL_COLOR, Smooth cel-shaded planes with glossy edge highlights, Creased modern streetwear & stylized tactical coats\n• Shading & Contrast: Rich gradient cel-shading with glowing specular highlights, Deep pitch blacks contrasting neon emissives, High dramatic contrast\n• Effects & Energy: Swirling ethereal violet and blue smoke tendrils, Violent slashing energy arcs with dissipating sparks\n• Cinematography: Extreme low-angle Dutch tilts looking up at towering figures, Vertical scrolling webtoon composition with full-body hero shots, Dark, thrilling, overpowered, electrifying action (Density: Sparse vertical spacing for pacing flow)"
+      },
+      "status": "EDITED",
+      "user_edited": true,
+      "created_at": 1790864260408,
+      "updated_at": 1790864261424,
+      "image_url": "/api/novels/nv_cfdb6aec-a/panels/files/ch01_p_ch1_s1_3.png",
+      "drift_status": {
+        "has_drift": false,
+        "drift_type": "none",
+        "drift_reasons": []
+      },
+      "lettering": {
+        "bubbles": [],
+        "sfx": [
+          {
+            "id": "sfx_1",
+            "text": "BOOM!",
+            "x": 60,
+            "y": 48,
+            "rotation": -12,
+            "style": "manga_action",
+            "language": "ar"
+          }
+        ],
+        "svg_overlay": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 800 1100\" width=\"100%\" height=\"100%\" style=\"position:absolute;top:0;left:0;pointer-events:none;\">\n      \n        <g transform=\"translate(480, 528) rotate(-12)\">\n          <text text-anchor=\"middle\" font-family=\"'Amiri', 'Scheherazade New', 'Tahoma', sans-serif\" font-weight=\"900\" font-size=\"34\"\n                fill=\"#ffdd00\" stroke=\"#111111\" stroke-width=\"4\" stroke-linejoin=\"round\"\n                filter=\"drop-shadow(3px 5px 0px rgba(0,0,0,0.85))\">BOOM!</text>\n        </g>\n    </svg>",
+        "language": "ar",
+        "updated_at": 1790864261423
+      }
+    },
+    {
+      "id": "p_ch1_s1_4",
+      "chapter_id": "1",
+      "chapter_number": 1,
+      "scene_id": "scene_ch1_s1",
+      "page_or_strip_id": "strip_01",
+      "panel_number_in_page": 4,
+      "global_panel_number": 4,
+      "characters": [
+        {
+          "name": "القائد",
+          "role": "Participant"
+        },
+        {
+          "name": "طارق",
+          "role": "Participant"
+        }
+      ],
+      "character_lock_ids": [],
+      "style_lock_id": "style_747aedf7",
+      "style_version": 1,
+      "location": "Setting",
+      "story_bible_references": [
+        "القائد",
+        "طارق"
+      ],
+      "action": "Close-up reaction on القائد.",
+      "pose": "Subtle head turn, hair catching wind",
+      "facial_expression": "Firm, stoic resolve",
+      "camera_angle": "eye_level",
+      "framing": "close_up",
+      "background_detail": "Setting with atmospheric perspective and perspective depth",
+      "lighting": "Clean key light with soft fill",
+      "dialogue": [],
+      "narration_boxes": [],
+      "sfx": [],
+      "composition_notes": "close_up focusing on visual storytelling with clean speech bubble clearance",
+      "prompt_payload": {
+        "positive_prompt": "Masterpiece comic panel, close up, eye level.\nScene: Close-up reaction on القائد..\nCharacters: القائد, طارق. Expression: Firm, stoic resolve. Pose: Subtle head turn, hair catching wind.\nEnvironment: Setting, Morning lighting. Intense kinetic combat mood.\n[CHARACTER LOCK: Inactive or No Mapped Characters]\n[VISUAL STYLE PROFILE: Solo Leveling (Version 1)]\n• Line Art: Medium-high density, Variable crisp tapering ink lines, Ultra-clean digital vector-assisted\n• Proportions: Elongated angular manhwa aesthetics, Sleek narrow almond, Heroic elongated athletic manhwa proportions\n• Color & Rendering: FULL_COLOR, Smooth cel-shaded planes with glossy edge highlights, Creased modern streetwear & stylized tactical coats\n• Shading & Contrast: Rich gradient cel-shading with glowing specular highlights, Deep pitch blacks contrasting neon emissives, High dramatic contrast\n• Effects & Energy: Swirling ethereal violet and blue smoke tendrils, Violent slashing energy arcs with dissipating sparks\n• Cinematography: Extreme low-angle Dutch tilts looking up at towering figures, Vertical scrolling webtoon composition with full-body hero shots, Dark, thrilling, overpowered, electrifying action (Density: Sparse vertical spacing for pacing flow)",
+        "negative_prompt": "blurry, distorted anatomy, missing limbs, altered costume colors, deformed eyes, flat lighting, amateur line art, style drift",
+        "character_lock_block": "[CHARACTER LOCK: Inactive or No Mapped Characters]",
+        "style_lock_block": "[VISUAL STYLE PROFILE: Solo Leveling (Version 1)]\n• Line Art: Medium-high density, Variable crisp tapering ink lines, Ultra-clean digital vector-assisted\n• Proportions: Elongated angular manhwa aesthetics, Sleek narrow almond, Heroic elongated athletic manhwa proportions\n• Color & Rendering: FULL_COLOR, Smooth cel-shaded planes with glossy edge highlights, Creased modern streetwear & stylized tactical coats\n• Shading & Contrast: Rich gradient cel-shading with glowing specular highlights, Deep pitch blacks contrasting neon emissives, High dramatic contrast\n• Effects & Energy: Swirling ethereal violet and blue smoke tendrils, Violent slashing energy arcs with dissipating sparks\n• Cinematography: Extreme low-angle Dutch tilts looking up at towering figures, Vertical scrolling webtoon composition with full-body hero shots, Dark, thrilling, overpowered, electrifying action (Density: Sparse vertical spacing for pacing flow)"
+      },
+      "status": "EDITED",
+      "user_edited": true,
+      "created_at": 1790864260408,
+      "updated_at": 1790864261429,
+      "image_url": "/api/novels/nv_cfdb6aec-a/panels/files/ch01_p_ch1_s1_4.png",
+      "drift_status": {
+        "has_drift": false,
+        "drift_type": "none",
+        "drift_reasons": []
+      },
+      "lettering": {
+        "bubbles": [],
+        "sfx": [],
+        "svg_overlay": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 800 1100\" width=\"100%\" height=\"100%\" style=\"position:absolute;top:0;left:0;pointer-events:none;\">\n      \n    </svg>",
+        "language": "ar",
+        "updated_at": 1790864261427
+      }
+    }
+  ],
+  "tasks": [
+    {
+      "task_id": "task_p_ch1_s1_1",
+      "panel_id": "p_ch1_s1_1",
+      "scene_id": "scene_ch1_s1",
+      "page_or_strip_id": "strip_01",
+      "chapter_number": 1,
+      "priority": 1,
+      "status": "PENDING",
+      "generation_mode": "FREE_FAST",
+      "provider_routing": {
+        "engine": "Agnes L1 (Structured Prompt)",
+        "consistency_strategy": "Dual-Track Structured Conditioning (Character Lock + Style Lock Profile)",
+        "supports_img2img": false
+      },
+      "prompt_payload": {
+        "positive_prompt": "Masterpiece comic panel, wide shot, eye level.\nScene: Establishing shot of Setting. القائد, طارق positioned in environment..\nCharacters: القائد, طارق. Expression: Composed observation. Pose: Standing surveying the surroundings.\nEnvironment: Setting, Morning lighting. Intense kinetic combat mood.\n[CHARACTER LOCK: Inactive or No Mapped Characters]\n[VISUAL STYLE PROFILE: Solo Leveling (Version 1)]\n• Line Art: Medium-high density, Variable crisp tapering ink lines, Ultra-clean digital vector-assisted\n• Proportions: Elongated angular manhwa aesthetics, Sleek narrow almond, Heroic elongated athletic manhwa proportions\n• Color & Rendering: FULL_COLOR, Smooth cel-shaded planes with glossy edge highlights, Creased modern streetwear & stylized tactical coats\n• Shading & Contrast: Rich gradient cel-shading with glowing specular highlights, Deep pitch blacks contrasting neon emissives, High dramatic contrast\n• Effects & Energy: Swirling ethereal violet and blue smoke tendrils, Violent slashing energy arcs with dissipating sparks\n• Cinematography: Extreme low-angle Dutch tilts looking up at towering figures, Vertical scrolling webtoon composition with full-body hero shots, Dark, thrilling, overpowered, electrifying action (Density: Sparse vertical spacing for pacing flow)",
+        "negative_prompt": "blurry, distorted anatomy, missing limbs, altered costume colors, deformed eyes, flat lighting, amateur line art, style drift",
+        "character_lock_block": "[CHARACTER LOCK: Inactive or No Mapped Characters]",
+        "style_lock_block": "[VISUAL STYLE PROFILE: Solo Leveling (Version 1)]\n• Line Art: Medium-high density, Variable crisp tapering ink lines, Ultra-clean digital vector-assisted\n• Proportions: Elongated angular manhwa aesthetics, Sleek narrow almond, Heroic elongated athletic manhwa proportions\n• Color & Rendering: FULL_COLOR, Smooth cel-shaded planes with glossy edge highlights, Creased modern streetwear & stylized tactical coats\n• Shading & Contrast: Rich gradient cel-shading with glowing specular highlights, Deep pitch blacks contrasting neon emissives, High dramatic contrast\n• Effects & Energy: Swirling ethereal violet and blue smoke tendrils, Violent slashing energy arcs with dissipating sparks\n• Cinematography: Extreme low-angle Dutch tilts looking up at towering figures, Vertical scrolling webtoon composition with full-body hero shots, Dark, thrilling, overpowered, electrifying action (Density: Sparse vertical spacing for pacing flow)"
+      },
+      "character_refs": [
+        {
+          "name": "القائد"
+        },
+        {
+          "name": "طارق"
+        }
+      ],
+      "style_ref": {
+        "style_id": "style_747aedf7",
+        "style_version": 1
+      },
+      "created_at": 1790864260408,
+      "updated_at": 1790864261429
+    },
+    {
+      "task_id": "task_p_ch1_s1_2",
+      "panel_id": "p_ch1_s1_2",
+      "scene_id": "scene_ch1_s1",
+      "page_or_strip_id": "strip_01",
+      "chapter_number": 1,
+      "priority": 2,
+      "status": "PENDING",
+      "generation_mode": "FREE_FAST",
+      "provider_routing": {
+        "engine": "Agnes L1 (Structured Prompt)",
+        "consistency_strategy": "Dual-Track Structured Conditioning (Character Lock + Style Lock Profile)",
+        "supports_img2img": false
+      },
+      "prompt_payload": {
+        "positive_prompt": "Masterpiece comic panel, medium shot, low angle.\nScene: القائد launches dynamic strike with weapon..\nCharacters: القائد, طارق. Expression: Fierce battle cry, sharp intense eyes. Pose: Low dynamic combat stance, momentum forward.\nEnvironment: Setting, Morning lighting. Intense kinetic combat mood.\n[CHARACTER LOCK: Inactive or No Mapped Characters]\n[VISUAL STYLE PROFILE: Solo Leveling (Version 1)]\n• Line Art: Medium-high density, Variable crisp tapering ink lines, Ultra-clean digital vector-assisted\n• Proportions: Elongated angular manhwa aesthetics, Sleek narrow almond, Heroic elongated athletic manhwa proportions\n• Color & Rendering: FULL_COLOR, Smooth cel-shaded planes with glossy edge highlights, Creased modern streetwear & stylized tactical coats\n• Shading & Contrast: Rich gradient cel-shading with glowing specular highlights, Deep pitch blacks contrasting neon emissives, High dramatic contrast\n• Effects & Energy: Swirling ethereal violet and blue smoke tendrils, Violent slashing energy arcs with dissipating sparks\n• Cinematography: Extreme low-angle Dutch tilts looking up at towering figures, Vertical scrolling webtoon composition with full-body hero shots, Dark, thrilling, overpowered, electrifying action (Density: Sparse vertical spacing for pacing flow)",
+        "negative_prompt": "blurry, distorted anatomy, missing limbs, altered costume colors, deformed eyes, flat lighting, amateur line art, style drift",
+        "character_lock_block": "[CHARACTER LOCK: Inactive or No Mapped Characters]",
+        "style_lock_block": "[VISUAL STYLE PROFILE: Solo Leveling (Version 1)]\n• Line Art: Medium-high density, Variable crisp tapering ink lines, Ultra-clean digital vector-assisted\n• Proportions: Elongated angular manhwa aesthetics, Sleek narrow almond, Heroic elongated athletic manhwa proportions\n• Color & Rendering: FULL_COLOR, Smooth cel-shaded planes with glossy edge highlights, Creased modern streetwear & stylized tactical coats\n• Shading & Contrast: Rich gradient cel-shading with glowing specular highlights, Deep pitch blacks contrasting neon emissives, High dramatic contrast\n• Effects & Energy: Swirling ethereal violet and blue smoke tendrils, Violent slashing energy arcs with dissipating sparks\n• Cinematography: Extreme low-angle Dutch tilts looking up at towering figures, Vertical scrolling webtoon composition with full-body hero shots, Dark, thrilling, overpowered, electrifying action (Density: Sparse vertical spacing for pacing flow)"
+      },
+      "character_refs": [
+        {
+          "name": "القائد"
+        },
+        {
+          "name": "طارق"
+        }
+      ],
+      "style_ref": {
+        "style_id": "style_747aedf7",
+        "style_version": 1
+      },
+      "created_at": 1790864260408,
+      "updated_at": 1790864261429
+    },
+    {
+      "task_id": "task_p_ch1_s1_3",
+      "panel_id": "p_ch1_s1_3",
+      "scene_id": "scene_ch1_s1",
+      "page_or_strip_id": "strip_01",
+      "chapter_number": 1,
+      "priority": 3,
+      "status": "PENDING",
+      "generation_mode": "FREE_FAST",
+      "provider_routing": {
+        "engine": "Agnes L1 (Structured Prompt)",
+        "consistency_strategy": "Dual-Track Structured Conditioning (Character Lock + Style Lock Profile)",
+        "supports_img2img": false
+      },
+      "prompt_payload": {
+        "positive_prompt": "Masterpiece comic panel, cut in, dutch tilt.\nScene: Shockwave impact as blade connects, energy sparks flying..\nCharacters: القائد, طارق. Expression: Strained exertion. Pose: Mid-collision tension.\nEnvironment: Setting, Morning lighting. Intense kinetic combat mood.\n[CHARACTER LOCK: Inactive or No Mapped Characters]\n[VISUAL STYLE PROFILE: Solo Leveling (Version 1)]\n• Line Art: Medium-high density, Variable crisp tapering ink lines, Ultra-clean digital vector-assisted\n• Proportions: Elongated angular manhwa aesthetics, Sleek narrow almond, Heroic elongated athletic manhwa proportions\n• Color & Rendering: FULL_COLOR, Smooth cel-shaded planes with glossy edge highlights, Creased modern streetwear & stylized tactical coats\n• Shading & Contrast: Rich gradient cel-shading with glowing specular highlights, Deep pitch blacks contrasting neon emissives, High dramatic contrast\n• Effects & Energy: Swirling ethereal violet and blue smoke tendrils, Violent slashing energy arcs with dissipating sparks\n• Cinematography: Extreme low-angle Dutch tilts looking up at towering figures, Vertical scrolling webtoon composition with full-body hero shots, Dark, thrilling, overpowered, electrifying action (Density: Sparse vertical spacing for pacing flow)",
+        "negative_prompt": "blurry, distorted anatomy, missing limbs, altered costume colors, deformed eyes, flat lighting, amateur line art, style drift",
+        "character_lock_block": "[CHARACTER LOCK: Inactive or No Mapped Characters]",
+        "style_lock_block": "[VISUAL STYLE PROFILE: Solo Leveling (Version 1)]\n• Line Art: Medium-high density, Variable crisp tapering ink lines, Ultra-clean digital vector-assisted\n• Proportions: Elongated angular manhwa aesthetics, Sleek narrow almond, Heroic elongated athletic manhwa proportions\n• Color & Rendering: FULL_COLOR, Smooth cel-shaded planes with glossy edge highlights, Creased modern streetwear & stylized tactical coats\n• Shading & Contrast: Rich gradient cel-shading with glowing specular highlights, Deep pitch blacks contrasting neon emissives, High dramatic contrast\n• Effects & Energy: Swirling ethereal violet and blue smoke tendrils, Violent slashing energy arcs with dissipating sparks\n• Cinematography: Extreme low-angle Dutch tilts looking up at towering figures, Vertical scrolling webtoon composition with full-body hero shots, Dark, thrilling, overpowered, electrifying action (Density: Sparse vertical spacing for pacing flow)"
+      },
+      "character_refs": [
+        {
+          "name": "القائد"
+        },
+        {
+          "name": "طارق"
+        }
+      ],
+      "style_ref": {
+        "style_id": "style_747aedf7",
+        "style_version": 1
+      },
+      "created_at": 1790864260408,
+      "updated_at": 1790864261429
+    },
+    {
+      "task_id": "task_p_ch1_s1_4",
+      "panel_id": "p_ch1_s1_4",
+      "scene_id": "scene_ch1_s1",
+      "page_or_strip_id": "strip_01",
+      "chapter_number": 1,
+      "priority": 4,
+      "status": "PENDING",
+      "generation_mode": "FREE_FAST",
+      "provider_routing": {
+        "engine": "Agnes L1 (Structured Prompt)",
+        "consistency_strategy": "Dual-Track Structured Conditioning (Character Lock + Style Lock Profile)",
+        "supports_img2img": false
+      },
+      "prompt_payload": {
+        "positive_prompt": "Masterpiece comic panel, close up, eye level.\nScene: Close-up reaction on القائد..\nCharacters: القائد, طارق. Expression: Firm, stoic resolve. Pose: Subtle head turn, hair catching wind.\nEnvironment: Setting, Morning lighting. Intense kinetic combat mood.\n[CHARACTER LOCK: Inactive or No Mapped Characters]\n[VISUAL STYLE PROFILE: Solo Leveling (Version 1)]\n• Line Art: Medium-high density, Variable crisp tapering ink lines, Ultra-clean digital vector-assisted\n• Proportions: Elongated angular manhwa aesthetics, Sleek narrow almond, Heroic elongated athletic manhwa proportions\n• Color & Rendering: FULL_COLOR, Smooth cel-shaded planes with glossy edge highlights, Creased modern streetwear & stylized tactical coats\n• Shading & Contrast: Rich gradient cel-shading with glowing specular highlights, Deep pitch blacks contrasting neon emissives, High dramatic contrast\n• Effects & Energy: Swirling ethereal violet and blue smoke tendrils, Violent slashing energy arcs with dissipating sparks\n• Cinematography: Extreme low-angle Dutch tilts looking up at towering figures, Vertical scrolling webtoon composition with full-body hero shots, Dark, thrilling, overpowered, electrifying action (Density: Sparse vertical spacing for pacing flow)",
+        "negative_prompt": "blurry, distorted anatomy, missing limbs, altered costume colors, deformed eyes, flat lighting, amateur line art, style drift",
+        "character_lock_block": "[CHARACTER LOCK: Inactive or No Mapped Characters]",
+        "style_lock_block": "[VISUAL STYLE PROFILE: Solo Leveling (Version 1)]\n• Line Art: Medium-high density, Variable crisp tapering ink lines, Ultra-clean digital vector-assisted\n• Proportions: Elongated angular manhwa aesthetics, Sleek narrow almond, Heroic elongated athletic manhwa proportions\n• Color & Rendering: FULL_COLOR, Smooth cel-shaded planes with glossy edge highlights, Creased modern streetwear & stylized tactical coats\n• Shading & Contrast: Rich gradient cel-shading with glowing specular highlights, Deep pitch blacks contrasting neon emissives, High dramatic contrast\n• Effects & Energy: Swirling ethereal violet and blue smoke tendrils, Violent slashing energy arcs with dissipating sparks\n• Cinematography: Extreme low-angle Dutch tilts looking up at towering figures, Vertical scrolling webtoon composition with full-body hero shots, Dark, thrilling, overpowered, electrifying action (Density: Sparse vertical spacing for pacing flow)"
+      },
+      "character_refs": [
+        {
+          "name": "القائد"
+        },
+        {
+          "name": "طارق"
+        }
+      ],
+      "style_ref": {
+        "style_id": "style_747aedf7",
+        "style_version": 1
+      },
+      "created_at": 1790864260408,
+      "updated_at": 1790864261429
+    }
+  ],
+  "total_panels": 4,
+  "total_pages": 1,
+  "approved": false,
+  "manual_approval_required": false,
+  "created_at": 1790864260409,
+  "updated_at": 1790864261429
+}

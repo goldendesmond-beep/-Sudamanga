@@ -1,0 +1,20 @@
+[
+  {
+    "id": "gloss_lead_protagonist",
+    "category": "character",
+    "source_term": "Lead Protagonist",
+    "en_term": "Lead Protagonist",
+    "ar_term": "Lead Protagonist",
+    "confidence": "CONFIRMED_FROM_NOVEL",
+    "last_updated_chapter": 1
+  },
+  {
+    "id": "term_dark_blade",
+    "source_term": "Divine Dark Blade",
+    "en_term": "Divine Dark Blade",
+    "ar_term": "نصل الظلام الإلهي",
+    "category": "weapon",
+    "confidence": "USER_EDITED",
+    "last_updated_chapter": 1
+  }
+]

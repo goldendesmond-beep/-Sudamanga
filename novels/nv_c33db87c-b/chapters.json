@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ch_0001_1",
+    "number": 1,
+    "title": "الفصل 1: فجر الصحراء",
+    "start_offset": 0,
+    "end_offset": 271,
+    "char_count": 271,
+    "word_count": 54,
+    "status": "NOT_PROCESSED",
+    "last_update": 1790769245474,
+    "output_available": false
+  },
+  {
+    "id": "ch_0002_2",
+    "number": 2,
+    "title": "الفصل 2: معركة المضيق",
+    "start_offset": 271,
+    "end_offset": 441,
+    "char_count": 170,
+    "word_count": 34,
+    "status": "NOT_PROCESSED",
+    "last_update": 1790769245474,
+    "output_available": false
+  }
+]

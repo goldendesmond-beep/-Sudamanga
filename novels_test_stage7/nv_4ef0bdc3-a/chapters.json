@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ch_0001_1",
+    "number": 1,
+    "title": "Chapter 1: The Gates of Calamity",
+    "start_offset": 0,
+    "end_offset": 185,
+    "char_count": 185,
+    "word_count": 37,
+    "status": "NOT_PROCESSED",
+    "last_update": 1790945781364,
+    "output_available": false
+  },
+  {
+    "id": "ch_0002_2",
+    "number": 2,
+    "title": "Chapter 2: The Vanguard Collision",
+    "start_offset": 185,
+    "end_offset": 369,
+    "char_count": 184,
+    "word_count": 37,
+    "status": "NOT_PROCESSED",
+    "last_update": 1790945781364,
+    "output_available": false
+  },
+  {
+    "id": "ch_0003_3",
+    "number": 3,
+    "title": "Chapter 3: The Archer Tower",
+    "start_offset": 369,
+    "end_offset": 557,
+    "char_count": 188,
+    "word_count": 38,
+    "status": "NOT_PROCESSED",
+    "last_update": 1790945781364,
+    "output_available": false
+  },
+  {
+    "id": "ch_0004_4",
+    "number": 4,
+    "title": "Chapter 4: The Citadel Courtyard",
+    "start_offset": 557,
+    "end_offset": 702,
+    "char_count": 145,
+    "word_count": 29,
+    "status": "NOT_PROCESSED",
+    "last_update": 1790945781364,
+    "output_available": false
+  },
+  {
+    "id": "ch_0005_5",
+    "number": 5,
+    "title": "Chapter 5: The Subterranean Vaults",
+    "start_offset": 702,
+    "end_offset": 851,
+    "char_count": 149,
+    "word_count": 30,
+    "status": "NOT_PROCESSED",
+    "last_update": 1790945781364,
+    "output_available": false
+  },
+  {
+    "id": "ch_0006_6",
+    "number": 6,
+    "title": "Chapter 6: The Chamber of Seals",
+    "start_offset": 851,
+    "end_offset": 1002,
+    "char_count": 151,
+    "word_count": 30,
+    "status": "NOT_PROCESSED",
+    "last_update": 1790945781364,
+    "output_available": false
+  },
+  {
+    "id": "ch_0007_7",
+    "number": 7,
+    "title": "Chapter 7: The Shadow Sovereign",
+    "start_offset": 1002,
+    "end_offset": 1139,
+    "char_count": 137,
+    "word_count": 27,
+    "status": "NOT_PROCESSED",
+    "last_update": 1790945781364,
+    "output_available": false
+  },
+  {
+    "id": "ch_0008_8",
+    "number": 8,
+    "title": "Chapter 8: The Dual Assault",
+    "start_offset": 1139,
+    "end_offset": 1265,
+    "char_count": 126,
+    "word_count": 25,
+    "status": "NOT_PROCESSED",
+    "last_update": 1790945781364,
+    "output_available": false
+  },
+  {
+    "id": "ch_0009_9",
+    "number": 9,
+    "title": "Chapter 9: The Breaking Dawn",
+    "start_offset": 1265,
+    "end_offset": 1405,
+    "char_count": 140,
+    "word_count": 28,
+    "status": "NOT_PROCESSED",
+    "last_update": 1790945781364,
+    "output_available": false
+  },
+  {
+    "id": "ch_0010_10",
+    "number": 10,
+    "title": "Chapter 10: The Aftermath",
+    "start_offset": 1405,
+    "end_offset": 1523,
+    "char_count": 118,
+    "word_count": 24,
+    "status": "NOT_PROCESSED",
+    "last_update": 1790945781364,
+    "output_available": false
+  }
+]

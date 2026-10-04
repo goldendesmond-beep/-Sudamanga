@@ -1,0 +1,72 @@
+{
+  "novel_id": "nv_f8368cf3-7",
+  "reference_mode": "style_only",
+  "character_lock_active": false,
+  "style_lock_active": true,
+  "active_series_title": "The Eternal Supreme",
+  "character_mappings": {},
+  "character_locks": {},
+  "style_locks": [
+    {
+      "style_id": "style_82d9322d",
+      "version": 1,
+      "reference_series": "The Eternal Supreme",
+      "series_type": "manhwa",
+      "line_art": {
+        "density": "High-clarity xianxia martial arts line work with sharp dynamic taper",
+        "thickness": "Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework",
+        "cleanliness": "Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition"
+      },
+      "proportions": {
+        "face": "Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features",
+        "eyes": "Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare",
+        "anatomy": "Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening"
+      },
+      "rendering": {
+        "hair": "Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs",
+        "clothing": "Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases",
+        "color_mode": "full_color"
+      },
+      "shading": {
+        "technique": "Dimensional multi-layer cel-shading with glowing emissive rim lighting",
+        "screentone_behavior": "Smooth digital gradients with celestial star particle dusting and atmospheric depth",
+        "shadows": "Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension",
+        "contrast": "High dramatic contrast between deep environmental shadows and radiant spiritual energy"
+      },
+      "background": {
+        "detail_level": "Highly detailed ancient Chinese imperial palaces, soaring jade pavilions, mystical spirit peaks, carved stone altars, array formations",
+        "environment_rendering": "Floating mountain spires amidst swirling spiritual mist, celestial clouds, shattered crystal ground",
+        "lighting": "Intense ethereal lighting, spiritual flame backlighting, glowing talismanic runes casting dynamic cast shadows",
+        "texture": "Smooth polished jade, weathered stone, polished spirit metal, ethereal elemental mist"
+      },
+      "effects": {
+        "motion_lines": "Kinetic sweeping motion arcs, high-velocity phantom afterimages, devastating vacuum blade trails",
+        "speed_lines": "Radial convergence lines focused on martial strikes, explosive kinetic shockwave bursts",
+        "impact_frames": "Shattered space fissures, cracked jade ground shockwaves, atmospheric ring ripples",
+        "fight_effects": "Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras",
+        "aura_power": "Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence"
+      },
+      "cinematography": {
+        "shot_selection": "Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views",
+        "camera_angles": "Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals",
+        "close_up_frequency": "Piercing eye close-ups during technique invocation, hand-seal formation close-ups, calculating smirks",
+        "action_framing": "Fluid kinetic momentum across martial exchanges, devastating directional energy discharges",
+        "emotional_framing": "Solitary sovereign standing atop towering spirit peaks overlooking vast heavens with disdainful calm",
+        "panel_density": "Spacious high-impact webtoon pacing with floating technique banners",
+        "page_webtoon_rhythm": "Expansive vertical scroll pacing, seamless breathing room preceding explosive ultimate technique releases",
+        "sfx_presentation": "Ornate calligraphy-styled sound effects woven into attack trajectories and explosions",
+        "overall_mood": "Majestic, domineering, mystical, high-stakes cultivation martial grandeur"
+      },
+      "active": true,
+      "user_overrides": {},
+      "provider_notes": "Standardized provider-independent visual constraints; adaptable to both Agnes L2 img2img and prompt conditioning.",
+      "created_at": 1790945780176,
+      "updated_at": 1790945780176
+    }
+  ],
+  "active_style_version": 1,
+  "chapter_style_bindings": {
+    "1": 1
+  },
+  "updated_at": 1790945780176
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "gloss_القائد",
+    "category": "character",
+    "source_term": "القائد",
+    "en_term": "القائد",
+    "ar_term": "القائد",
+    "confidence": "CONFIRMED_FROM_NOVEL",
+    "last_updated_chapter": 1
+  },
+  {
+    "id": "gloss_طارق",
+    "category": "character",
+    "source_term": "طارق",
+    "en_term": "طارق",
+    "ar_term": "طارق",
+    "confidence": "CONFIRMED_FROM_NOVEL",
+    "last_updated_chapter": 1
+  }
+]

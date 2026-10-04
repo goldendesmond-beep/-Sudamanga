@@ -1,0 +1,603 @@
+{
+  "id": "sb_novel_stage5_test_ch2_1790945865562",
+  "novel_id": "novel_stage5_test",
+  "chapter_id": "ch_02",
+  "chapter_number": 2,
+  "chapter_title": "Clash at Iron Ridge",
+  "layout_mode": "vertical_webtoon",
+  "generation_mode": "FREE_FAST",
+  "scenes": [
+    {
+      "id": "scene_ch2_s1",
+      "scene_number": 1,
+      "location": "Iron Ridge Summit",
+      "time_of_day": "Day",
+      "participating_characters": [
+        "Tariq"
+      ],
+      "action_summary": "Chapter 2: Clash at Iron Ridge At the Iron Ridge Summit, the wind howled fiercely over jagged peaks.",
+      "dialogue": [
+        {
+          "id": "dlg_scene_ch2_s1_1",
+          "speaker": "Tariq",
+          "text": "Show me your true strength,",
+          "bubble_type": "speech"
+        }
+      ],
+      "narration": [
+        "Chapter 2: Clash at Iron Ridge At the Iron Ridge Summit, the wind howled fiercely over jagged peaks."
+      ],
+      "emotional_tone": "Intense kinetic combat",
+      "important_objects": [],
+      "powers_techniques": [],
+      "continuity_requirements": [
+        "Preserve character appearances in Iron Ridge Summit"
+      ],
+      "story_bible_references": {
+        "character_ids": [
+          "tariq"
+        ]
+      }
+    }
+  ],
+  "pages": [
+    {
+      "page_id": "strip_01",
+      "page_number": 1,
+      "panels": [
+        {
+          "id": "p_ch2_s1_1",
+          "chapter_id": "ch_02",
+          "chapter_number": 2,
+          "scene_id": "scene_ch2_s1",
+          "page_or_strip_id": "strip_01",
+          "panel_number_in_page": 1,
+          "global_panel_number": 1,
+          "characters": [
+            {
+              "name": "Tariq",
+              "role": "Participant",
+              "character_lock_id": "tariq"
+            }
+          ],
+          "character_lock_ids": [
+            "tariq"
+          ],
+          "style_lock_id": "style_5aa835a4",
+          "style_version": 1,
+          "location": "Iron Ridge Summit",
+          "story_bible_references": [
+            "tariq"
+          ],
+          "action": "Tariq eyes glow celestial violet as mana gathers",
+          "pose": "Crouched combat readiness",
+          "facial_expression": "Composed observation",
+          "camera_angle": "dutch_tilt",
+          "framing": "extreme_close_up",
+          "background_detail": "Iron Ridge Summit with atmospheric perspective and perspective depth",
+          "lighting": "Clean key light with soft fill",
+          "dialogue": [
+            {
+              "id": "dlg_scene_ch2_s1_1",
+              "speaker": "Tariq",
+              "text": "Show me your true strength,",
+              "bubble_type": "speech"
+            }
+          ],
+          "narration_boxes": [
+            "Chapter 2: Clash at Iron Ridge At the Iron Ridge Summit, the wind howled fiercely over jagged peaks."
+          ],
+          "sfx": [],
+          "composition_notes": "wide_shot focusing on visual storytelling with clean speech bubble clearance",
+          "prompt_payload": {
+            "positive_prompt": "Masterpiece comic panel, extreme close up, dutch tilt.\nScene: Tariq eyes glow celestial violet as mana gathers.\nCharacters: Tariq. Expression: Composed observation. Pose: Crouched combat readiness.\nEnvironment: Iron Ridge Summit.\n[CHARACTER LOCK: Tariq (Ref: Sung Jinwoo from Solo Leveling)]\n• Face & Eyes: Sharp angular V-line jaw, prominent cheekbones, Narrow intense piercing gaze, glowing cyan-blue / deep violet under power, Sharp straight slanted brows\n• Hair: Layered raven-black fringe parting slightly over forehead (Jet black with subtle blue-gray highlights)\n• Build & Height: Tall, broad-shouldered, lean muscular athletic build, Tall (approx 185 cm), apparent age Early 20s\n• Signature Attire: Long high-collared dark trench coat over dark fitted turtleneck and combat pants\n• Weapons & Items: Knight Killer daggers, Demon King daggers\n• Distinctive Traits: Violet-blue shadow aura trailing from limbs, Glowing eye flares\n[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)",
+            "negative_prompt": "blurry, distorted anatomy, missing limbs, altered costume colors, deformed eyes, flat lighting, amateur line art, style drift",
+            "character_lock_block": "[CHARACTER LOCK: Tariq (Ref: Sung Jinwoo from Solo Leveling)]\n• Face & Eyes: Sharp angular V-line jaw, prominent cheekbones, Narrow intense piercing gaze, glowing cyan-blue / deep violet under power, Sharp straight slanted brows\n• Hair: Layered raven-black fringe parting slightly over forehead (Jet black with subtle blue-gray highlights)\n• Build & Height: Tall, broad-shouldered, lean muscular athletic build, Tall (approx 185 cm), apparent age Early 20s\n• Signature Attire: Long high-collared dark trench coat over dark fitted turtleneck and combat pants\n• Weapons & Items: Knight Killer daggers, Demon King daggers\n• Distinctive Traits: Violet-blue shadow aura trailing from limbs, Glowing eye flares",
+            "style_lock_block": "[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)"
+          },
+          "status": "EDITED",
+          "user_edited": true,
+          "created_at": 1790945865562,
+          "updated_at": 1790945865581
+        },
+        {
+          "id": "p_ch2_s1_2",
+          "chapter_id": "ch_02",
+          "chapter_number": 2,
+          "scene_id": "scene_ch2_s1",
+          "page_or_strip_id": "strip_01",
+          "panel_number_in_page": 2,
+          "global_panel_number": 2,
+          "characters": [
+            {
+              "name": "Tariq",
+              "role": "Participant",
+              "character_lock_id": "tariq"
+            }
+          ],
+          "character_lock_ids": [
+            "tariq"
+          ],
+          "style_lock_id": "style_5aa835a4",
+          "style_version": 1,
+          "location": "Iron Ridge Summit",
+          "story_bible_references": [
+            "tariq"
+          ],
+          "action": "Tariq launches dynamic strike with weapon.",
+          "pose": "Low dynamic combat stance, momentum forward",
+          "facial_expression": "Fierce battle cry, sharp intense eyes",
+          "camera_angle": "low_angle",
+          "framing": "medium_shot",
+          "background_detail": "Iron Ridge Summit with atmospheric perspective and perspective depth",
+          "lighting": "Clean key light with soft fill",
+          "dialogue": [],
+          "narration_boxes": [],
+          "sfx": [
+            {
+              "text": "SLASH!",
+              "placement": "diagonal across weapon arc",
+              "style": "bold kinetic"
+            }
+          ],
+          "composition_notes": "medium_shot focusing on visual storytelling with clean speech bubble clearance",
+          "prompt_payload": {
+            "positive_prompt": "Masterpiece comic panel, medium shot, low angle.\nScene: Tariq launches dynamic strike with weapon..\nCharacters: Tariq. Expression: Fierce battle cry, sharp intense eyes. Pose: Low dynamic combat stance, momentum forward.\nEnvironment: Iron Ridge Summit, Day lighting. Intense kinetic combat mood.\n[CHARACTER LOCK: Tariq (Ref: Sung Jinwoo from Solo Leveling)]\n• Face & Eyes: Sharp angular V-line jaw, prominent cheekbones, Narrow intense piercing gaze, glowing cyan-blue / deep violet under power, Sharp straight slanted brows\n• Hair: Layered raven-black fringe parting slightly over forehead (Jet black with subtle blue-gray highlights)\n• Build & Height: Tall, broad-shouldered, lean muscular athletic build, Tall (approx 185 cm), apparent age Early 20s\n• Signature Attire: Long high-collared dark trench coat over dark fitted turtleneck and combat pants\n• Weapons & Items: Knight Killer daggers, Demon King daggers\n• Distinctive Traits: Violet-blue shadow aura trailing from limbs, Glowing eye flares\n[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)",
+            "negative_prompt": "blurry, distorted anatomy, missing limbs, altered costume colors, deformed eyes, flat lighting, amateur line art, style drift",
+            "character_lock_block": "[CHARACTER LOCK: Tariq (Ref: Sung Jinwoo from Solo Leveling)]\n• Face & Eyes: Sharp angular V-line jaw, prominent cheekbones, Narrow intense piercing gaze, glowing cyan-blue / deep violet under power, Sharp straight slanted brows\n• Hair: Layered raven-black fringe parting slightly over forehead (Jet black with subtle blue-gray highlights)\n• Build & Height: Tall, broad-shouldered, lean muscular athletic build, Tall (approx 185 cm), apparent age Early 20s\n• Signature Attire: Long high-collared dark trench coat over dark fitted turtleneck and combat pants\n• Weapons & Items: Knight Killer daggers, Demon King daggers\n• Distinctive Traits: Violet-blue shadow aura trailing from limbs, Glowing eye flares",
+            "style_lock_block": "[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)"
+          },
+          "status": "PLANNED",
+          "user_edited": false,
+          "created_at": 1790945865562,
+          "updated_at": 1790945865562
+        },
+        {
+          "id": "p_ch2_s1_3",
+          "chapter_id": "ch_02",
+          "chapter_number": 2,
+          "scene_id": "scene_ch2_s1",
+          "page_or_strip_id": "strip_01",
+          "panel_number_in_page": 3,
+          "global_panel_number": 3,
+          "characters": [
+            {
+              "name": "Tariq",
+              "role": "Participant",
+              "character_lock_id": "tariq"
+            }
+          ],
+          "character_lock_ids": [
+            "tariq"
+          ],
+          "style_lock_id": "style_5aa835a4",
+          "style_version": 1,
+          "location": "Iron Ridge Summit",
+          "story_bible_references": [
+            "tariq"
+          ],
+          "action": "Shockwave impact as blade connects, energy sparks flying.",
+          "pose": "Mid-collision tension",
+          "facial_expression": "Strained exertion",
+          "camera_angle": "dutch_tilt",
+          "framing": "cut_in",
+          "background_detail": "Iron Ridge Summit with atmospheric perspective and perspective depth",
+          "lighting": "Clean key light with soft fill",
+          "dialogue": [],
+          "narration_boxes": [],
+          "sfx": [
+            {
+              "text": "BOOM!",
+              "placement": "center burst",
+              "style": "heavy impact"
+            }
+          ],
+          "composition_notes": "cut_in focusing on visual storytelling with clean speech bubble clearance",
+          "prompt_payload": {
+            "positive_prompt": "Masterpiece comic panel, cut in, dutch tilt.\nScene: Shockwave impact as blade connects, energy sparks flying..\nCharacters: Tariq. Expression: Strained exertion. Pose: Mid-collision tension.\nEnvironment: Iron Ridge Summit, Day lighting. Intense kinetic combat mood.\n[CHARACTER LOCK: Tariq (Ref: Sung Jinwoo from Solo Leveling)]\n• Face & Eyes: Sharp angular V-line jaw, prominent cheekbones, Narrow intense piercing gaze, glowing cyan-blue / deep violet under power, Sharp straight slanted brows\n• Hair: Layered raven-black fringe parting slightly over forehead (Jet black with subtle blue-gray highlights)\n• Build & Height: Tall, broad-shouldered, lean muscular athletic build, Tall (approx 185 cm), apparent age Early 20s\n• Signature Attire: Long high-collared dark trench coat over dark fitted turtleneck and combat pants\n• Weapons & Items: Knight Killer daggers, Demon King daggers\n• Distinctive Traits: Violet-blue shadow aura trailing from limbs, Glowing eye flares\n[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)",
+            "negative_prompt": "blurry, distorted anatomy, missing limbs, altered costume colors, deformed eyes, flat lighting, amateur line art, style drift",
+            "character_lock_block": "[CHARACTER LOCK: Tariq (Ref: Sung Jinwoo from Solo Leveling)]\n• Face & Eyes: Sharp angular V-line jaw, prominent cheekbones, Narrow intense piercing gaze, glowing cyan-blue / deep violet under power, Sharp straight slanted brows\n• Hair: Layered raven-black fringe parting slightly over forehead (Jet black with subtle blue-gray highlights)\n• Build & Height: Tall, broad-shouldered, lean muscular athletic build, Tall (approx 185 cm), apparent age Early 20s\n• Signature Attire: Long high-collared dark trench coat over dark fitted turtleneck and combat pants\n• Weapons & Items: Knight Killer daggers, Demon King daggers\n• Distinctive Traits: Violet-blue shadow aura trailing from limbs, Glowing eye flares",
+            "style_lock_block": "[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)"
+          },
+          "status": "PLANNED",
+          "user_edited": false,
+          "created_at": 1790945865562,
+          "updated_at": 1790945865562
+        },
+        {
+          "id": "p_ch2_s1_4",
+          "chapter_id": "ch_02",
+          "chapter_number": 2,
+          "scene_id": "scene_ch2_s1",
+          "page_or_strip_id": "strip_01",
+          "panel_number_in_page": 4,
+          "global_panel_number": 4,
+          "characters": [
+            {
+              "name": "Tariq",
+              "role": "Participant",
+              "character_lock_id": "tariq"
+            }
+          ],
+          "character_lock_ids": [
+            "tariq"
+          ],
+          "style_lock_id": "style_5aa835a4",
+          "style_version": 1,
+          "location": "Iron Ridge Summit",
+          "story_bible_references": [
+            "tariq"
+          ],
+          "action": "Close-up reaction on Tariq.",
+          "pose": "Subtle head turn, hair catching wind",
+          "facial_expression": "Firm, stoic resolve",
+          "camera_angle": "eye_level",
+          "framing": "close_up",
+          "background_detail": "Iron Ridge Summit with atmospheric perspective and perspective depth",
+          "lighting": "Clean key light with soft fill",
+          "dialogue": [],
+          "narration_boxes": [],
+          "sfx": [],
+          "composition_notes": "close_up focusing on visual storytelling with clean speech bubble clearance",
+          "prompt_payload": {
+            "positive_prompt": "Masterpiece comic panel, close up, eye level.\nScene: Close-up reaction on Tariq..\nCharacters: Tariq. Expression: Firm, stoic resolve. Pose: Subtle head turn, hair catching wind.\nEnvironment: Iron Ridge Summit, Day lighting. Intense kinetic combat mood.\n[CHARACTER LOCK: Tariq (Ref: Sung Jinwoo from Solo Leveling)]\n• Face & Eyes: Sharp angular V-line jaw, prominent cheekbones, Narrow intense piercing gaze, glowing cyan-blue / deep violet under power, Sharp straight slanted brows\n• Hair: Layered raven-black fringe parting slightly over forehead (Jet black with subtle blue-gray highlights)\n• Build & Height: Tall, broad-shouldered, lean muscular athletic build, Tall (approx 185 cm), apparent age Early 20s\n• Signature Attire: Long high-collared dark trench coat over dark fitted turtleneck and combat pants\n• Weapons & Items: Knight Killer daggers, Demon King daggers\n• Distinctive Traits: Violet-blue shadow aura trailing from limbs, Glowing eye flares\n[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)",
+            "negative_prompt": "blurry, distorted anatomy, missing limbs, altered costume colors, deformed eyes, flat lighting, amateur line art, style drift",
+            "character_lock_block": "[CHARACTER LOCK: Tariq (Ref: Sung Jinwoo from Solo Leveling)]\n• Face & Eyes: Sharp angular V-line jaw, prominent cheekbones, Narrow intense piercing gaze, glowing cyan-blue / deep violet under power, Sharp straight slanted brows\n• Hair: Layered raven-black fringe parting slightly over forehead (Jet black with subtle blue-gray highlights)\n• Build & Height: Tall, broad-shouldered, lean muscular athletic build, Tall (approx 185 cm), apparent age Early 20s\n• Signature Attire: Long high-collared dark trench coat over dark fitted turtleneck and combat pants\n• Weapons & Items: Knight Killer daggers, Demon King daggers\n• Distinctive Traits: Violet-blue shadow aura trailing from limbs, Glowing eye flares",
+            "style_lock_block": "[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)"
+          },
+          "status": "PLANNED",
+          "user_edited": false,
+          "created_at": 1790945865562,
+          "updated_at": 1790945865562
+        }
+      ]
+    }
+  ],
+  "panels": [
+    {
+      "id": "p_ch2_s1_1",
+      "chapter_id": "ch_02",
+      "chapter_number": 2,
+      "scene_id": "scene_ch2_s1",
+      "page_or_strip_id": "strip_01",
+      "panel_number_in_page": 1,
+      "global_panel_number": 1,
+      "characters": [
+        {
+          "name": "Tariq",
+          "role": "Participant",
+          "character_lock_id": "tariq"
+        }
+      ],
+      "character_lock_ids": [
+        "tariq"
+      ],
+      "style_lock_id": "style_5aa835a4",
+      "style_version": 1,
+      "location": "Iron Ridge Summit",
+      "story_bible_references": [
+        "tariq"
+      ],
+      "action": "Tariq eyes glow celestial violet as mana gathers",
+      "pose": "Crouched combat readiness",
+      "facial_expression": "Composed observation",
+      "camera_angle": "dutch_tilt",
+      "framing": "extreme_close_up",
+      "background_detail": "Iron Ridge Summit with atmospheric perspective and perspective depth",
+      "lighting": "Clean key light with soft fill",
+      "dialogue": [
+        {
+          "id": "dlg_scene_ch2_s1_1",
+          "speaker": "Tariq",
+          "text": "Show me your true strength,",
+          "bubble_type": "speech"
+        }
+      ],
+      "narration_boxes": [
+        "Chapter 2: Clash at Iron Ridge At the Iron Ridge Summit, the wind howled fiercely over jagged peaks."
+      ],
+      "sfx": [],
+      "composition_notes": "wide_shot focusing on visual storytelling with clean speech bubble clearance",
+      "prompt_payload": {
+        "positive_prompt": "Masterpiece comic panel, extreme close up, dutch tilt.\nScene: Tariq eyes glow celestial violet as mana gathers.\nCharacters: Tariq. Expression: Composed observation. Pose: Crouched combat readiness.\nEnvironment: Iron Ridge Summit.\n[CHARACTER LOCK: Tariq (Ref: Sung Jinwoo from Solo Leveling)]\n• Face & Eyes: Sharp angular V-line jaw, prominent cheekbones, Narrow intense piercing gaze, glowing cyan-blue / deep violet under power, Sharp straight slanted brows\n• Hair: Layered raven-black fringe parting slightly over forehead (Jet black with subtle blue-gray highlights)\n• Build & Height: Tall, broad-shouldered, lean muscular athletic build, Tall (approx 185 cm), apparent age Early 20s\n• Signature Attire: Long high-collared dark trench coat over dark fitted turtleneck and combat pants\n• Weapons & Items: Knight Killer daggers, Demon King daggers\n• Distinctive Traits: Violet-blue shadow aura trailing from limbs, Glowing eye flares\n[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)",
+        "negative_prompt": "blurry, distorted anatomy, missing limbs, altered costume colors, deformed eyes, flat lighting, amateur line art, style drift",
+        "character_lock_block": "[CHARACTER LOCK: Tariq (Ref: Sung Jinwoo from Solo Leveling)]\n• Face & Eyes: Sharp angular V-line jaw, prominent cheekbones, Narrow intense piercing gaze, glowing cyan-blue / deep violet under power, Sharp straight slanted brows\n• Hair: Layered raven-black fringe parting slightly over forehead (Jet black with subtle blue-gray highlights)\n• Build & Height: Tall, broad-shouldered, lean muscular athletic build, Tall (approx 185 cm), apparent age Early 20s\n• Signature Attire: Long high-collared dark trench coat over dark fitted turtleneck and combat pants\n• Weapons & Items: Knight Killer daggers, Demon King daggers\n• Distinctive Traits: Violet-blue shadow aura trailing from limbs, Glowing eye flares",
+        "style_lock_block": "[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)"
+      },
+      "status": "APPROVED",
+      "user_edited": true,
+      "created_at": 1790945865562,
+      "updated_at": 1790945865581
+    },
+    {
+      "id": "p_ch2_s1_2",
+      "chapter_id": "ch_02",
+      "chapter_number": 2,
+      "scene_id": "scene_ch2_s1",
+      "page_or_strip_id": "strip_01",
+      "panel_number_in_page": 2,
+      "global_panel_number": 2,
+      "characters": [
+        {
+          "name": "Tariq",
+          "role": "Participant",
+          "character_lock_id": "tariq"
+        }
+      ],
+      "character_lock_ids": [
+        "tariq"
+      ],
+      "style_lock_id": "style_5aa835a4",
+      "style_version": 1,
+      "location": "Iron Ridge Summit",
+      "story_bible_references": [
+        "tariq"
+      ],
+      "action": "Tariq launches dynamic strike with weapon.",
+      "pose": "Low dynamic combat stance, momentum forward",
+      "facial_expression": "Fierce battle cry, sharp intense eyes",
+      "camera_angle": "low_angle",
+      "framing": "medium_shot",
+      "background_detail": "Iron Ridge Summit with atmospheric perspective and perspective depth",
+      "lighting": "Clean key light with soft fill",
+      "dialogue": [],
+      "narration_boxes": [],
+      "sfx": [
+        {
+          "text": "SLASH!",
+          "placement": "diagonal across weapon arc",
+          "style": "bold kinetic"
+        }
+      ],
+      "composition_notes": "medium_shot focusing on visual storytelling with clean speech bubble clearance",
+      "prompt_payload": {
+        "positive_prompt": "Masterpiece comic panel, medium shot, low angle.\nScene: Tariq launches dynamic strike with weapon..\nCharacters: Tariq. Expression: Fierce battle cry, sharp intense eyes. Pose: Low dynamic combat stance, momentum forward.\nEnvironment: Iron Ridge Summit, Day lighting. Intense kinetic combat mood.\n[CHARACTER LOCK: Tariq (Ref: Sung Jinwoo from Solo Leveling)]\n• Face & Eyes: Sharp angular V-line jaw, prominent cheekbones, Narrow intense piercing gaze, glowing cyan-blue / deep violet under power, Sharp straight slanted brows\n• Hair: Layered raven-black fringe parting slightly over forehead (Jet black with subtle blue-gray highlights)\n• Build & Height: Tall, broad-shouldered, lean muscular athletic build, Tall (approx 185 cm), apparent age Early 20s\n• Signature Attire: Long high-collared dark trench coat over dark fitted turtleneck and combat pants\n• Weapons & Items: Knight Killer daggers, Demon King daggers\n• Distinctive Traits: Violet-blue shadow aura trailing from limbs, Glowing eye flares\n[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)",
+        "negative_prompt": "blurry, distorted anatomy, missing limbs, altered costume colors, deformed eyes, flat lighting, amateur line art, style drift",
+        "character_lock_block": "[CHARACTER LOCK: Tariq (Ref: Sung Jinwoo from Solo Leveling)]\n• Face & Eyes: Sharp angular V-line jaw, prominent cheekbones, Narrow intense piercing gaze, glowing cyan-blue / deep violet under power, Sharp straight slanted brows\n• Hair: Layered raven-black fringe parting slightly over forehead (Jet black with subtle blue-gray highlights)\n• Build & Height: Tall, broad-shouldered, lean muscular athletic build, Tall (approx 185 cm), apparent age Early 20s\n• Signature Attire: Long high-collared dark trench coat over dark fitted turtleneck and combat pants\n• Weapons & Items: Knight Killer daggers, Demon King daggers\n• Distinctive Traits: Violet-blue shadow aura trailing from limbs, Glowing eye flares",
+        "style_lock_block": "[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)"
+      },
+      "status": "APPROVED",
+      "user_edited": false,
+      "created_at": 1790945865562,
+      "updated_at": 1790945865562
+    },
+    {
+      "id": "p_ch2_s1_3",
+      "chapter_id": "ch_02",
+      "chapter_number": 2,
+      "scene_id": "scene_ch2_s1",
+      "page_or_strip_id": "strip_01",
+      "panel_number_in_page": 3,
+      "global_panel_number": 3,
+      "characters": [
+        {
+          "name": "Tariq",
+          "role": "Participant",
+          "character_lock_id": "tariq"
+        }
+      ],
+      "character_lock_ids": [
+        "tariq"
+      ],
+      "style_lock_id": "style_5aa835a4",
+      "style_version": 1,
+      "location": "Iron Ridge Summit",
+      "story_bible_references": [
+        "tariq"
+      ],
+      "action": "Shockwave impact as blade connects, energy sparks flying.",
+      "pose": "Mid-collision tension",
+      "facial_expression": "Strained exertion",
+      "camera_angle": "dutch_tilt",
+      "framing": "cut_in",
+      "background_detail": "Iron Ridge Summit with atmospheric perspective and perspective depth",
+      "lighting": "Clean key light with soft fill",
+      "dialogue": [],
+      "narration_boxes": [],
+      "sfx": [
+        {
+          "text": "BOOM!",
+          "placement": "center burst",
+          "style": "heavy impact"
+        }
+      ],
+      "composition_notes": "cut_in focusing on visual storytelling with clean speech bubble clearance",
+      "prompt_payload": {
+        "positive_prompt": "Masterpiece comic panel, cut in, dutch tilt.\nScene: Shockwave impact as blade connects, energy sparks flying..\nCharacters: Tariq. Expression: Strained exertion. Pose: Mid-collision tension.\nEnvironment: Iron Ridge Summit, Day lighting. Intense kinetic combat mood.\n[CHARACTER LOCK: Tariq (Ref: Sung Jinwoo from Solo Leveling)]\n• Face & Eyes: Sharp angular V-line jaw, prominent cheekbones, Narrow intense piercing gaze, glowing cyan-blue / deep violet under power, Sharp straight slanted brows\n• Hair: Layered raven-black fringe parting slightly over forehead (Jet black with subtle blue-gray highlights)\n• Build & Height: Tall, broad-shouldered, lean muscular athletic build, Tall (approx 185 cm), apparent age Early 20s\n• Signature Attire: Long high-collared dark trench coat over dark fitted turtleneck and combat pants\n• Weapons & Items: Knight Killer daggers, Demon King daggers\n• Distinctive Traits: Violet-blue shadow aura trailing from limbs, Glowing eye flares\n[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)",
+        "negative_prompt": "blurry, distorted anatomy, missing limbs, altered costume colors, deformed eyes, flat lighting, amateur line art, style drift",
+        "character_lock_block": "[CHARACTER LOCK: Tariq (Ref: Sung Jinwoo from Solo Leveling)]\n• Face & Eyes: Sharp angular V-line jaw, prominent cheekbones, Narrow intense piercing gaze, glowing cyan-blue / deep violet under power, Sharp straight slanted brows\n• Hair: Layered raven-black fringe parting slightly over forehead (Jet black with subtle blue-gray highlights)\n• Build & Height: Tall, broad-shouldered, lean muscular athletic build, Tall (approx 185 cm), apparent age Early 20s\n• Signature Attire: Long high-collared dark trench coat over dark fitted turtleneck and combat pants\n• Weapons & Items: Knight Killer daggers, Demon King daggers\n• Distinctive Traits: Violet-blue shadow aura trailing from limbs, Glowing eye flares",
+        "style_lock_block": "[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)"
+      },
+      "status": "APPROVED",
+      "user_edited": false,
+      "created_at": 1790945865562,
+      "updated_at": 1790945865562
+    },
+    {
+      "id": "p_ch2_s1_4",
+      "chapter_id": "ch_02",
+      "chapter_number": 2,
+      "scene_id": "scene_ch2_s1",
+      "page_or_strip_id": "strip_01",
+      "panel_number_in_page": 4,
+      "global_panel_number": 4,
+      "characters": [
+        {
+          "name": "Tariq",
+          "role": "Participant",
+          "character_lock_id": "tariq"
+        }
+      ],
+      "character_lock_ids": [
+        "tariq"
+      ],
+      "style_lock_id": "style_5aa835a4",
+      "style_version": 1,
+      "location": "Iron Ridge Summit",
+      "story_bible_references": [
+        "tariq"
+      ],
+      "action": "Close-up reaction on Tariq.",
+      "pose": "Subtle head turn, hair catching wind",
+      "facial_expression": "Firm, stoic resolve",
+      "camera_angle": "eye_level",
+      "framing": "close_up",
+      "background_detail": "Iron Ridge Summit with atmospheric perspective and perspective depth",
+      "lighting": "Clean key light with soft fill",
+      "dialogue": [],
+      "narration_boxes": [],
+      "sfx": [],
+      "composition_notes": "close_up focusing on visual storytelling with clean speech bubble clearance",
+      "prompt_payload": {
+        "positive_prompt": "Masterpiece comic panel, close up, eye level.\nScene: Close-up reaction on Tariq..\nCharacters: Tariq. Expression: Firm, stoic resolve. Pose: Subtle head turn, hair catching wind.\nEnvironment: Iron Ridge Summit, Day lighting. Intense kinetic combat mood.\n[CHARACTER LOCK: Tariq (Ref: Sung Jinwoo from Solo Leveling)]\n• Face & Eyes: Sharp angular V-line jaw, prominent cheekbones, Narrow intense piercing gaze, glowing cyan-blue / deep violet under power, Sharp straight slanted brows\n• Hair: Layered raven-black fringe parting slightly over forehead (Jet black with subtle blue-gray highlights)\n• Build & Height: Tall, broad-shouldered, lean muscular athletic build, Tall (approx 185 cm), apparent age Early 20s\n• Signature Attire: Long high-collared dark trench coat over dark fitted turtleneck and combat pants\n• Weapons & Items: Knight Killer daggers, Demon King daggers\n• Distinctive Traits: Violet-blue shadow aura trailing from limbs, Glowing eye flares\n[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)",
+        "negative_prompt": "blurry, distorted anatomy, missing limbs, altered costume colors, deformed eyes, flat lighting, amateur line art, style drift",
+        "character_lock_block": "[CHARACTER LOCK: Tariq (Ref: Sung Jinwoo from Solo Leveling)]\n• Face & Eyes: Sharp angular V-line jaw, prominent cheekbones, Narrow intense piercing gaze, glowing cyan-blue / deep violet under power, Sharp straight slanted brows\n• Hair: Layered raven-black fringe parting slightly over forehead (Jet black with subtle blue-gray highlights)\n• Build & Height: Tall, broad-shouldered, lean muscular athletic build, Tall (approx 185 cm), apparent age Early 20s\n• Signature Attire: Long high-collared dark trench coat over dark fitted turtleneck and combat pants\n• Weapons & Items: Knight Killer daggers, Demon King daggers\n• Distinctive Traits: Violet-blue shadow aura trailing from limbs, Glowing eye flares",
+        "style_lock_block": "[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)"
+      },
+      "status": "APPROVED",
+      "user_edited": false,
+      "created_at": 1790945865562,
+      "updated_at": 1790945865562
+    }
+  ],
+  "tasks": [
+    {
+      "task_id": "task_p_ch2_s1_1",
+      "panel_id": "p_ch2_s1_1",
+      "scene_id": "scene_ch2_s1",
+      "page_or_strip_id": "strip_01",
+      "chapter_number": 2,
+      "priority": 1,
+      "status": "QUEUED",
+      "generation_mode": "FREE_FAST",
+      "provider_routing": {
+        "engine": "Agnes L2 (img2img conditioning)",
+        "consistency_strategy": "Dual-Track Structured Conditioning (Character Lock + Style Lock Profile)",
+        "supports_img2img": true
+      },
+      "prompt_payload": {
+        "positive_prompt": "Masterpiece comic panel, extreme close up, dutch tilt.\nScene: Tariq eyes glow celestial violet as mana gathers.\nCharacters: Tariq. Expression: Composed observation. Pose: Crouched combat readiness.\nEnvironment: Iron Ridge Summit.\n[CHARACTER LOCK: Tariq (Ref: Sung Jinwoo from Solo Leveling)]\n• Face & Eyes: Sharp angular V-line jaw, prominent cheekbones, Narrow intense piercing gaze, glowing cyan-blue / deep violet under power, Sharp straight slanted brows\n• Hair: Layered raven-black fringe parting slightly over forehead (Jet black with subtle blue-gray highlights)\n• Build & Height: Tall, broad-shouldered, lean muscular athletic build, Tall (approx 185 cm), apparent age Early 20s\n• Signature Attire: Long high-collared dark trench coat over dark fitted turtleneck and combat pants\n• Weapons & Items: Knight Killer daggers, Demon King daggers\n• Distinctive Traits: Violet-blue shadow aura trailing from limbs, Glowing eye flares\n[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)",
+        "negative_prompt": "blurry, distorted anatomy, missing limbs, altered costume colors, deformed eyes, flat lighting, amateur line art, style drift",
+        "character_lock_block": "[CHARACTER LOCK: Tariq (Ref: Sung Jinwoo from Solo Leveling)]\n• Face & Eyes: Sharp angular V-line jaw, prominent cheekbones, Narrow intense piercing gaze, glowing cyan-blue / deep violet under power, Sharp straight slanted brows\n• Hair: Layered raven-black fringe parting slightly over forehead (Jet black with subtle blue-gray highlights)\n• Build & Height: Tall, broad-shouldered, lean muscular athletic build, Tall (approx 185 cm), apparent age Early 20s\n• Signature Attire: Long high-collared dark trench coat over dark fitted turtleneck and combat pants\n• Weapons & Items: Knight Killer daggers, Demon King daggers\n• Distinctive Traits: Violet-blue shadow aura trailing from limbs, Glowing eye flares",
+        "style_lock_block": "[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)"
+      },
+      "character_refs": [
+        {
+          "name": "Tariq",
+          "character_lock_id": "tariq"
+        }
+      ],
+      "style_ref": {
+        "style_id": "style_5aa835a4",
+        "style_version": 1
+      },
+      "created_at": 1790945865562,
+      "updated_at": 1790945865589
+    },
+    {
+      "task_id": "task_p_ch2_s1_2",
+      "panel_id": "p_ch2_s1_2",
+      "scene_id": "scene_ch2_s1",
+      "page_or_strip_id": "strip_01",
+      "chapter_number": 2,
+      "priority": 2,
+      "status": "QUEUED",
+      "generation_mode": "FREE_FAST",
+      "provider_routing": {
+        "engine": "Agnes L2 (img2img conditioning)",
+        "consistency_strategy": "Dual-Track Structured Conditioning (Character Lock + Style Lock Profile)",
+        "supports_img2img": true
+      },
+      "prompt_payload": {
+        "positive_prompt": "Masterpiece comic panel, medium shot, low angle.\nScene: Tariq launches dynamic strike with weapon..\nCharacters: Tariq. Expression: Fierce battle cry, sharp intense eyes. Pose: Low dynamic combat stance, momentum forward.\nEnvironment: Iron Ridge Summit, Day lighting. Intense kinetic combat mood.\n[CHARACTER LOCK: Tariq (Ref: Sung Jinwoo from Solo Leveling)]\n• Face & Eyes: Sharp angular V-line jaw, prominent cheekbones, Narrow intense piercing gaze, glowing cyan-blue / deep violet under power, Sharp straight slanted brows\n• Hair: Layered raven-black fringe parting slightly over forehead (Jet black with subtle blue-gray highlights)\n• Build & Height: Tall, broad-shouldered, lean muscular athletic build, Tall (approx 185 cm), apparent age Early 20s\n• Signature Attire: Long high-collared dark trench coat over dark fitted turtleneck and combat pants\n• Weapons & Items: Knight Killer daggers, Demon King daggers\n• Distinctive Traits: Violet-blue shadow aura trailing from limbs, Glowing eye flares\n[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)",
+        "negative_prompt": "blurry, distorted anatomy, missing limbs, altered costume colors, deformed eyes, flat lighting, amateur line art, style drift",
+        "character_lock_block": "[CHARACTER LOCK: Tariq (Ref: Sung Jinwoo from Solo Leveling)]\n• Face & Eyes: Sharp angular V-line jaw, prominent cheekbones, Narrow intense piercing gaze, glowing cyan-blue / deep violet under power, Sharp straight slanted brows\n• Hair: Layered raven-black fringe parting slightly over forehead (Jet black with subtle blue-gray highlights)\n• Build & Height: Tall, broad-shouldered, lean muscular athletic build, Tall (approx 185 cm), apparent age Early 20s\n• Signature Attire: Long high-collared dark trench coat over dark fitted turtleneck and combat pants\n• Weapons & Items: Knight Killer daggers, Demon King daggers\n• Distinctive Traits: Violet-blue shadow aura trailing from limbs, Glowing eye flares",
+        "style_lock_block": "[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)"
+      },
+      "character_refs": [
+        {
+          "name": "Tariq",
+          "character_lock_id": "tariq"
+        }
+      ],
+      "style_ref": {
+        "style_id": "style_5aa835a4",
+        "style_version": 1
+      },
+      "created_at": 1790945865562,
+      "updated_at": 1790945865589
+    },
+    {
+      "task_id": "task_p_ch2_s1_3",
+      "panel_id": "p_ch2_s1_3",
+      "scene_id": "scene_ch2_s1",
+      "page_or_strip_id": "strip_01",
+      "chapter_number": 2,
+      "priority": 3,
+      "status": "QUEUED",
+      "generation_mode": "FREE_FAST",
+      "provider_routing": {
+        "engine": "Agnes L2 (img2img conditioning)",
+        "consistency_strategy": "Dual-Track Structured Conditioning (Character Lock + Style Lock Profile)",
+        "supports_img2img": true
+      },
+      "prompt_payload": {
+        "positive_prompt": "Masterpiece comic panel, cut in, dutch tilt.\nScene: Shockwave impact as blade connects, energy sparks flying..\nCharacters: Tariq. Expression: Strained exertion. Pose: Mid-collision tension.\nEnvironment: Iron Ridge Summit, Day lighting. Intense kinetic combat mood.\n[CHARACTER LOCK: Tariq (Ref: Sung Jinwoo from Solo Leveling)]\n• Face & Eyes: Sharp angular V-line jaw, prominent cheekbones, Narrow intense piercing gaze, glowing cyan-blue / deep violet under power, Sharp straight slanted brows\n• Hair: Layered raven-black fringe parting slightly over forehead (Jet black with subtle blue-gray highlights)\n• Build & Height: Tall, broad-shouldered, lean muscular athletic build, Tall (approx 185 cm), apparent age Early 20s\n• Signature Attire: Long high-collared dark trench coat over dark fitted turtleneck and combat pants\n• Weapons & Items: Knight Killer daggers, Demon King daggers\n• Distinctive Traits: Violet-blue shadow aura trailing from limbs, Glowing eye flares\n[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)",
+        "negative_prompt": "blurry, distorted anatomy, missing limbs, altered costume colors, deformed eyes, flat lighting, amateur line art, style drift",
+        "character_lock_block": "[CHARACTER LOCK: Tariq (Ref: Sung Jinwoo from Solo Leveling)]\n• Face & Eyes: Sharp angular V-line jaw, prominent cheekbones, Narrow intense piercing gaze, glowing cyan-blue / deep violet under power, Sharp straight slanted brows\n• Hair: Layered raven-black fringe parting slightly over forehead (Jet black with subtle blue-gray highlights)\n• Build & Height: Tall, broad-shouldered, lean muscular athletic build, Tall (approx 185 cm), apparent age Early 20s\n• Signature Attire: Long high-collared dark trench coat over dark fitted turtleneck and combat pants\n• Weapons & Items: Knight Killer daggers, Demon King daggers\n• Distinctive Traits: Violet-blue shadow aura trailing from limbs, Glowing eye flares",
+        "style_lock_block": "[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)"
+      },
+      "character_refs": [
+        {
+          "name": "Tariq",
+          "character_lock_id": "tariq"
+        }
+      ],
+      "style_ref": {
+        "style_id": "style_5aa835a4",
+        "style_version": 1
+      },
+      "created_at": 1790945865562,
+      "updated_at": 1790945865589
+    },
+    {
+      "task_id": "task_p_ch2_s1_4",
+      "panel_id": "p_ch2_s1_4",
+      "scene_id": "scene_ch2_s1",
+      "page_or_strip_id": "strip_01",
+      "chapter_number": 2,
+      "priority": 4,
+      "status": "QUEUED",
+      "generation_mode": "FREE_FAST",
+      "provider_routing": {
+        "engine": "Agnes L2 (img2img conditioning)",
+        "consistency_strategy": "Dual-Track Structured Conditioning (Character Lock + Style Lock Profile)",
+        "supports_img2img": true
+      },
+      "prompt_payload": {
+        "positive_prompt": "Masterpiece comic panel, close up, eye level.\nScene: Close-up reaction on Tariq..\nCharacters: Tariq. Expression: Firm, stoic resolve. Pose: Subtle head turn, hair catching wind.\nEnvironment: Iron Ridge Summit, Day lighting. Intense kinetic combat mood.\n[CHARACTER LOCK: Tariq (Ref: Sung Jinwoo from Solo Leveling)]\n• Face & Eyes: Sharp angular V-line jaw, prominent cheekbones, Narrow intense piercing gaze, glowing cyan-blue / deep violet under power, Sharp straight slanted brows\n• Hair: Layered raven-black fringe parting slightly over forehead (Jet black with subtle blue-gray highlights)\n• Build & Height: Tall, broad-shouldered, lean muscular athletic build, Tall (approx 185 cm), apparent age Early 20s\n• Signature Attire: Long high-collared dark trench coat over dark fitted turtleneck and combat pants\n• Weapons & Items: Knight Killer daggers, Demon King daggers\n• Distinctive Traits: Violet-blue shadow aura trailing from limbs, Glowing eye flares\n[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)",
+        "negative_prompt": "blurry, distorted anatomy, missing limbs, altered costume colors, deformed eyes, flat lighting, amateur line art, style drift",
+        "character_lock_block": "[CHARACTER LOCK: Tariq (Ref: Sung Jinwoo from Solo Leveling)]\n• Face & Eyes: Sharp angular V-line jaw, prominent cheekbones, Narrow intense piercing gaze, glowing cyan-blue / deep violet under power, Sharp straight slanted brows\n• Hair: Layered raven-black fringe parting slightly over forehead (Jet black with subtle blue-gray highlights)\n• Build & Height: Tall, broad-shouldered, lean muscular athletic build, Tall (approx 185 cm), apparent age Early 20s\n• Signature Attire: Long high-collared dark trench coat over dark fitted turtleneck and combat pants\n• Weapons & Items: Knight Killer daggers, Demon King daggers\n• Distinctive Traits: Violet-blue shadow aura trailing from limbs, Glowing eye flares",
+        "style_lock_block": "[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)"
+      },
+      "character_refs": [
+        {
+          "name": "Tariq",
+          "character_lock_id": "tariq"
+        }
+      ],
+      "style_ref": {
+        "style_id": "style_5aa835a4",
+        "style_version": 1
+      },
+      "created_at": 1790945865562,
+      "updated_at": 1790945865589
+    }
+  ],
+  "total_panels": 4,
+  "total_pages": 1,
+  "approved": true,
+  "manual_approval_required": false,
+  "created_at": 1790945865562,
+  "updated_at": 1790945865589
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "panel_id": "p_ch1_s1_1",
+    "novel_id": "nv_f8368cf3-7",
+    "chapter_number": 1,
+    "scene_id": "scene_ch1_s1",
+    "page_or_strip_id": "strip_01",
+    "global_panel_number": 1,
+    "status": "COMPLETE",
+    "image_url": "/api/novels/nv_f8368cf3-7/panels/files/ch01_p_ch1_s1_1.png",
+    "aspect_ratio": "3:4",
+    "input_layers": {
+      "character_constraints": "[CHARACTER: Protagonist] Native novel depiction, neutral manga character design.",
+      "style_constraints": "[VISUAL STYLE: The Eternal Supreme v1] Line Art: Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework thickness, High-clarity xianxia martial arts line work with sharp dynamic taper density, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition. Color Mode: full_color. Shading: Dimensional multi-layer cel-shading with glowing emissive rim lighting, shadows: Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, contrast: High dramatic contrast between deep environmental shadows and radiant spiritual energy. Rendering: Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases. Effects: Radial convergence lines focused on martial strikes, explosive kinetic shockwave bursts, Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence. Mood: Majestic, domineering, mystical, high-stakes cultivation martial grandeur.",
+      "story_constraints": "[STORY BEAT] Scene at Setting. Action: Establishing shot of Setting. Protagonist positioned in environment.. Character expression: Composed observation. Pose: Standing surveying the surroundings. Background: Setting with atmospheric perspective and perspective depth.",
+      "panel_composition": "[PANEL COMPOSITION] Camera Angle: eye_level. Framing: wide_shot. Lighting: Clean key light with soft fill. Composition Notes: wide_shot focusing on visual storytelling with clean speech bubble clearance.",
+      "negative_constraints": "photorealistic, 3d render, western superhero comic style, deformed hands, missing fingers, extra limbs, inconsistent costume colors, blurry line art, unrendered background, bad anatomy, text on base artwork"
+    },
+    "reference_mode": "style_only",
+    "provider_tier": "LOCAL_ZERO_COST",
+    "provider_name": "Inkstone Zero-Cost Renderer",
+    "seed": 7859823,
+    "cached": false,
+    "cache_key": "23e52790c855b47736d4a1a2",
+    "continuity": {
+      "previous_characters": [],
+      "environment": "Setting",
+      "lighting": "Clean key light with soft fill",
+      "active_style_version": 1
+    },
+    "drift_check": {
+      "has_drift": false,
+      "drift_type": "none",
+      "status": "APPROVED",
+      "style_drift_reasons": [],
+      "character_drift_reasons": [],
+      "confidence": 0.95
+    },
+    "lettering": {
+      "bubbles": [
+        {
+          "id": "bubble_1_dlg_scene_ch1_s1_1",
+          "type": "shout",
+          "speaker": "Protagonist",
+          "text": "ثلاثمائة عام... لقد عدت أخيرًا",
+          "x": 74,
+          "y": 14,
+          "size": "small",
+          "tail_direction": "right",
+          "tail_x": 82,
+          "tail_y": 26,
+          "language": "ar"
+        }
+      ],
+      "sfx": [],
+      "svg_overlay": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 800 1100\" width=\"100%\" height=\"100%\" dir=\"rtl\" style=\"position:absolute;top:0;left:0;pointer-events:none;\">\n      \n        <g id=\"bubble_1_dlg_scene_ch1_s1_1\" class=\"lettering-bubble\" data-bubble-id=\"bubble_1_dlg_scene_ch1_s1_1\">\n          <polygon points=\"678,154 654,160 669,170 642,171 646,182 620,178 611,189 592,181 573,189 564,178 538,182 542,171 515,170 530,160 506,154 530,148 515,138 542,137 538,126 564,130 573,119 592,127 611,119 620,130 646,126 642,137 669,138 654,148\" fill=\"#ffffff\" stroke=\"#e11d48\" stroke-width=\"3.5\" filter=\"drop-shadow(2px 3px 0px rgba(0,0,0,0.3))\" />\n          <text x=\"592\" y=\"138.5\" text-anchor=\"middle\" font-family=\"'Amiri', 'Scheherazade New', 'Tahoma', sans-serif\" font-size=\"9\" font-weight=\"bold\" fill=\"#64748b\" direction=\"rtl\">[Protagonist]</text>\n          <text x=\"592\" y=\"158\" text-anchor=\"middle\" font-family=\"'Amiri', 'Scheherazade New', 'Tahoma', sans-serif\" font-size=\"12\" font-weight=\"600\"\n                fill=\"#09090b\" direction=\"rtl\" style=\"white-space: pre-wrap; word-break: break-word;\">\n            ثلاثمائة عام... لقد عدت أخيرًا\n          </text>\n        </g>\n    </svg>",
+      "language": "ar",
+      "updated_at": 1790945780183
+    },
+    "character_locks_applied": [],
+    "style_lock_id": "style_82d9322d",
+    "style_version": 1,
+    "is_locked": false,
+    "user_edited": false,
+    "created_at": 1790945780183,
+    "updated_at": 1790945780184
+  }
+]

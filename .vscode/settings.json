@@ -1,0 +1,6 @@
+{
+  "files.exclude": {
+    "**/.idea/": true
+  },
+  "python.terminal.activateEnvironment": false
+}

@@ -1,0 +1,873 @@
+{
+  "id": "sb_novel_stage5_test_ch1_1790945865556",
+  "novel_id": "novel_stage5_test",
+  "chapter_id": "ch_01",
+  "chapter_number": 1,
+  "chapter_title": "معركة بوابة الظلال",
+  "layout_mode": "vertical_webtoon",
+  "generation_mode": "FREE_FAST",
+  "scenes": [
+    {
+      "id": "scene_ch1_s1",
+      "scene_number": 1,
+      "location": "ساحة المعركة الكبرى عند أطلال",
+      "time_of_day": "Night",
+      "participating_characters": [
+        "Protagonist"
+      ],
+      "action_summary": "الفصل الأول: معركة بوابة الظلال في ساحة المعركة الكبرى عند أطلال القلعة المظلمة، كانت الرياح تعصف بشدة.",
+      "dialogue": [
+        {
+          "id": "dlg_scene_ch1_s1_1",
+          "speaker": "Protagonist",
+          "text": "لن تسقط هذه القلعة اليوم! استعدوا للدفاع!",
+          "bubble_type": "shout"
+        },
+        {
+          "id": "dlg_scene_ch1_s1_2",
+          "speaker": "Protagonist",
+          "text": "سأغطي جناحك الأيمن بسحر اللهب الأزرق!",
+          "bubble_type": "shout"
+        }
+      ],
+      "narration": [
+        "الفصل الأول: معركة بوابة الظلال في ساحة المعركة الكبرى عند أطلال القلعة المظلمة، كانت الرياح تعصف بشدة."
+      ],
+      "emotional_tone": "Intense kinetic combat",
+      "important_objects": [],
+      "powers_techniques": [],
+      "continuity_requirements": [
+        "Preserve character appearances in ساحة المعركة الكبرى عند أطلال"
+      ],
+      "story_bible_references": {
+        "character_ids": []
+      }
+    },
+    {
+      "id": "scene_ch1_s2",
+      "scene_number": 2,
+      "location": "القلعة المظلمة، ساد الهدوء لبر",
+      "time_of_day": "Day",
+      "participating_characters": [
+        "Protagonist"
+      ],
+      "action_summary": "داخل القلعة المظلمة، ساد الهدوء لبرهة. فكر طارق في نفسه: هل سننجو من هذه الكارثة إذا استمر تدفق الوحوش؟",
+      "dialogue": [
+        {
+          "id": "dlg_scene_ch1_s2_1",
+          "speaker": "Protagonist",
+          "text": "علينا إغلاق البوابة قبل شروق الشمس",
+          "bubble_type": "shout"
+        },
+        {
+          "id": "dlg_scene_ch1_s2_thought_2",
+          "speaker": "Protagonist",
+          "text": "هل سننجو من هذه الكارثة إذا استمر تدفق الوحوش؟",
+          "bubble_type": "thought"
+        }
+      ],
+      "narration": [
+        "داخل القلعة المظلمة، ساد الهدوء لبرهة. فكر طارق في نفسه: هل سننجو من هذه الكارثة إذا استمر تدفق الوحوش؟"
+      ],
+      "emotional_tone": "Neutral dramatic",
+      "important_objects": [],
+      "powers_techniques": [],
+      "continuity_requirements": [
+        "Preserve character appearances in القلعة المظلمة، ساد الهدوء لبر"
+      ],
+      "story_bible_references": {
+        "character_ids": []
+      }
+    }
+  ],
+  "pages": [
+    {
+      "page_id": "strip_01",
+      "page_number": 1,
+      "panels": [
+        {
+          "id": "p_ch1_s1_1",
+          "chapter_id": "ch_01",
+          "chapter_number": 1,
+          "scene_id": "scene_ch1_s1",
+          "page_or_strip_id": "strip_01",
+          "panel_number_in_page": 1,
+          "global_panel_number": 1,
+          "characters": [
+            {
+              "name": "Protagonist",
+              "role": "Participant"
+            }
+          ],
+          "character_lock_ids": [],
+          "style_lock_id": "style_5aa835a4",
+          "style_version": 1,
+          "location": "ساحة المعركة الكبرى عند أطلال",
+          "story_bible_references": [],
+          "action": "Establishing shot of ساحة المعركة الكبرى عند أطلال. Protagonist positioned in environment.",
+          "pose": "Standing surveying the surroundings",
+          "facial_expression": "Composed observation",
+          "camera_angle": "eye_level",
+          "framing": "wide_shot",
+          "background_detail": "ساحة المعركة الكبرى عند أطلال with atmospheric perspective and perspective depth",
+          "lighting": "Dramatic moonlit rim lighting with deep cast shadows",
+          "dialogue": [
+            {
+              "id": "dlg_scene_ch1_s1_1",
+              "speaker": "Protagonist",
+              "text": "لن تسقط هذه القلعة اليوم! استعدوا للدفاع!",
+              "bubble_type": "shout"
+            }
+          ],
+          "narration_boxes": [
+            "الفصل الأول: معركة بوابة الظلال في ساحة المعركة الكبرى عند أطلال القلعة المظلمة، كانت الرياح تعصف بشدة."
+          ],
+          "sfx": [],
+          "composition_notes": "wide_shot focusing on visual storytelling with clean speech bubble clearance",
+          "prompt_payload": {
+            "positive_prompt": "Masterpiece comic panel, wide shot, eye level.\nScene: Establishing shot of ساحة المعركة الكبرى عند أطلال. Protagonist positioned in environment..\nCharacters: Protagonist. Expression: Composed observation. Pose: Standing surveying the surroundings.\nEnvironment: ساحة المعركة الكبرى عند أطلال, Night lighting. Intense kinetic combat mood.\n[CHARACTER LOCK: Inactive or No Mapped Characters]\n[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)",
+            "negative_prompt": "blurry, distorted anatomy, missing limbs, altered costume colors, deformed eyes, flat lighting, amateur line art, style drift",
+            "character_lock_block": "[CHARACTER LOCK: Inactive or No Mapped Characters]",
+            "style_lock_block": "[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)"
+          },
+          "status": "PLANNED",
+          "user_edited": false,
+          "created_at": 1790945865555,
+          "updated_at": 1790945865555
+        },
+        {
+          "id": "p_ch1_s1_2",
+          "chapter_id": "ch_01",
+          "chapter_number": 1,
+          "scene_id": "scene_ch1_s1",
+          "page_or_strip_id": "strip_01",
+          "panel_number_in_page": 2,
+          "global_panel_number": 2,
+          "characters": [
+            {
+              "name": "Protagonist",
+              "role": "Participant"
+            }
+          ],
+          "character_lock_ids": [],
+          "style_lock_id": "style_5aa835a4",
+          "style_version": 1,
+          "location": "ساحة المعركة الكبرى عند أطلال",
+          "story_bible_references": [],
+          "action": "Protagonist launches dynamic strike with weapon.",
+          "pose": "Low dynamic combat stance, momentum forward",
+          "facial_expression": "Fierce battle cry, sharp intense eyes",
+          "camera_angle": "low_angle",
+          "framing": "medium_shot",
+          "background_detail": "ساحة المعركة الكبرى عند أطلال with atmospheric perspective and perspective depth",
+          "lighting": "Dramatic moonlit rim lighting with deep cast shadows",
+          "dialogue": [
+            {
+              "id": "dlg_scene_ch1_s1_2",
+              "speaker": "Protagonist",
+              "text": "سأغطي جناحك الأيمن بسحر اللهب الأزرق!",
+              "bubble_type": "shout"
+            }
+          ],
+          "narration_boxes": [],
+          "sfx": [
+            {
+              "text": "SLASH!",
+              "placement": "diagonal across weapon arc",
+              "style": "bold kinetic"
+            }
+          ],
+          "composition_notes": "medium_shot focusing on visual storytelling with clean speech bubble clearance",
+          "prompt_payload": {
+            "positive_prompt": "Masterpiece comic panel, medium shot, low angle.\nScene: Protagonist launches dynamic strike with weapon..\nCharacters: Protagonist. Expression: Fierce battle cry, sharp intense eyes. Pose: Low dynamic combat stance, momentum forward.\nEnvironment: ساحة المعركة الكبرى عند أطلال, Night lighting. Intense kinetic combat mood.\n[CHARACTER LOCK: Inactive or No Mapped Characters]\n[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)",
+            "negative_prompt": "blurry, distorted anatomy, missing limbs, altered costume colors, deformed eyes, flat lighting, amateur line art, style drift",
+            "character_lock_block": "[CHARACTER LOCK: Inactive or No Mapped Characters]",
+            "style_lock_block": "[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)"
+          },
+          "status": "PLANNED",
+          "user_edited": false,
+          "created_at": 1790945865555,
+          "updated_at": 1790945865555
+        },
+        {
+          "id": "p_ch1_s1_3",
+          "chapter_id": "ch_01",
+          "chapter_number": 1,
+          "scene_id": "scene_ch1_s1",
+          "page_or_strip_id": "strip_01",
+          "panel_number_in_page": 3,
+          "global_panel_number": 3,
+          "characters": [
+            {
+              "name": "Protagonist",
+              "role": "Participant"
+            }
+          ],
+          "character_lock_ids": [],
+          "style_lock_id": "style_5aa835a4",
+          "style_version": 1,
+          "location": "ساحة المعركة الكبرى عند أطلال",
+          "story_bible_references": [],
+          "action": "Shockwave impact as blade connects, energy sparks flying.",
+          "pose": "Mid-collision tension",
+          "facial_expression": "Strained exertion",
+          "camera_angle": "dutch_tilt",
+          "framing": "cut_in",
+          "background_detail": "ساحة المعركة الكبرى عند أطلال with atmospheric perspective and perspective depth",
+          "lighting": "Dramatic moonlit rim lighting with deep cast shadows",
+          "dialogue": [],
+          "narration_boxes": [],
+          "sfx": [
+            {
+              "text": "BOOM!",
+              "placement": "center burst",
+              "style": "heavy impact"
+            }
+          ],
+          "composition_notes": "cut_in focusing on visual storytelling with clean speech bubble clearance",
+          "prompt_payload": {
+            "positive_prompt": "Masterpiece comic panel, cut in, dutch tilt.\nScene: Shockwave impact as blade connects, energy sparks flying..\nCharacters: Protagonist. Expression: Strained exertion. Pose: Mid-collision tension.\nEnvironment: ساحة المعركة الكبرى عند أطلال, Night lighting. Intense kinetic combat mood.\n[CHARACTER LOCK: Inactive or No Mapped Characters]\n[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)",
+            "negative_prompt": "blurry, distorted anatomy, missing limbs, altered costume colors, deformed eyes, flat lighting, amateur line art, style drift",
+            "character_lock_block": "[CHARACTER LOCK: Inactive or No Mapped Characters]",
+            "style_lock_block": "[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)"
+          },
+          "status": "PLANNED",
+          "user_edited": false,
+          "created_at": 1790945865555,
+          "updated_at": 1790945865555
+        },
+        {
+          "id": "p_ch1_s1_4",
+          "chapter_id": "ch_01",
+          "chapter_number": 1,
+          "scene_id": "scene_ch1_s1",
+          "page_or_strip_id": "strip_01",
+          "panel_number_in_page": 4,
+          "global_panel_number": 4,
+          "characters": [
+            {
+              "name": "Protagonist",
+              "role": "Participant"
+            }
+          ],
+          "character_lock_ids": [],
+          "style_lock_id": "style_5aa835a4",
+          "style_version": 1,
+          "location": "ساحة المعركة الكبرى عند أطلال",
+          "story_bible_references": [],
+          "action": "Close-up reaction on Protagonist.",
+          "pose": "Subtle head turn, hair catching wind",
+          "facial_expression": "Firm, stoic resolve",
+          "camera_angle": "eye_level",
+          "framing": "close_up",
+          "background_detail": "ساحة المعركة الكبرى عند أطلال with atmospheric perspective and perspective depth",
+          "lighting": "Dramatic moonlit rim lighting with deep cast shadows",
+          "dialogue": [],
+          "narration_boxes": [],
+          "sfx": [],
+          "composition_notes": "close_up focusing on visual storytelling with clean speech bubble clearance",
+          "prompt_payload": {
+            "positive_prompt": "Masterpiece comic panel, close up, eye level.\nScene: Close-up reaction on Protagonist..\nCharacters: Protagonist. Expression: Firm, stoic resolve. Pose: Subtle head turn, hair catching wind.\nEnvironment: ساحة المعركة الكبرى عند أطلال, Night lighting. Intense kinetic combat mood.\n[CHARACTER LOCK: Inactive or No Mapped Characters]\n[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)",
+            "negative_prompt": "blurry, distorted anatomy, missing limbs, altered costume colors, deformed eyes, flat lighting, amateur line art, style drift",
+            "character_lock_block": "[CHARACTER LOCK: Inactive or No Mapped Characters]",
+            "style_lock_block": "[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)"
+          },
+          "status": "PLANNED",
+          "user_edited": false,
+          "created_at": 1790945865555,
+          "updated_at": 1790945865555
+        },
+        {
+          "id": "p_ch1_s2_1",
+          "chapter_id": "ch_01",
+          "chapter_number": 1,
+          "scene_id": "scene_ch1_s2",
+          "page_or_strip_id": "strip_01",
+          "panel_number_in_page": 5,
+          "global_panel_number": 5,
+          "characters": [
+            {
+              "name": "Protagonist",
+              "role": "Participant"
+            }
+          ],
+          "character_lock_ids": [],
+          "style_lock_id": "style_5aa835a4",
+          "style_version": 1,
+          "location": "القلعة المظلمة، ساد الهدوء لبر",
+          "story_bible_references": [],
+          "action": "Establishing shot of القلعة المظلمة، ساد الهدوء لبر. Protagonist positioned in environment.",
+          "pose": "Standing surveying the surroundings",
+          "facial_expression": "Composed observation",
+          "camera_angle": "eye_level",
+          "framing": "wide_shot",
+          "background_detail": "القلعة المظلمة، ساد الهدوء لبر with atmospheric perspective and perspective depth",
+          "lighting": "Clean key light with soft fill",
+          "dialogue": [
+            {
+              "id": "dlg_scene_ch1_s2_1",
+              "speaker": "Protagonist",
+              "text": "علينا إغلاق البوابة قبل شروق الشمس",
+              "bubble_type": "shout"
+            }
+          ],
+          "narration_boxes": [
+            "داخل القلعة المظلمة، ساد الهدوء لبرهة. فكر طارق في نفسه: هل سننجو من هذه الكارثة إذا استمر تدفق الوحوش؟"
+          ],
+          "sfx": [],
+          "composition_notes": "wide_shot focusing on visual storytelling with clean speech bubble clearance",
+          "prompt_payload": {
+            "positive_prompt": "Masterpiece comic panel, wide shot, eye level.\nScene: Establishing shot of القلعة المظلمة، ساد الهدوء لبر. Protagonist positioned in environment..\nCharacters: Protagonist. Expression: Composed observation. Pose: Standing surveying the surroundings.\nEnvironment: القلعة المظلمة، ساد الهدوء لبر, Day lighting. Neutral dramatic mood.\n[CHARACTER LOCK: Inactive or No Mapped Characters]\n[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)",
+            "negative_prompt": "blurry, distorted anatomy, missing limbs, altered costume colors, deformed eyes, flat lighting, amateur line art, style drift",
+            "character_lock_block": "[CHARACTER LOCK: Inactive or No Mapped Characters]",
+            "style_lock_block": "[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)"
+          },
+          "status": "PLANNED",
+          "user_edited": false,
+          "created_at": 1790945865556,
+          "updated_at": 1790945865556
+        },
+        {
+          "id": "p_ch1_s2_2",
+          "chapter_id": "ch_01",
+          "chapter_number": 1,
+          "scene_id": "scene_ch1_s2",
+          "page_or_strip_id": "strip_01",
+          "panel_number_in_page": 1,
+          "global_panel_number": 6,
+          "characters": [
+            {
+              "name": "Protagonist",
+              "role": "Participant"
+            }
+          ],
+          "character_lock_ids": [],
+          "style_lock_id": "style_5aa835a4",
+          "style_version": 1,
+          "location": "القلعة المظلمة، ساد الهدوء لبر",
+          "story_bible_references": [],
+          "action": "Close-up reaction on Protagonist.",
+          "pose": "Subtle head turn, hair catching wind",
+          "facial_expression": "Firm, stoic resolve",
+          "camera_angle": "eye_level",
+          "framing": "close_up",
+          "background_detail": "القلعة المظلمة، ساد الهدوء لبر with atmospheric perspective and perspective depth",
+          "lighting": "Clean key light with soft fill",
+          "dialogue": [
+            {
+              "id": "dlg_scene_ch1_s2_thought_2",
+              "speaker": "Protagonist",
+              "text": "هل سننجو من هذه الكارثة إذا استمر تدفق الوحوش؟",
+              "bubble_type": "thought"
+            }
+          ],
+          "narration_boxes": [],
+          "sfx": [],
+          "composition_notes": "close_up focusing on visual storytelling with clean speech bubble clearance",
+          "prompt_payload": {
+            "positive_prompt": "Masterpiece comic panel, close up, eye level.\nScene: Close-up reaction on Protagonist..\nCharacters: Protagonist. Expression: Firm, stoic resolve. Pose: Subtle head turn, hair catching wind.\nEnvironment: القلعة المظلمة، ساد الهدوء لبر, Day lighting. Neutral dramatic mood.\n[CHARACTER LOCK: Inactive or No Mapped Characters]\n[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)",
+            "negative_prompt": "blurry, distorted anatomy, missing limbs, altered costume colors, deformed eyes, flat lighting, amateur line art, style drift",
+            "character_lock_block": "[CHARACTER LOCK: Inactive or No Mapped Characters]",
+            "style_lock_block": "[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)"
+          },
+          "status": "PLANNED",
+          "user_edited": false,
+          "created_at": 1790945865556,
+          "updated_at": 1790945865556
+        }
+      ]
+    }
+  ],
+  "panels": [
+    {
+      "id": "p_ch1_s1_1",
+      "chapter_id": "ch_01",
+      "chapter_number": 1,
+      "scene_id": "scene_ch1_s1",
+      "page_or_strip_id": "strip_01",
+      "panel_number_in_page": 1,
+      "global_panel_number": 1,
+      "characters": [
+        {
+          "name": "Protagonist",
+          "role": "Participant"
+        }
+      ],
+      "character_lock_ids": [],
+      "style_lock_id": "style_5aa835a4",
+      "style_version": 1,
+      "location": "ساحة المعركة الكبرى عند أطلال",
+      "story_bible_references": [],
+      "action": "Establishing shot of ساحة المعركة الكبرى عند أطلال. Protagonist positioned in environment.",
+      "pose": "Standing surveying the surroundings",
+      "facial_expression": "Composed observation",
+      "camera_angle": "eye_level",
+      "framing": "wide_shot",
+      "background_detail": "ساحة المعركة الكبرى عند أطلال with atmospheric perspective and perspective depth",
+      "lighting": "Dramatic moonlit rim lighting with deep cast shadows",
+      "dialogue": [
+        {
+          "id": "dlg_scene_ch1_s1_1",
+          "speaker": "Protagonist",
+          "text": "لن تسقط هذه القلعة اليوم! استعدوا للدفاع!",
+          "bubble_type": "shout"
+        }
+      ],
+      "narration_boxes": [
+        "الفصل الأول: معركة بوابة الظلال في ساحة المعركة الكبرى عند أطلال القلعة المظلمة، كانت الرياح تعصف بشدة."
+      ],
+      "sfx": [],
+      "composition_notes": "wide_shot focusing on visual storytelling with clean speech bubble clearance",
+      "prompt_payload": {
+        "positive_prompt": "Masterpiece comic panel, wide shot, eye level.\nScene: Establishing shot of ساحة المعركة الكبرى عند أطلال. Protagonist positioned in environment..\nCharacters: Protagonist. Expression: Composed observation. Pose: Standing surveying the surroundings.\nEnvironment: ساحة المعركة الكبرى عند أطلال, Night lighting. Intense kinetic combat mood.\n[CHARACTER LOCK: Inactive or No Mapped Characters]\n[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)",
+        "negative_prompt": "blurry, distorted anatomy, missing limbs, altered costume colors, deformed eyes, flat lighting, amateur line art, style drift",
+        "character_lock_block": "[CHARACTER LOCK: Inactive or No Mapped Characters]",
+        "style_lock_block": "[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)"
+      },
+      "status": "PLANNED",
+      "user_edited": false,
+      "created_at": 1790945865555,
+      "updated_at": 1790945865555
+    },
+    {
+      "id": "p_ch1_s1_2",
+      "chapter_id": "ch_01",
+      "chapter_number": 1,
+      "scene_id": "scene_ch1_s1",
+      "page_or_strip_id": "strip_01",
+      "panel_number_in_page": 2,
+      "global_panel_number": 2,
+      "characters": [
+        {
+          "name": "Protagonist",
+          "role": "Participant"
+        }
+      ],
+      "character_lock_ids": [],
+      "style_lock_id": "style_5aa835a4",
+      "style_version": 1,
+      "location": "ساحة المعركة الكبرى عند أطلال",
+      "story_bible_references": [],
+      "action": "Protagonist launches dynamic strike with weapon.",
+      "pose": "Low dynamic combat stance, momentum forward",
+      "facial_expression": "Fierce battle cry, sharp intense eyes",
+      "camera_angle": "low_angle",
+      "framing": "medium_shot",
+      "background_detail": "ساحة المعركة الكبرى عند أطلال with atmospheric perspective and perspective depth",
+      "lighting": "Dramatic moonlit rim lighting with deep cast shadows",
+      "dialogue": [
+        {
+          "id": "dlg_scene_ch1_s1_2",
+          "speaker": "Protagonist",
+          "text": "سأغطي جناحك الأيمن بسحر اللهب الأزرق!",
+          "bubble_type": "shout"
+        }
+      ],
+      "narration_boxes": [],
+      "sfx": [
+        {
+          "text": "SLASH!",
+          "placement": "diagonal across weapon arc",
+          "style": "bold kinetic"
+        }
+      ],
+      "composition_notes": "medium_shot focusing on visual storytelling with clean speech bubble clearance",
+      "prompt_payload": {
+        "positive_prompt": "Masterpiece comic panel, medium shot, low angle.\nScene: Protagonist launches dynamic strike with weapon..\nCharacters: Protagonist. Expression: Fierce battle cry, sharp intense eyes. Pose: Low dynamic combat stance, momentum forward.\nEnvironment: ساحة المعركة الكبرى عند أطلال, Night lighting. Intense kinetic combat mood.\n[CHARACTER LOCK: Inactive or No Mapped Characters]\n[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)",
+        "negative_prompt": "blurry, distorted anatomy, missing limbs, altered costume colors, deformed eyes, flat lighting, amateur line art, style drift",
+        "character_lock_block": "[CHARACTER LOCK: Inactive or No Mapped Characters]",
+        "style_lock_block": "[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)"
+      },
+      "status": "PLANNED",
+      "user_edited": false,
+      "created_at": 1790945865555,
+      "updated_at": 1790945865555
+    },
+    {
+      "id": "p_ch1_s1_3",
+      "chapter_id": "ch_01",
+      "chapter_number": 1,
+      "scene_id": "scene_ch1_s1",
+      "page_or_strip_id": "strip_01",
+      "panel_number_in_page": 3,
+      "global_panel_number": 3,
+      "characters": [
+        {
+          "name": "Protagonist",
+          "role": "Participant"
+        }
+      ],
+      "character_lock_ids": [],
+      "style_lock_id": "style_5aa835a4",
+      "style_version": 1,
+      "location": "ساحة المعركة الكبرى عند أطلال",
+      "story_bible_references": [],
+      "action": "Shockwave impact as blade connects, energy sparks flying.",
+      "pose": "Mid-collision tension",
+      "facial_expression": "Strained exertion",
+      "camera_angle": "dutch_tilt",
+      "framing": "cut_in",
+      "background_detail": "ساحة المعركة الكبرى عند أطلال with atmospheric perspective and perspective depth",
+      "lighting": "Dramatic moonlit rim lighting with deep cast shadows",
+      "dialogue": [],
+      "narration_boxes": [],
+      "sfx": [
+        {
+          "text": "BOOM!",
+          "placement": "center burst",
+          "style": "heavy impact"
+        }
+      ],
+      "composition_notes": "cut_in focusing on visual storytelling with clean speech bubble clearance",
+      "prompt_payload": {
+        "positive_prompt": "Masterpiece comic panel, cut in, dutch tilt.\nScene: Shockwave impact as blade connects, energy sparks flying..\nCharacters: Protagonist. Expression: Strained exertion. Pose: Mid-collision tension.\nEnvironment: ساحة المعركة الكبرى عند أطلال, Night lighting. Intense kinetic combat mood.\n[CHARACTER LOCK: Inactive or No Mapped Characters]\n[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)",
+        "negative_prompt": "blurry, distorted anatomy, missing limbs, altered costume colors, deformed eyes, flat lighting, amateur line art, style drift",
+        "character_lock_block": "[CHARACTER LOCK: Inactive or No Mapped Characters]",
+        "style_lock_block": "[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)"
+      },
+      "status": "PLANNED",
+      "user_edited": false,
+      "created_at": 1790945865555,
+      "updated_at": 1790945865555
+    },
+    {
+      "id": "p_ch1_s1_4",
+      "chapter_id": "ch_01",
+      "chapter_number": 1,
+      "scene_id": "scene_ch1_s1",
+      "page_or_strip_id": "strip_01",
+      "panel_number_in_page": 4,
+      "global_panel_number": 4,
+      "characters": [
+        {
+          "name": "Protagonist",
+          "role": "Participant"
+        }
+      ],
+      "character_lock_ids": [],
+      "style_lock_id": "style_5aa835a4",
+      "style_version": 1,
+      "location": "ساحة المعركة الكبرى عند أطلال",
+      "story_bible_references": [],
+      "action": "Close-up reaction on Protagonist.",
+      "pose": "Subtle head turn, hair catching wind",
+      "facial_expression": "Firm, stoic resolve",
+      "camera_angle": "eye_level",
+      "framing": "close_up",
+      "background_detail": "ساحة المعركة الكبرى عند أطلال with atmospheric perspective and perspective depth",
+      "lighting": "Dramatic moonlit rim lighting with deep cast shadows",
+      "dialogue": [],
+      "narration_boxes": [],
+      "sfx": [],
+      "composition_notes": "close_up focusing on visual storytelling with clean speech bubble clearance",
+      "prompt_payload": {
+        "positive_prompt": "Masterpiece comic panel, close up, eye level.\nScene: Close-up reaction on Protagonist..\nCharacters: Protagonist. Expression: Firm, stoic resolve. Pose: Subtle head turn, hair catching wind.\nEnvironment: ساحة المعركة الكبرى عند أطلال, Night lighting. Intense kinetic combat mood.\n[CHARACTER LOCK: Inactive or No Mapped Characters]\n[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)",
+        "negative_prompt": "blurry, distorted anatomy, missing limbs, altered costume colors, deformed eyes, flat lighting, amateur line art, style drift",
+        "character_lock_block": "[CHARACTER LOCK: Inactive or No Mapped Characters]",
+        "style_lock_block": "[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)"
+      },
+      "status": "PLANNED",
+      "user_edited": false,
+      "created_at": 1790945865555,
+      "updated_at": 1790945865555
+    },
+    {
+      "id": "p_ch1_s2_1",
+      "chapter_id": "ch_01",
+      "chapter_number": 1,
+      "scene_id": "scene_ch1_s2",
+      "page_or_strip_id": "strip_01",
+      "panel_number_in_page": 5,
+      "global_panel_number": 5,
+      "characters": [
+        {
+          "name": "Protagonist",
+          "role": "Participant"
+        }
+      ],
+      "character_lock_ids": [],
+      "style_lock_id": "style_5aa835a4",
+      "style_version": 1,
+      "location": "القلعة المظلمة، ساد الهدوء لبر",
+      "story_bible_references": [],
+      "action": "Establishing shot of القلعة المظلمة، ساد الهدوء لبر. Protagonist positioned in environment.",
+      "pose": "Standing surveying the surroundings",
+      "facial_expression": "Composed observation",
+      "camera_angle": "eye_level",
+      "framing": "wide_shot",
+      "background_detail": "القلعة المظلمة، ساد الهدوء لبر with atmospheric perspective and perspective depth",
+      "lighting": "Clean key light with soft fill",
+      "dialogue": [
+        {
+          "id": "dlg_scene_ch1_s2_1",
+          "speaker": "Protagonist",
+          "text": "علينا إغلاق البوابة قبل شروق الشمس",
+          "bubble_type": "shout"
+        }
+      ],
+      "narration_boxes": [
+        "داخل القلعة المظلمة، ساد الهدوء لبرهة. فكر طارق في نفسه: هل سننجو من هذه الكارثة إذا استمر تدفق الوحوش؟"
+      ],
+      "sfx": [],
+      "composition_notes": "wide_shot focusing on visual storytelling with clean speech bubble clearance",
+      "prompt_payload": {
+        "positive_prompt": "Masterpiece comic panel, wide shot, eye level.\nScene: Establishing shot of القلعة المظلمة، ساد الهدوء لبر. Protagonist positioned in environment..\nCharacters: Protagonist. Expression: Composed observation. Pose: Standing surveying the surroundings.\nEnvironment: القلعة المظلمة، ساد الهدوء لبر, Day lighting. Neutral dramatic mood.\n[CHARACTER LOCK: Inactive or No Mapped Characters]\n[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)",
+        "negative_prompt": "blurry, distorted anatomy, missing limbs, altered costume colors, deformed eyes, flat lighting, amateur line art, style drift",
+        "character_lock_block": "[CHARACTER LOCK: Inactive or No Mapped Characters]",
+        "style_lock_block": "[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)"
+      },
+      "status": "PLANNED",
+      "user_edited": false,
+      "created_at": 1790945865556,
+      "updated_at": 1790945865556
+    },
+    {
+      "id": "p_ch1_s2_2",
+      "chapter_id": "ch_01",
+      "chapter_number": 1,
+      "scene_id": "scene_ch1_s2",
+      "page_or_strip_id": "strip_01",
+      "panel_number_in_page": 1,
+      "global_panel_number": 6,
+      "characters": [
+        {
+          "name": "Protagonist",
+          "role": "Participant"
+        }
+      ],
+      "character_lock_ids": [],
+      "style_lock_id": "style_5aa835a4",
+      "style_version": 1,
+      "location": "القلعة المظلمة، ساد الهدوء لبر",
+      "story_bible_references": [],
+      "action": "Close-up reaction on Protagonist.",
+      "pose": "Subtle head turn, hair catching wind",
+      "facial_expression": "Firm, stoic resolve",
+      "camera_angle": "eye_level",
+      "framing": "close_up",
+      "background_detail": "القلعة المظلمة، ساد الهدوء لبر with atmospheric perspective and perspective depth",
+      "lighting": "Clean key light with soft fill",
+      "dialogue": [
+        {
+          "id": "dlg_scene_ch1_s2_thought_2",
+          "speaker": "Protagonist",
+          "text": "هل سننجو من هذه الكارثة إذا استمر تدفق الوحوش؟",
+          "bubble_type": "thought"
+        }
+      ],
+      "narration_boxes": [],
+      "sfx": [],
+      "composition_notes": "close_up focusing on visual storytelling with clean speech bubble clearance",
+      "prompt_payload": {
+        "positive_prompt": "Masterpiece comic panel, close up, eye level.\nScene: Close-up reaction on Protagonist..\nCharacters: Protagonist. Expression: Firm, stoic resolve. Pose: Subtle head turn, hair catching wind.\nEnvironment: القلعة المظلمة، ساد الهدوء لبر, Day lighting. Neutral dramatic mood.\n[CHARACTER LOCK: Inactive or No Mapped Characters]\n[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)",
+        "negative_prompt": "blurry, distorted anatomy, missing limbs, altered costume colors, deformed eyes, flat lighting, amateur line art, style drift",
+        "character_lock_block": "[CHARACTER LOCK: Inactive or No Mapped Characters]",
+        "style_lock_block": "[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)"
+      },
+      "status": "PLANNED",
+      "user_edited": false,
+      "created_at": 1790945865556,
+      "updated_at": 1790945865556
+    }
+  ],
+  "tasks": [
+    {
+      "task_id": "task_p_ch1_s1_1",
+      "panel_id": "p_ch1_s1_1",
+      "scene_id": "scene_ch1_s1",
+      "page_or_strip_id": "strip_01",
+      "chapter_number": 1,
+      "priority": 1,
+      "status": "PENDING",
+      "generation_mode": "FREE_FAST",
+      "provider_routing": {
+        "engine": "Agnes L1 (Structured Prompt)",
+        "consistency_strategy": "Dual-Track Structured Conditioning (Character Lock + Style Lock Profile)",
+        "supports_img2img": false
+      },
+      "prompt_payload": {
+        "positive_prompt": "Masterpiece comic panel, wide shot, eye level.\nScene: Establishing shot of ساحة المعركة الكبرى عند أطلال. Protagonist positioned in environment..\nCharacters: Protagonist. Expression: Composed observation. Pose: Standing surveying the surroundings.\nEnvironment: ساحة المعركة الكبرى عند أطلال, Night lighting. Intense kinetic combat mood.\n[CHARACTER LOCK: Inactive or No Mapped Characters]\n[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)",
+        "negative_prompt": "blurry, distorted anatomy, missing limbs, altered costume colors, deformed eyes, flat lighting, amateur line art, style drift",
+        "character_lock_block": "[CHARACTER LOCK: Inactive or No Mapped Characters]",
+        "style_lock_block": "[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)"
+      },
+      "character_refs": [
+        {
+          "name": "Protagonist"
+        }
+      ],
+      "style_ref": {
+        "style_id": "style_5aa835a4",
+        "style_version": 1
+      },
+      "created_at": 1790945865555,
+      "updated_at": 1790945865557
+    },
+    {
+      "task_id": "task_p_ch1_s1_2",
+      "panel_id": "p_ch1_s1_2",
+      "scene_id": "scene_ch1_s1",
+      "page_or_strip_id": "strip_01",
+      "chapter_number": 1,
+      "priority": 2,
+      "status": "PENDING",
+      "generation_mode": "FREE_FAST",
+      "provider_routing": {
+        "engine": "Agnes L1 (Structured Prompt)",
+        "consistency_strategy": "Dual-Track Structured Conditioning (Character Lock + Style Lock Profile)",
+        "supports_img2img": false
+      },
+      "prompt_payload": {
+        "positive_prompt": "Masterpiece comic panel, medium shot, low angle.\nScene: Protagonist launches dynamic strike with weapon..\nCharacters: Protagonist. Expression: Fierce battle cry, sharp intense eyes. Pose: Low dynamic combat stance, momentum forward.\nEnvironment: ساحة المعركة الكبرى عند أطلال, Night lighting. Intense kinetic combat mood.\n[CHARACTER LOCK: Inactive or No Mapped Characters]\n[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)",
+        "negative_prompt": "blurry, distorted anatomy, missing limbs, altered costume colors, deformed eyes, flat lighting, amateur line art, style drift",
+        "character_lock_block": "[CHARACTER LOCK: Inactive or No Mapped Characters]",
+        "style_lock_block": "[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)"
+      },
+      "character_refs": [
+        {
+          "name": "Protagonist"
+        }
+      ],
+      "style_ref": {
+        "style_id": "style_5aa835a4",
+        "style_version": 1
+      },
+      "created_at": 1790945865555,
+      "updated_at": 1790945865557
+    },
+    {
+      "task_id": "task_p_ch1_s1_3",
+      "panel_id": "p_ch1_s1_3",
+      "scene_id": "scene_ch1_s1",
+      "page_or_strip_id": "strip_01",
+      "chapter_number": 1,
+      "priority": 3,
+      "status": "PENDING",
+      "generation_mode": "FREE_FAST",
+      "provider_routing": {
+        "engine": "Agnes L1 (Structured Prompt)",
+        "consistency_strategy": "Dual-Track Structured Conditioning (Character Lock + Style Lock Profile)",
+        "supports_img2img": false
+      },
+      "prompt_payload": {
+        "positive_prompt": "Masterpiece comic panel, cut in, dutch tilt.\nScene: Shockwave impact as blade connects, energy sparks flying..\nCharacters: Protagonist. Expression: Strained exertion. Pose: Mid-collision tension.\nEnvironment: ساحة المعركة الكبرى عند أطلال, Night lighting. Intense kinetic combat mood.\n[CHARACTER LOCK: Inactive or No Mapped Characters]\n[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)",
+        "negative_prompt": "blurry, distorted anatomy, missing limbs, altered costume colors, deformed eyes, flat lighting, amateur line art, style drift",
+        "character_lock_block": "[CHARACTER LOCK: Inactive or No Mapped Characters]",
+        "style_lock_block": "[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)"
+      },
+      "character_refs": [
+        {
+          "name": "Protagonist"
+        }
+      ],
+      "style_ref": {
+        "style_id": "style_5aa835a4",
+        "style_version": 1
+      },
+      "created_at": 1790945865555,
+      "updated_at": 1790945865557
+    },
+    {
+      "task_id": "task_p_ch1_s1_4",
+      "panel_id": "p_ch1_s1_4",
+      "scene_id": "scene_ch1_s1",
+      "page_or_strip_id": "strip_01",
+      "chapter_number": 1,
+      "priority": 4,
+      "status": "PENDING",
+      "generation_mode": "FREE_FAST",
+      "provider_routing": {
+        "engine": "Agnes L1 (Structured Prompt)",
+        "consistency_strategy": "Dual-Track Structured Conditioning (Character Lock + Style Lock Profile)",
+        "supports_img2img": false
+      },
+      "prompt_payload": {
+        "positive_prompt": "Masterpiece comic panel, close up, eye level.\nScene: Close-up reaction on Protagonist..\nCharacters: Protagonist. Expression: Firm, stoic resolve. Pose: Subtle head turn, hair catching wind.\nEnvironment: ساحة المعركة الكبرى عند أطلال, Night lighting. Intense kinetic combat mood.\n[CHARACTER LOCK: Inactive or No Mapped Characters]\n[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)",
+        "negative_prompt": "blurry, distorted anatomy, missing limbs, altered costume colors, deformed eyes, flat lighting, amateur line art, style drift",
+        "character_lock_block": "[CHARACTER LOCK: Inactive or No Mapped Characters]",
+        "style_lock_block": "[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)"
+      },
+      "character_refs": [
+        {
+          "name": "Protagonist"
+        }
+      ],
+      "style_ref": {
+        "style_id": "style_5aa835a4",
+        "style_version": 1
+      },
+      "created_at": 1790945865555,
+      "updated_at": 1790945865557
+    },
+    {
+      "task_id": "task_p_ch1_s2_1",
+      "panel_id": "p_ch1_s2_1",
+      "scene_id": "scene_ch1_s2",
+      "page_or_strip_id": "strip_01",
+      "chapter_number": 1,
+      "priority": 5,
+      "status": "PENDING",
+      "generation_mode": "FREE_FAST",
+      "provider_routing": {
+        "engine": "Agnes L1 (Structured Prompt)",
+        "consistency_strategy": "Dual-Track Structured Conditioning (Character Lock + Style Lock Profile)",
+        "supports_img2img": false
+      },
+      "prompt_payload": {
+        "positive_prompt": "Masterpiece comic panel, wide shot, eye level.\nScene: Establishing shot of القلعة المظلمة، ساد الهدوء لبر. Protagonist positioned in environment..\nCharacters: Protagonist. Expression: Composed observation. Pose: Standing surveying the surroundings.\nEnvironment: القلعة المظلمة، ساد الهدوء لبر, Day lighting. Neutral dramatic mood.\n[CHARACTER LOCK: Inactive or No Mapped Characters]\n[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)",
+        "negative_prompt": "blurry, distorted anatomy, missing limbs, altered costume colors, deformed eyes, flat lighting, amateur line art, style drift",
+        "character_lock_block": "[CHARACTER LOCK: Inactive or No Mapped Characters]",
+        "style_lock_block": "[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)"
+      },
+      "character_refs": [
+        {
+          "name": "Protagonist"
+        }
+      ],
+      "style_ref": {
+        "style_id": "style_5aa835a4",
+        "style_version": 1
+      },
+      "created_at": 1790945865556,
+      "updated_at": 1790945865557
+    },
+    {
+      "task_id": "task_p_ch1_s2_2",
+      "panel_id": "p_ch1_s2_2",
+      "scene_id": "scene_ch1_s2",
+      "page_or_strip_id": "strip_01",
+      "chapter_number": 1,
+      "priority": 6,
+      "status": "PENDING",
+      "generation_mode": "FREE_FAST",
+      "provider_routing": {
+        "engine": "Agnes L1 (Structured Prompt)",
+        "consistency_strategy": "Dual-Track Structured Conditioning (Character Lock + Style Lock Profile)",
+        "supports_img2img": false
+      },
+      "prompt_payload": {
+        "positive_prompt": "Masterpiece comic panel, close up, eye level.\nScene: Close-up reaction on Protagonist..\nCharacters: Protagonist. Expression: Firm, stoic resolve. Pose: Subtle head turn, hair catching wind.\nEnvironment: القلعة المظلمة، ساد الهدوء لبر, Day lighting. Neutral dramatic mood.\n[CHARACTER LOCK: Inactive or No Mapped Characters]\n[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)",
+        "negative_prompt": "blurry, distorted anatomy, missing limbs, altered costume colors, deformed eyes, flat lighting, amateur line art, style drift",
+        "character_lock_block": "[CHARACTER LOCK: Inactive or No Mapped Characters]",
+        "style_lock_block": "[VISUAL STYLE PROFILE: The Eternal Supreme (Version 1)]\n• Line Art: High-clarity xianxia martial arts line work with sharp dynamic taper density, Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition\n• Proportions: Refined, elegant, sharp aristocratic cultivation aesthetics, prominent defined jaw, expressive aristocratic features, Piercing phoenix/almond eyes with focused pupils, sharp upper lids, intense majestic aura flare, Heroic, lithe, well-balanced martial artist proportions, fluid dynamic joint mechanics, dramatic foreshortening\n• Color & Rendering: FULL_COLOR, Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases\n• Shading & Contrast: Dimensional multi-layer cel-shading with glowing emissive rim lighting, Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, High dramatic contrast between deep environmental shadows and radiant spiritual energy\n• Effects & Energy: Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence, Swirling sovereign spiritual flames, lightning arcs, divine talismanic script halos, draconic phantom auras\n• Cinematography: Dramatic high-and-low vertical perspective sweeps, extreme dynamic Dutch tilts, sweeping battlefield reveals, Cinematic wide martial arenas, imposing sovereign full-body stances, soaring aerial panoramic views, Majestic, domineering, mystical, high-stakes cultivation martial grandeur (Density: Spacious high-impact webtoon pacing with floating technique banners)"
+      },
+      "character_refs": [
+        {
+          "name": "Protagonist"
+        }
+      ],
+      "style_ref": {
+        "style_id": "style_5aa835a4",
+        "style_version": 1
+      },
+      "created_at": 1790945865556,
+      "updated_at": 1790945865557
+    }
+  ],
+  "total_panels": 6,
+  "total_pages": 1,
+  "approved": false,
+  "manual_approval_required": false,
+  "created_at": 1790945865557,
+  "updated_at": 1790945865557
+}

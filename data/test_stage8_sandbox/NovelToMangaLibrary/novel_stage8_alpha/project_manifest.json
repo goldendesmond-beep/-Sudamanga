@@ -1,0 +1,65 @@
+{
+  "project_id": "novel_stage8_alpha",
+  "novel_title": "novel_stage8_alpha",
+  "library_folder": "/app/applet/data/test_stage8_sandbox/NovelToMangaLibrary/novel_stage8_alpha",
+  "chapter_order": [
+    1,
+    99
+  ],
+  "chapter_statuses": {
+    "1": "COMPLETE",
+    "99": "COMPLETE"
+  },
+  "chapter_folders": {
+    "1": "Chapter_0001",
+    "99": "Chapter_0099"
+  },
+  "page_order": {
+    "1": [
+      "Page_001.png"
+    ],
+    "99": [
+      "Page_001.png"
+    ]
+  },
+  "saved_asset_references": {
+    "1": {
+      "folder": "Chapter_0001",
+      "pages": [
+        "Page_001.png"
+      ],
+      "svg_overlays": [
+        "Page_001.svg"
+      ],
+      "data_file": "chapter_data.json"
+    },
+    "99": {
+      "folder": "Chapter_0099",
+      "pages": [
+        "Page_001.png"
+      ],
+      "svg_overlays": [
+        "Page_001.svg"
+      ],
+      "data_file": "chapter_data.json"
+    }
+  },
+  "story_bible_version": 1,
+  "character_lock_version": 1,
+  "style_lock_version": 1,
+  "active_style_series": "The Eternal Supreme",
+  "generation_progress": 100,
+  "reading_progress": {
+    "last_read_chapter": 1,
+    "last_read_page": 2,
+    "scroll_percent": 50,
+    "total_chapters_read": 1,
+    "reading_progress_percent": 50,
+    "last_opened_at": 1791029410725
+  },
+  "last_generated_chapter": 99,
+  "last_read_chapter": 1,
+  "last_read_page": 2,
+  "created_at": 1791029410709,
+  "updated_at": 1791029410725
+}
