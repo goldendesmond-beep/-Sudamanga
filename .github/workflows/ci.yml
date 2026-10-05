@@ -7,46 +7,24 @@ on:
     branches: [main]
 
 jobs:
-  lint-and-test:
+  build-and-lint:
+    name: Build & Lint (Node.js 22)
     runs-on: ubuntu-latest
-    strategy:
-      fail-fast: false
-      matrix:
-        python-version: ["3.10", "3.11", "3.12"]
     steps:
-      - uses: actions/checkout@v7
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Set up uv
-        uses: astral-sh/setup-uv@v6
+      - name: Set up Node.js 22
+        uses: actions/setup-node@v4
         with:
-          python-version: ${{ matrix.python-version }}
-          enable-cache: true
+          node-version: 22
+          cache: 'npm'
 
       - name: Install dependencies
-        run: uv sync --extra dev --frozen
+        run: npm ci
 
-      - name: Ruff lint
-        run: uv run ruff check .
+      - name: Build
+        run: npm run build
 
-      - name: Ruff format check
-        run: uv run ruff format --check .
-
-      - name: Run tests
-        run: uv run pytest
-
-  smoke-install:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v7
-
-      - name: Set up uv
-        uses: astral-sh/setup-uv@v6
-        with:
-          python-version: "3.11"
-          enable-cache: true
-
-      - name: Non-editable install smoke
-        run: |
-          uv sync --no-dev --frozen --no-editable
-          uv run inkstone --help
-          uv run inkstone plan --book examples/sample_novel.txt
+      - name: Lint
+        run: npm run lint

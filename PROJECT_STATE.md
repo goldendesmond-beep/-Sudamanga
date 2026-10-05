@@ -587,3 +587,15 @@ Executed via `scripts/test_stage8_final_qa.ts`:
 - **build result**: PASS (`npm run build` exited with code 0)
 - **lint result**: PASS (`npm run lint` exited with code 0)
 - **manual Publish required**: true
+
+---
+
+## GITHUB_CI
+- **obsolete Python workflows removed/disabled**: Removed legacy `.github/workflows/ci.yml` matrix (Python 3.10, 3.11, 3.12, ruff, pytest, inkstone CLI smoke-install).
+- **obsolete Pages deployment removed/disabled**: Removed `.github/workflows/pages.yml` (static GitHub Pages deployment superseded by Cloud Run target).
+- **Node version**: 22
+- **package manager**: npm (using `package-lock.json` and `npm ci`)
+- **build command**: `npm run build` (`tsc --noEmit`)
+- **lint command**: `npm run lint` (`tsc --noEmit`)
+- **test command if used**: none (lint and build typechecking verified)
+- **CI workflow path**: `.github/workflows/ci.yml`
