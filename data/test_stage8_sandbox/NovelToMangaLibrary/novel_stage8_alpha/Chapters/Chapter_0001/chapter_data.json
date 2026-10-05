@@ -41,9 +41,9 @@
       "reference_mode": "characters_and_style",
       "provider_tier": "LOCAL_ZERO_COST",
       "provider_name": "Inkstone Zero-Cost Renderer",
-      "seed": 3307946,
+      "seed": 4594252,
       "cached": false,
-      "cache_key": "4bd226272ad20fe780e3bb32",
+      "cache_key": "494483dde0ad0fb32da3addb",
       "continuity": {
         "previous_characters": [],
         "environment": "Setting",
@@ -77,23 +77,23 @@
         "sfx": [],
         "svg_overlay": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 800 1100\" width=\"100%\" height=\"100%\" dir=\"ltr\" style=\"position:absolute;top:0;left:0;pointer-events:none;\">\n      \n        <g id=\"bubble_1_dlg_scene_ch1_s1_1\" class=\"lettering-bubble\" data-bubble-id=\"bubble_1_dlg_scene_ch1_s1_1\">\n          <polygon points=\"278,154 254,160 269,170 242,171 246,182 220,178 211,189 192,181 173,189 164,178 138,182 142,171 115,170 130,160 106,154 130,148 115,138 142,137 138,126 164,130 173,119 192,127 211,119 220,130 246,126 242,137 269,138 254,148\" fill=\"#ffffff\" stroke=\"#e11d48\" stroke-width=\"3.5\" filter=\"drop-shadow(2px 3px 0px rgba(0,0,0,0.3))\" />\n          <text x=\"192\" y=\"138.5\" text-anchor=\"middle\" font-family=\"'Bangers', 'Comic Neue', 'Arial Black', sans-serif\" font-size=\"9\" font-weight=\"bold\" fill=\"#64748b\" direction=\"ltr\">[Protagonist]</text>\n          <text x=\"192\" y=\"158\" text-anchor=\"middle\" font-family=\"'Bangers', 'Comic Neue', 'Arial Black', sans-serif\" font-size=\"12\" font-weight=\"600\"\n                fill=\"#09090b\" direction=\"ltr\" style=\"white-space: pre-wrap; word-break: break-word;\">\n            Break!\n          </text>\n        </g>\n    </svg>",
         "language": "en",
-        "updated_at": 1791029410557
+        "updated_at": 1791108889235
       },
       "character_locks_applied": [
         "Arthur Pendelton"
       ],
-      "style_lock_id": "style_e7b24917",
+      "style_lock_id": "style_a5733b58",
       "style_version": 1,
       "is_locked": false,
       "user_edited": false,
-      "created_at": 1791029410557,
-      "updated_at": 1791029410557
+      "created_at": 1791108889235,
+      "updated_at": 1791108889235
     }
   ],
   "style_version_applied": 1,
   "character_locks_applied": [
     "Arthur Pendelton"
   ],
-  "saved_at": 1791029410708,
+  "saved_at": 1791108889392,
   "verified": true
 }

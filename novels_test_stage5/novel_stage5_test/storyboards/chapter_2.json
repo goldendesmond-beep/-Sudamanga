@@ -1,5 +1,5 @@
 {
-  "id": "sb_novel_stage5_test_ch2_1790945865562",
+  "id": "sb_novel_stage5_test_ch2_1791108808947",
   "novel_id": "novel_stage5_test",
   "chapter_id": "ch_02",
   "chapter_number": 2,
@@ -63,7 +63,7 @@
           "character_lock_ids": [
             "tariq"
           ],
-          "style_lock_id": "style_5aa835a4",
+          "style_lock_id": "style_259d676e",
           "style_version": 1,
           "location": "Iron Ridge Summit",
           "story_bible_references": [
@@ -97,8 +97,8 @@
           },
           "status": "EDITED",
           "user_edited": true,
-          "created_at": 1790945865562,
-          "updated_at": 1790945865581
+          "created_at": 1791108808946,
+          "updated_at": 1791108808965
         },
         {
           "id": "p_ch2_s1_2",
@@ -118,7 +118,7 @@
           "character_lock_ids": [
             "tariq"
           ],
-          "style_lock_id": "style_5aa835a4",
+          "style_lock_id": "style_259d676e",
           "style_version": 1,
           "location": "Iron Ridge Summit",
           "story_bible_references": [
@@ -149,8 +149,8 @@
           },
           "status": "PLANNED",
           "user_edited": false,
-          "created_at": 1790945865562,
-          "updated_at": 1790945865562
+          "created_at": 1791108808946,
+          "updated_at": 1791108808946
         },
         {
           "id": "p_ch2_s1_3",
@@ -170,7 +170,7 @@
           "character_lock_ids": [
             "tariq"
           ],
-          "style_lock_id": "style_5aa835a4",
+          "style_lock_id": "style_259d676e",
           "style_version": 1,
           "location": "Iron Ridge Summit",
           "story_bible_references": [
@@ -201,8 +201,8 @@
           },
           "status": "PLANNED",
           "user_edited": false,
-          "created_at": 1790945865562,
-          "updated_at": 1790945865562
+          "created_at": 1791108808947,
+          "updated_at": 1791108808947
         },
         {
           "id": "p_ch2_s1_4",
@@ -222,7 +222,7 @@
           "character_lock_ids": [
             "tariq"
           ],
-          "style_lock_id": "style_5aa835a4",
+          "style_lock_id": "style_259d676e",
           "style_version": 1,
           "location": "Iron Ridge Summit",
           "story_bible_references": [
@@ -247,8 +247,8 @@
           },
           "status": "PLANNED",
           "user_edited": false,
-          "created_at": 1790945865562,
-          "updated_at": 1790945865562
+          "created_at": 1791108808947,
+          "updated_at": 1791108808947
         }
       ]
     }
@@ -272,7 +272,7 @@
       "character_lock_ids": [
         "tariq"
       ],
-      "style_lock_id": "style_5aa835a4",
+      "style_lock_id": "style_259d676e",
       "style_version": 1,
       "location": "Iron Ridge Summit",
       "story_bible_references": [
@@ -306,8 +306,8 @@
       },
       "status": "APPROVED",
       "user_edited": true,
-      "created_at": 1790945865562,
-      "updated_at": 1790945865581
+      "created_at": 1791108808946,
+      "updated_at": 1791108808965
     },
     {
       "id": "p_ch2_s1_2",
@@ -327,7 +327,7 @@
       "character_lock_ids": [
         "tariq"
       ],
-      "style_lock_id": "style_5aa835a4",
+      "style_lock_id": "style_259d676e",
       "style_version": 1,
       "location": "Iron Ridge Summit",
       "story_bible_references": [
@@ -358,8 +358,8 @@
       },
       "status": "APPROVED",
       "user_edited": false,
-      "created_at": 1790945865562,
-      "updated_at": 1790945865562
+      "created_at": 1791108808946,
+      "updated_at": 1791108808946
     },
     {
       "id": "p_ch2_s1_3",
@@ -379,7 +379,7 @@
       "character_lock_ids": [
         "tariq"
       ],
-      "style_lock_id": "style_5aa835a4",
+      "style_lock_id": "style_259d676e",
       "style_version": 1,
       "location": "Iron Ridge Summit",
       "story_bible_references": [
@@ -410,8 +410,8 @@
       },
       "status": "APPROVED",
       "user_edited": false,
-      "created_at": 1790945865562,
-      "updated_at": 1790945865562
+      "created_at": 1791108808947,
+      "updated_at": 1791108808947
     },
     {
       "id": "p_ch2_s1_4",
@@ -431,7 +431,7 @@
       "character_lock_ids": [
         "tariq"
       ],
-      "style_lock_id": "style_5aa835a4",
+      "style_lock_id": "style_259d676e",
       "style_version": 1,
       "location": "Iron Ridge Summit",
       "story_bible_references": [
@@ -456,8 +456,8 @@
       },
       "status": "APPROVED",
       "user_edited": false,
-      "created_at": 1790945865562,
-      "updated_at": 1790945865562
+      "created_at": 1791108808947,
+      "updated_at": 1791108808947
     }
   ],
   "tasks": [
@@ -488,11 +488,11 @@
         }
       ],
       "style_ref": {
-        "style_id": "style_5aa835a4",
+        "style_id": "style_259d676e",
         "style_version": 1
       },
-      "created_at": 1790945865562,
-      "updated_at": 1790945865589
+      "created_at": 1791108808946,
+      "updated_at": 1791108808975
     },
     {
       "task_id": "task_p_ch2_s1_2",
@@ -521,11 +521,11 @@
         }
       ],
       "style_ref": {
-        "style_id": "style_5aa835a4",
+        "style_id": "style_259d676e",
         "style_version": 1
       },
-      "created_at": 1790945865562,
-      "updated_at": 1790945865589
+      "created_at": 1791108808946,
+      "updated_at": 1791108808975
     },
     {
       "task_id": "task_p_ch2_s1_3",
@@ -554,11 +554,11 @@
         }
       ],
       "style_ref": {
-        "style_id": "style_5aa835a4",
+        "style_id": "style_259d676e",
         "style_version": 1
       },
-      "created_at": 1790945865562,
-      "updated_at": 1790945865589
+      "created_at": 1791108808947,
+      "updated_at": 1791108808975
     },
     {
       "task_id": "task_p_ch2_s1_4",
@@ -587,17 +587,17 @@
         }
       ],
       "style_ref": {
-        "style_id": "style_5aa835a4",
+        "style_id": "style_259d676e",
         "style_version": 1
       },
-      "created_at": 1790945865562,
-      "updated_at": 1790945865589
+      "created_at": 1791108808947,
+      "updated_at": 1791108808975
     }
   ],
   "total_panels": 4,
   "total_pages": 1,
   "approved": true,
   "manual_approval_required": false,
-  "created_at": 1790945865562,
-  "updated_at": 1790945865589
+  "created_at": 1791108808947,
+  "updated_at": 1791108808975
 }

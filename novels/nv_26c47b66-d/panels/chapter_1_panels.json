@@ -1,0 +1,237 @@
+[
+  {
+    "panel_id": "p_ch1_s1_1",
+    "novel_id": "nv_26c47b66-d",
+    "chapter_id": "1",
+    "chapter_number": 1,
+    "scene_id": "scene_ch1_s1",
+    "page_or_strip_id": "strip_01",
+    "global_panel_number": 1,
+    "status": "COMPLETE",
+    "image_url": "/api/novels/nv_26c47b66-d/panels/files/ch01_p_ch1_s1_1.png",
+    "aspect_ratio": "3:4",
+    "input_layers": {
+      "character_constraints": "[CHARACTER: القائد] Native novel depiction, neutral manga character design.\n[CHARACTER: طارق] Native novel depiction, neutral manga character design.",
+      "style_constraints": "[VISUAL STYLE: The Eternal Supreme v1] Line Art: Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework thickness, High-clarity xianxia martial arts line work with sharp dynamic taper density, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition. Color Mode: full_color. Shading: Dimensional multi-layer cel-shading with glowing emissive rim lighting, shadows: Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, contrast: High dramatic contrast between deep environmental shadows and radiant spiritual energy. Rendering: Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases. Effects: Radial convergence lines focused on martial strikes, explosive kinetic shockwave bursts, Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence. Mood: Majestic, domineering, mystical, high-stakes cultivation martial grandeur.",
+      "story_constraints": "[STORY BEAT] Scene at Setting. Action: Establishing shot of Setting. القائد, طارق positioned in environment.. Character expression: Composed observation. Pose: Standing surveying the surroundings. Background: Setting with atmospheric perspective and perspective depth.",
+      "panel_composition": "[PANEL COMPOSITION] Camera Angle: eye_level. Framing: wide_shot. Lighting: Clean key light with soft fill. Composition Notes: wide_shot focusing on visual storytelling with clean speech bubble clearance.",
+      "negative_constraints": "photorealistic, 3d render, western superhero comic style, deformed hands, missing fingers, extra limbs, inconsistent costume colors, blurry line art, unrendered background, bad anatomy, text on base artwork"
+    },
+    "reference_mode": "style_only",
+    "provider_tier": "LOCAL_ZERO_COST",
+    "provider_name": "Inkstone Zero-Cost Renderer",
+    "seed": 9770371,
+    "cached": false,
+    "cache_key": "9b39c137f382294b36aee7b9",
+    "continuity": {
+      "previous_characters": [],
+      "environment": "Setting",
+      "lighting": "Clean key light with soft fill",
+      "active_style_version": 1
+    },
+    "drift_check": {
+      "has_drift": false,
+      "drift_type": "none",
+      "status": "APPROVED",
+      "style_drift_reasons": [],
+      "character_drift_reasons": [],
+      "confidence": 0.95
+    },
+    "lettering": {
+      "bubbles": [],
+      "sfx": [],
+      "svg_overlay": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 800 1100\" width=\"100%\" height=\"100%\" dir=\"rtl\" style=\"position:absolute;top:0;left:0;pointer-events:none;\">\n      \n    </svg>",
+      "language": "ar",
+      "updated_at": 1791108788347
+    },
+    "character_locks_applied": [],
+    "style_lock_id": "style_46332edd",
+    "style_version": 1,
+    "is_locked": false,
+    "user_edited": false,
+    "created_at": 1791108788347,
+    "updated_at": 1791108788347
+  },
+  {
+    "panel_id": "p_ch1_s1_2",
+    "novel_id": "nv_26c47b66-d",
+    "chapter_id": "1",
+    "chapter_number": 1,
+    "scene_id": "scene_ch1_s1",
+    "page_or_strip_id": "strip_01",
+    "global_panel_number": 2,
+    "status": "COMPLETE",
+    "image_url": "/api/novels/nv_26c47b66-d/panels/files/ch01_p_ch1_s1_2.png",
+    "aspect_ratio": "3:4",
+    "input_layers": {
+      "character_constraints": "[CHARACTER: القائد] Native novel depiction, neutral manga character design.\n[CHARACTER: طارق] Native novel depiction, neutral manga character design.",
+      "style_constraints": "[VISUAL STYLE: The Eternal Supreme v1] Line Art: Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework thickness, High-clarity xianxia martial arts line work with sharp dynamic taper density, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition. Color Mode: full_color. Shading: Dimensional multi-layer cel-shading with glowing emissive rim lighting, shadows: Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, contrast: High dramatic contrast between deep environmental shadows and radiant spiritual energy. Rendering: Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases. Effects: Radial convergence lines focused on martial strikes, explosive kinetic shockwave bursts, Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence. Mood: Majestic, domineering, mystical, high-stakes cultivation martial grandeur.",
+      "story_constraints": "[STORY BEAT] Scene at Setting. Action: القائد launches dynamic strike with weapon.. Character expression: Fierce battle cry, sharp intense eyes. Pose: Low dynamic combat stance, momentum forward. Background: Setting with atmospheric perspective and perspective depth. [CONTINUITY from p_ch1_s1_1] Environmental consistency: Setting. Lighting: Clean key light with soft fill. Active character continuity: maintained.",
+      "panel_composition": "[PANEL COMPOSITION] Camera Angle: low_angle. Framing: medium_shot. Lighting: Clean key light with soft fill. Composition Notes: medium_shot focusing on visual storytelling with clean speech bubble clearance.",
+      "negative_constraints": "photorealistic, 3d render, western superhero comic style, deformed hands, missing fingers, extra limbs, inconsistent costume colors, blurry line art, unrendered background, bad anatomy, text on base artwork"
+    },
+    "reference_mode": "style_only",
+    "provider_tier": "LOCAL_ZERO_COST",
+    "provider_name": "Inkstone Zero-Cost Renderer",
+    "seed": 8754260,
+    "cached": false,
+    "cache_key": "64dda4b69cf69e6e70544589",
+    "continuity": {
+      "previous_panel_id": "p_ch1_s1_1",
+      "previous_characters": [],
+      "environment": "Setting",
+      "lighting": "Clean key light with soft fill",
+      "active_style_version": 1
+    },
+    "drift_check": {
+      "has_drift": false,
+      "drift_type": "none",
+      "status": "APPROVED",
+      "style_drift_reasons": [],
+      "character_drift_reasons": [],
+      "confidence": 0.95
+    },
+    "lettering": {
+      "bubbles": [],
+      "sfx": [
+        {
+          "id": "sfx_1",
+          "text": "SLASH!",
+          "x": 60,
+          "y": 48,
+          "rotation": -12,
+          "style": "manga_action",
+          "language": "ar"
+        }
+      ],
+      "svg_overlay": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 800 1100\" width=\"100%\" height=\"100%\" dir=\"rtl\" style=\"position:absolute;top:0;left:0;pointer-events:none;\">\n      \n        <g transform=\"translate(480, 528) rotate(-12)\">\n          <text text-anchor=\"middle\" font-family=\"'Amiri', 'Scheherazade New', 'Tahoma', sans-serif\" font-weight=\"900\" font-size=\"34\"\n                fill=\"#ffdd00\" stroke=\"#111111\" stroke-width=\"4\" stroke-linejoin=\"round\"\n                filter=\"drop-shadow(3px 5px 0px rgba(0,0,0,0.85))\">SLASH!</text>\n        </g>\n    </svg>",
+      "language": "ar",
+      "updated_at": 1791108788354
+    },
+    "character_locks_applied": [],
+    "style_lock_id": "style_46332edd",
+    "style_version": 1,
+    "is_locked": false,
+    "user_edited": false,
+    "created_at": 1791108788354,
+    "updated_at": 1791108788354
+  },
+  {
+    "panel_id": "p_ch1_s1_3",
+    "novel_id": "nv_26c47b66-d",
+    "chapter_id": "1",
+    "chapter_number": 1,
+    "scene_id": "scene_ch1_s1",
+    "page_or_strip_id": "strip_01",
+    "global_panel_number": 3,
+    "status": "COMPLETE",
+    "image_url": "/api/novels/nv_26c47b66-d/panels/files/ch01_p_ch1_s1_3.png",
+    "aspect_ratio": "3:4",
+    "input_layers": {
+      "character_constraints": "[CHARACTER: القائد] Native novel depiction, neutral manga character design.\n[CHARACTER: طارق] Native novel depiction, neutral manga character design.",
+      "style_constraints": "[VISUAL STYLE: The Eternal Supreme v1] Line Art: Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework thickness, High-clarity xianxia martial arts line work with sharp dynamic taper density, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition. Color Mode: full_color. Shading: Dimensional multi-layer cel-shading with glowing emissive rim lighting, shadows: Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, contrast: High dramatic contrast between deep environmental shadows and radiant spiritual energy. Rendering: Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases. Effects: Radial convergence lines focused on martial strikes, explosive kinetic shockwave bursts, Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence. Mood: Majestic, domineering, mystical, high-stakes cultivation martial grandeur.",
+      "story_constraints": "[STORY BEAT] Scene at Setting. Action: Shockwave impact as blade connects, energy sparks flying.. Character expression: Strained exertion. Pose: Mid-collision tension. Background: Setting with atmospheric perspective and perspective depth. [CONTINUITY from p_ch1_s1_2] Environmental consistency: Setting. Lighting: Clean key light with soft fill. Active character continuity: maintained.",
+      "panel_composition": "[PANEL COMPOSITION] Camera Angle: dutch_tilt. Framing: cut_in. Lighting: Clean key light with soft fill. Composition Notes: cut_in focusing on visual storytelling with clean speech bubble clearance.",
+      "negative_constraints": "photorealistic, 3d render, western superhero comic style, deformed hands, missing fingers, extra limbs, inconsistent costume colors, blurry line art, unrendered background, bad anatomy, text on base artwork"
+    },
+    "reference_mode": "style_only",
+    "provider_tier": "LOCAL_ZERO_COST",
+    "provider_name": "Inkstone Zero-Cost Renderer",
+    "seed": 3766222,
+    "cached": false,
+    "cache_key": "d351e764b9ed73f364984ef6",
+    "continuity": {
+      "previous_panel_id": "p_ch1_s1_2",
+      "previous_characters": [],
+      "environment": "Setting",
+      "lighting": "Clean key light with soft fill",
+      "active_style_version": 1
+    },
+    "drift_check": {
+      "has_drift": false,
+      "drift_type": "none",
+      "status": "APPROVED",
+      "style_drift_reasons": [],
+      "character_drift_reasons": [],
+      "confidence": 0.95
+    },
+    "lettering": {
+      "bubbles": [],
+      "sfx": [
+        {
+          "id": "sfx_1",
+          "text": "BOOM!",
+          "x": 60,
+          "y": 48,
+          "rotation": -12,
+          "style": "manga_action",
+          "language": "ar"
+        }
+      ],
+      "svg_overlay": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 800 1100\" width=\"100%\" height=\"100%\" dir=\"rtl\" style=\"position:absolute;top:0;left:0;pointer-events:none;\">\n      \n        <g transform=\"translate(480, 528) rotate(-12)\">\n          <text text-anchor=\"middle\" font-family=\"'Amiri', 'Scheherazade New', 'Tahoma', sans-serif\" font-weight=\"900\" font-size=\"34\"\n                fill=\"#ffdd00\" stroke=\"#111111\" stroke-width=\"4\" stroke-linejoin=\"round\"\n                filter=\"drop-shadow(3px 5px 0px rgba(0,0,0,0.85))\">BOOM!</text>\n        </g>\n    </svg>",
+      "language": "ar",
+      "updated_at": 1791108788361
+    },
+    "character_locks_applied": [],
+    "style_lock_id": "style_46332edd",
+    "style_version": 1,
+    "is_locked": false,
+    "user_edited": false,
+    "created_at": 1791108788361,
+    "updated_at": 1791108788361
+  },
+  {
+    "panel_id": "p_ch1_s1_4",
+    "novel_id": "nv_26c47b66-d",
+    "chapter_id": "1",
+    "chapter_number": 1,
+    "scene_id": "scene_ch1_s1",
+    "page_or_strip_id": "strip_01",
+    "global_panel_number": 4,
+    "status": "COMPLETE",
+    "image_url": "/api/novels/nv_26c47b66-d/panels/files/ch01_p_ch1_s1_4.png",
+    "aspect_ratio": "3:4",
+    "input_layers": {
+      "character_constraints": "[CHARACTER: القائد] Native novel depiction, neutral manga character design.\n[CHARACTER: طارق] Native novel depiction, neutral manga character design.",
+      "style_constraints": "[VISUAL STYLE: The Eternal Supreme v1] Line Art: Clean variable ink contouring, crisp razor-sharp strokes on weapon edges and robes, subtle interior linework thickness, High-clarity xianxia martial arts line work with sharp dynamic taper density, Exceptionally clean modern digital manhua line treatment, crisp vector-grade silhouette definition. Color Mode: full_color. Shading: Dimensional multi-layer cel-shading with glowing emissive rim lighting, shadows: Crisp deep cast shadows under robe folds and jawlines, emphasizing volume and dramatic martial tension, contrast: High dramatic contrast between deep environmental shadows and radiant spiritual energy. Rendering: Silky flowing locks with dynamic wind-blown strands, clean cel clumps, subtle luminous highlights along hair arcs, Flowing daoist scholar robes, embroidered martial tunics, ornate silk sashes, fluttering hemlines following body kinetics, sharp fabric creases. Effects: Radial convergence lines focused on martial strikes, explosive kinetic shockwave bursts, Radiant golden and azure primordial sovereign flame aura, swirling vortexes of heavenly essence. Mood: Majestic, domineering, mystical, high-stakes cultivation martial grandeur.",
+      "story_constraints": "[STORY BEAT] Scene at Setting. Action: Close-up reaction on القائد.. Character expression: Firm, stoic resolve. Pose: Subtle head turn, hair catching wind. Background: Setting with atmospheric perspective and perspective depth. [CONTINUITY from p_ch1_s1_3] Environmental consistency: Setting. Lighting: Clean key light with soft fill. Active character continuity: maintained.",
+      "panel_composition": "[PANEL COMPOSITION] Camera Angle: eye_level. Framing: close_up. Lighting: Clean key light with soft fill. Composition Notes: close_up focusing on visual storytelling with clean speech bubble clearance.",
+      "negative_constraints": "photorealistic, 3d render, western superhero comic style, deformed hands, missing fingers, extra limbs, inconsistent costume colors, blurry line art, unrendered background, bad anatomy, text on base artwork"
+    },
+    "reference_mode": "style_only",
+    "provider_tier": "LOCAL_ZERO_COST",
+    "provider_name": "Inkstone Zero-Cost Renderer",
+    "seed": 2820102,
+    "cached": false,
+    "cache_key": "9a1f09c1b9ac5b3f7f127ec1",
+    "continuity": {
+      "previous_panel_id": "p_ch1_s1_3",
+      "previous_characters": [],
+      "environment": "Setting",
+      "lighting": "Clean key light with soft fill",
+      "active_style_version": 1
+    },
+    "drift_check": {
+      "has_drift": false,
+      "drift_type": "none",
+      "status": "APPROVED",
+      "style_drift_reasons": [],
+      "character_drift_reasons": [],
+      "confidence": 0.95
+    },
+    "lettering": {
+      "bubbles": [],
+      "sfx": [],
+      "svg_overlay": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 800 1100\" width=\"100%\" height=\"100%\" dir=\"rtl\" style=\"position:absolute;top:0;left:0;pointer-events:none;\">\n      \n    </svg>",
+      "language": "ar",
+      "updated_at": 1791108788368
+    },
+    "character_locks_applied": [],
+    "style_lock_id": "style_46332edd",
+    "style_version": 1,
+    "is_locked": false,
+    "user_edited": false,
+    "created_at": 1791108788368,
+    "updated_at": 1791108788368
+  }
+]

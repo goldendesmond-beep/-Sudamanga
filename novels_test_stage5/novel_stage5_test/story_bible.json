@@ -204,15 +204,15 @@
   "relationships": {},
   "timeline": [
     {
-      "id": "evt_c1_1790945865548",
+      "id": "evt_c1_1791108808934",
       "chapter": 1,
       "summary": "Tariq and his companion Layla entered the Grand Citadel. Tariq wielded the Celestial Blade. Layla cast Starfire Veil.",
       "participants": [
         "Tariq",
         "Layla"
       ],
-      "timestamp": 1790945865548
+      "timestamp": 1791108808934
     }
   ],
-  "updated_at": 1790945865548
+  "updated_at": 1791108808934
 }

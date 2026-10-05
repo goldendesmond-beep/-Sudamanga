@@ -1,0 +1,65 @@
+{
+  "project_id": "nv_5e02155b-8",
+  "novel_title": "Citadel Chronicles",
+  "library_folder": "/app/applet/NovelToMangaLibrary/nv_5e02155b-8",
+  "chapter_order": [
+    1,
+    2
+  ],
+  "chapter_statuses": {
+    "1": "COMPLETE",
+    "2": "COMPLETE"
+  },
+  "chapter_folders": {
+    "1": "Chapter_0001",
+    "2": "Chapter_0002"
+  },
+  "page_order": {
+    "1": [
+      "Page_001.png"
+    ],
+    "2": [
+      "Page_001.png"
+    ]
+  },
+  "saved_asset_references": {
+    "1": {
+      "folder": "Chapter_0001",
+      "pages": [
+        "Page_001.png"
+      ],
+      "svg_overlays": [
+        "Page_001.svg"
+      ],
+      "data_file": "chapter_data.json"
+    },
+    "2": {
+      "folder": "Chapter_0002",
+      "pages": [
+        "Page_001.png"
+      ],
+      "svg_overlays": [
+        "Page_001.svg"
+      ],
+      "data_file": "chapter_data.json"
+    }
+  },
+  "story_bible_version": 1,
+  "character_lock_version": 1,
+  "style_lock_version": 1,
+  "active_style_series": "The Eternal Supreme",
+  "generation_progress": 100,
+  "reading_progress": {
+    "last_read_chapter": 1,
+    "last_read_page": 1,
+    "scroll_percent": 0,
+    "total_chapters_read": 0,
+    "reading_progress_percent": 0,
+    "last_opened_at": 1791108824495
+  },
+  "last_generated_chapter": 2,
+  "last_read_chapter": 1,
+  "last_read_page": 1,
+  "created_at": 1791108824495,
+  "updated_at": 1791108824507
+}

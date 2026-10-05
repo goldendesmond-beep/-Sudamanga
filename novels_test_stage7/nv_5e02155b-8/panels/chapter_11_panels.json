@@ -1,0 +1,71 @@
+[
+  {
+    "panel_id": "p_ch11_s1_1",
+    "novel_id": "nv_5e02155b-8",
+    "chapter_id": "ch_0011_11",
+    "chapter_number": 11,
+    "scene_id": "scene_ch11_s1",
+    "page_or_strip_id": "strip_01",
+    "global_panel_number": 1,
+    "status": "COMPLETE",
+    "image_url": "/api/novels/nv_5e02155b-8/panels/files/ch11_p_ch11_s1_1.png",
+    "aspect_ratio": "3:4",
+    "input_layers": {
+      "character_constraints": "[CHARACTER: Arthur Leywin] (Ref: Sung Jinwoo) Face: Sharp angular V-line jaw, prominent cheekbones, Slim anime aesthetic, narrow intense chin. Eyes: Narrow intense piercing gaze, glowing cyan-blue / deep violet under power. hair: Jet black with subtle blue-gray highlights Layered raven-black fringe parting slightly over forehead. Build: Tall, broad-shouldered, lean muscular athletic build. attire: Long high-collared dark trench coat over dark fitted turtleneck and combat pants. Marks: Violet-blue shadow aura trailing from limbs, Glowing eye flares. Armed: weapons: Knight Killer daggers, Demon King daggers.",
+      "style_constraints": "[VISUAL STYLE: Berserk v2] Line Art: Fine meticulous dip-pen hatching thickness, Dense hyper-detailed density, Gritty, textured, organic line work. Color Mode: black_and_white. Shading: Masterful hand-drawn crosshatching and stippling, shadows: Deep heavy obsidian ink voids, contrast: Extreme chiaroscuro contrast. Rendering: Individually inked ink strands with heavy shadows, Dented forged iron plate and coarse woven fabric. Effects: Brutal directional blade paths splitting frames, Ominous creeping demonic shadows and heat haze. Mood: Grim, visceral, monumental, unflinching dark fantasy.",
+      "story_constraints": "[STORY BEAT] Scene at Setting. Action: Establishing shot of Setting. طارق positioned in environment.. Character expression: Composed observation. Pose: Standing surveying the surroundings. Background: Setting with atmospheric perspective and perspective depth.",
+      "panel_composition": "[PANEL COMPOSITION] Camera Angle: eye_level. Framing: wide_shot. Lighting: Clean key light with soft fill. Composition Notes: wide_shot focusing on visual storytelling with clean speech bubble clearance.",
+      "negative_constraints": "photorealistic, 3d render, western superhero comic style, deformed hands, missing fingers, extra limbs, inconsistent costume colors, blurry line art, unrendered background, bad anatomy, text on base artwork"
+    },
+    "reference_mode": "characters_and_style",
+    "provider_tier": "LOCAL_ZERO_COST",
+    "provider_name": "Inkstone Zero-Cost Renderer",
+    "seed": 7498806,
+    "cached": false,
+    "cache_key": "cd8995b2eb88845d16400549",
+    "continuity": {
+      "previous_characters": [],
+      "environment": "Setting",
+      "lighting": "Clean key light with soft fill",
+      "active_style_version": 2
+    },
+    "drift_check": {
+      "has_drift": false,
+      "drift_type": "none",
+      "status": "APPROVED",
+      "style_drift_reasons": [],
+      "character_drift_reasons": [],
+      "confidence": 0.95
+    },
+    "lettering": {
+      "bubbles": [
+        {
+          "id": "bubble_1_dlg_scene_ch11_s1_1",
+          "type": "shout",
+          "speaker": "طارق",
+          "text": "لن تعبروا هذه الأسوار ما دمنا نتنفس!",
+          "x": 74,
+          "y": 14,
+          "size": "medium",
+          "tail_direction": "right",
+          "tail_x": 82,
+          "tail_y": 26,
+          "language": "ar"
+        }
+      ],
+      "sfx": [],
+      "svg_overlay": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 800 1100\" width=\"100%\" height=\"100%\" dir=\"rtl\" style=\"position:absolute;top:0;left:0;pointer-events:none;\">\n      \n        <g id=\"bubble_1_dlg_scene_ch11_s1_1\" class=\"lettering-bubble\" data-bubble-id=\"bubble_1_dlg_scene_ch11_s1_1\">\n          <polygon points=\"711,154 678,162 699,176 661,177 666,193 630,187 618,202 592,191 566,202 554,187 518,193 523,177 485,176 506,162 473,154 506,146 485,132 523,131 518,115 554,121 566,106 592,117 618,106 630,121 666,115 661,131 699,132 678,146\" fill=\"#ffffff\" stroke=\"#e11d48\" stroke-width=\"3.5\" filter=\"drop-shadow(2px 3px 0px rgba(0,0,0,0.3))\" />\n          <text x=\"592\" y=\"128.5\" text-anchor=\"middle\" font-family=\"'Amiri', 'Scheherazade New', 'Tahoma', sans-serif\" font-size=\"9\" font-weight=\"bold\" fill=\"#64748b\" direction=\"rtl\">[طارق]</text>\n          <text x=\"592\" y=\"158\" text-anchor=\"middle\" font-family=\"'Amiri', 'Scheherazade New', 'Tahoma', sans-serif\" font-size=\"12\" font-weight=\"600\"\n                fill=\"#09090b\" direction=\"rtl\" style=\"white-space: pre-wrap; word-break: break-word;\">\n            لن تعبروا هذه الأسوار ما دمنا نتنفس!\n          </text>\n        </g>\n    </svg>",
+      "language": "ar",
+      "updated_at": 1791108826297
+    },
+    "character_locks_applied": [
+      "Arthur Leywin"
+    ],
+    "style_lock_id": "style_3ee79b8d",
+    "style_version": 2,
+    "is_locked": false,
+    "user_edited": false,
+    "created_at": 1791108826297,
+    "updated_at": 1791108826297
+  }
+]

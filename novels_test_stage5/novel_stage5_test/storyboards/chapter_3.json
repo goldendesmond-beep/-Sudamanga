@@ -1,5 +1,5 @@
 {
-  "id": "sb_novel_stage5_test_ch3_1790945865565",
+  "id": "sb_novel_stage5_test_ch3_1791108808949",
   "novel_id": "novel_stage5_test",
   "chapter_id": "ch_03",
   "chapter_number": 3,
@@ -93,7 +93,7 @@
           "character_lock_ids": [
             "tariq"
           ],
-          "style_lock_id": "style_5aa835a4",
+          "style_lock_id": "style_259d676e",
           "style_version": 1,
           "location": "Grand Council Chamber",
           "story_bible_references": [
@@ -128,8 +128,8 @@
           },
           "status": "PLANNED",
           "user_edited": false,
-          "created_at": 1790945865565,
-          "updated_at": 1790945865565
+          "created_at": 1791108808949,
+          "updated_at": 1791108808949
         },
         {
           "id": "p_ch3_s1_2",
@@ -153,7 +153,7 @@
           "character_lock_ids": [
             "tariq"
           ],
-          "style_lock_id": "style_5aa835a4",
+          "style_lock_id": "style_259d676e",
           "style_version": 1,
           "location": "Grand Council Chamber",
           "story_bible_references": [
@@ -186,8 +186,8 @@
           },
           "status": "PLANNED",
           "user_edited": false,
-          "created_at": 1790945865565,
-          "updated_at": 1790945865565
+          "created_at": 1791108808949,
+          "updated_at": 1791108808949
         },
         {
           "id": "p_ch3_s1_3",
@@ -211,7 +211,7 @@
           "character_lock_ids": [
             "tariq"
           ],
-          "style_lock_id": "style_5aa835a4",
+          "style_lock_id": "style_259d676e",
           "style_version": 1,
           "location": "Grand Council Chamber",
           "story_bible_references": [
@@ -244,8 +244,8 @@
           },
           "status": "PLANNED",
           "user_edited": false,
-          "created_at": 1790945865565,
-          "updated_at": 1790945865565
+          "created_at": 1791108808949,
+          "updated_at": 1791108808949
         }
       ]
     }
@@ -273,7 +273,7 @@
       "character_lock_ids": [
         "tariq"
       ],
-      "style_lock_id": "style_5aa835a4",
+      "style_lock_id": "style_259d676e",
       "style_version": 1,
       "location": "Grand Council Chamber",
       "story_bible_references": [
@@ -308,8 +308,8 @@
       },
       "status": "PLANNED",
       "user_edited": false,
-      "created_at": 1790945865565,
-      "updated_at": 1790945865565
+      "created_at": 1791108808949,
+      "updated_at": 1791108808949
     },
     {
       "id": "p_ch3_s1_2",
@@ -333,7 +333,7 @@
       "character_lock_ids": [
         "tariq"
       ],
-      "style_lock_id": "style_5aa835a4",
+      "style_lock_id": "style_259d676e",
       "style_version": 1,
       "location": "Grand Council Chamber",
       "story_bible_references": [
@@ -366,8 +366,8 @@
       },
       "status": "PLANNED",
       "user_edited": false,
-      "created_at": 1790945865565,
-      "updated_at": 1790945865565
+      "created_at": 1791108808949,
+      "updated_at": 1791108808949
     },
     {
       "id": "p_ch3_s1_3",
@@ -391,7 +391,7 @@
       "character_lock_ids": [
         "tariq"
       ],
-      "style_lock_id": "style_5aa835a4",
+      "style_lock_id": "style_259d676e",
       "style_version": 1,
       "location": "Grand Council Chamber",
       "story_bible_references": [
@@ -424,8 +424,8 @@
       },
       "status": "PLANNED",
       "user_edited": false,
-      "created_at": 1790945865565,
-      "updated_at": 1790945865565
+      "created_at": 1791108808949,
+      "updated_at": 1791108808949
     }
   ],
   "tasks": [
@@ -459,11 +459,11 @@
         }
       ],
       "style_ref": {
-        "style_id": "style_5aa835a4",
+        "style_id": "style_259d676e",
         "style_version": 1
       },
-      "created_at": 1790945865565,
-      "updated_at": 1790945865565
+      "created_at": 1791108808949,
+      "updated_at": 1791108808949
     },
     {
       "task_id": "task_p_ch3_s1_2",
@@ -495,11 +495,11 @@
         }
       ],
       "style_ref": {
-        "style_id": "style_5aa835a4",
+        "style_id": "style_259d676e",
         "style_version": 1
       },
-      "created_at": 1790945865565,
-      "updated_at": 1790945865565
+      "created_at": 1791108808949,
+      "updated_at": 1791108808949
     },
     {
       "task_id": "task_p_ch3_s1_3",
@@ -531,17 +531,17 @@
         }
       ],
       "style_ref": {
-        "style_id": "style_5aa835a4",
+        "style_id": "style_259d676e",
         "style_version": 1
       },
-      "created_at": 1790945865565,
-      "updated_at": 1790945865565
+      "created_at": 1791108808949,
+      "updated_at": 1791108808949
     }
   ],
   "total_panels": 3,
   "total_pages": 1,
   "approved": false,
   "manual_approval_required": false,
-  "created_at": 1790945865565,
-  "updated_at": 1790945865565
+  "created_at": 1791108808949,
+  "updated_at": 1791108808949
 }

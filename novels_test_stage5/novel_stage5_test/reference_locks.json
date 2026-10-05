@@ -51,13 +51,13 @@
       ],
       "locked": true,
       "user_overrides": {},
-      "created_at": 1790945865550,
-      "updated_at": 1790945865550
+      "created_at": 1791108808936,
+      "updated_at": 1791108808936
     }
   },
   "style_locks": [
     {
-      "style_id": "style_5aa835a4",
+      "style_id": "style_259d676e",
       "version": 1,
       "reference_series": "The Eternal Supreme",
       "series_type": "manhwa",
@@ -109,13 +109,13 @@
       "active": true,
       "user_overrides": {},
       "provider_notes": "Standardized provider-independent visual constraints; adaptable to both Agnes L2 img2img and prompt conditioning.",
-      "created_at": 1790945865549,
-      "updated_at": 1790945865549
+      "created_at": 1791108808935,
+      "updated_at": 1791108808935
     }
   ],
   "active_style_version": 1,
   "chapter_style_bindings": {
     "1": 1
   },
-  "updated_at": 1790945865550
+  "updated_at": 1791108808936
 }

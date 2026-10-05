@@ -1,5 +1,5 @@
 {
-  "id": "sb_novel_stage5_test_ch5_1790945865569",
+  "id": "sb_novel_stage5_test_ch5_1791108808954",
   "novel_id": "novel_stage5_test",
   "chapter_id": "ch_05",
   "chapter_number": 5,
@@ -81,7 +81,7 @@
           "character_lock_ids": [
             "tariq"
           ],
-          "style_lock_id": "style_5aa835a4",
+          "style_lock_id": "style_259d676e",
           "style_version": 1,
           "location": "War Room",
           "story_bible_references": [
@@ -116,8 +116,8 @@
           },
           "status": "PLANNED",
           "user_edited": false,
-          "created_at": 1790945865569,
-          "updated_at": 1790945865569
+          "created_at": 1791108808954,
+          "updated_at": 1791108808954
         },
         {
           "id": "p_ch5_s1_2",
@@ -141,7 +141,7 @@
           "character_lock_ids": [
             "tariq"
           ],
-          "style_lock_id": "style_5aa835a4",
+          "style_lock_id": "style_259d676e",
           "style_version": 1,
           "location": "War Room",
           "story_bible_references": [
@@ -174,8 +174,8 @@
           },
           "status": "PLANNED",
           "user_edited": false,
-          "created_at": 1790945865569,
-          "updated_at": 1790945865569
+          "created_at": 1791108808954,
+          "updated_at": 1791108808954
         }
       ]
     }
@@ -203,7 +203,7 @@
       "character_lock_ids": [
         "tariq"
       ],
-      "style_lock_id": "style_5aa835a4",
+      "style_lock_id": "style_259d676e",
       "style_version": 1,
       "location": "War Room",
       "story_bible_references": [
@@ -238,8 +238,8 @@
       },
       "status": "PLANNED",
       "user_edited": false,
-      "created_at": 1790945865569,
-      "updated_at": 1790945865569
+      "created_at": 1791108808954,
+      "updated_at": 1791108808954
     },
     {
       "id": "p_ch5_s1_2",
@@ -263,7 +263,7 @@
       "character_lock_ids": [
         "tariq"
       ],
-      "style_lock_id": "style_5aa835a4",
+      "style_lock_id": "style_259d676e",
       "style_version": 1,
       "location": "War Room",
       "story_bible_references": [
@@ -296,8 +296,8 @@
       },
       "status": "PLANNED",
       "user_edited": false,
-      "created_at": 1790945865569,
-      "updated_at": 1790945865569
+      "created_at": 1791108808954,
+      "updated_at": 1791108808954
     }
   ],
   "tasks": [
@@ -331,11 +331,11 @@
         }
       ],
       "style_ref": {
-        "style_id": "style_5aa835a4",
+        "style_id": "style_259d676e",
         "style_version": 1
       },
-      "created_at": 1790945865569,
-      "updated_at": 1790945865569
+      "created_at": 1791108808954,
+      "updated_at": 1791108808954
     },
     {
       "task_id": "task_p_ch5_s1_2",
@@ -367,17 +367,17 @@
         }
       ],
       "style_ref": {
-        "style_id": "style_5aa835a4",
+        "style_id": "style_259d676e",
         "style_version": 1
       },
-      "created_at": 1790945865569,
-      "updated_at": 1790945865569
+      "created_at": 1791108808954,
+      "updated_at": 1791108808954
     }
   ],
   "total_panels": 2,
   "total_pages": 1,
   "approved": false,
   "manual_approval_required": false,
-  "created_at": 1790945865569,
-  "updated_at": 1790945865569
+  "created_at": 1791108808954,
+  "updated_at": 1791108808954
 }

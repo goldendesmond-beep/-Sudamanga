@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ch_0001_1",
+    "number": 1,
+    "title": "Chapter 1: The Gathering Shadows",
+    "start_offset": 0,
+    "end_offset": 428,
+    "char_count": 428,
+    "word_count": 86,
+    "status": "NOT_PROCESSED",
+    "last_update": 1791108816590,
+    "output_available": false
+  },
+  {
+    "id": "ch_0002_2",
+    "number": 2,
+    "title": "Chapter 2: The Duel on the Battlements",
+    "start_offset": 428,
+    "end_offset": 807,
+    "char_count": 379,
+    "word_count": 76,
+    "status": "NOT_PROCESSED",
+    "last_update": 1791108816590,
+    "output_available": false
+  }
+]

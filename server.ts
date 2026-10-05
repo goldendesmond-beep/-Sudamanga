@@ -1,3 +1,5 @@
+console.log('[BOOT] START');
+
 import express from 'express';
 import type { Request, Response } from 'express';
 import path from 'path';
@@ -13,12 +15,13 @@ import { StoryboardEngine } from './storyboardEngine.js';
 import { PanelGenerationEngine } from './panelGenerationEngine.js';
 import { BatchAutomationEngine } from './batchAutomationEngine.js';
 import { MangaLibraryStorage } from './mangaLibraryStorage.js';
+import { DailySchedulerEngine } from './dailySchedulerEngine.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const app = express();
-const PORT = parseInt(process.env.PORT || '3000', 10);
+const PORT = Number(process.env.PORT) || 3000;
 const HOST = '0.0.0.0';
 
 // Runtime policy: ZERO_COST_ONLY defaults to true.
@@ -33,15 +36,13 @@ const OUTPUT_DIR = path.join(ROOT, 'comic_out');
 const NOVELS_DIR = path.join(ROOT, 'novels');
 const LIBRARY_DIR = path.join(ROOT, 'NovelToMangaLibrary');
 
-// Ensure output directories exist
-if (!fs.existsSync(OUTPUT_DIR)) {
-  fs.mkdirSync(OUTPUT_DIR, { recursive: true });
-}
-if (!fs.existsSync(NOVELS_DIR)) {
-  fs.mkdirSync(NOVELS_DIR, { recursive: true });
-}
-if (!fs.existsSync(LIBRARY_DIR)) {
-  fs.mkdirSync(LIBRARY_DIR, { recursive: true });
+// Ensure output directories exist safely
+try {
+  if (!fs.existsSync(OUTPUT_DIR)) fs.mkdirSync(OUTPUT_DIR, { recursive: true });
+  if (!fs.existsSync(NOVELS_DIR)) fs.mkdirSync(NOVELS_DIR, { recursive: true });
+  if (!fs.existsSync(LIBRARY_DIR)) fs.mkdirSync(LIBRARY_DIR, { recursive: true });
+} catch (storageErr) {
+  console.warn('[BOOT] OPTIONAL_INIT_FAILED storage:', storageErr);
 }
 
 const novelEngine = new NovelEngine(NOVELS_DIR);
@@ -60,6 +61,7 @@ const batchEngine = new BatchAutomationEngine(
   ZERO_COST_ONLY,
   libraryStorage
 );
+const schedulerEngine = new DailySchedulerEngine(NOVELS_DIR, batchEngine, libraryStorage, novelEngine);
 
 // In-memory job registry
 interface JobPanel {
@@ -187,7 +189,7 @@ function seedShowcaseProject() {
       );
     }
   } catch (err) {
-    console.warn('Could not seed showcase project:', err);
+    console.warn('[BOOT] OPTIONAL_INIT_FAILED showcase:', err);
   }
 }
 
@@ -1417,6 +1419,142 @@ app.post('/api/library/:id/restore/versioned', express.raw({ type: 'application/
   }
 });
 
+// ==================================================
+// STAGE 8: BACKGROUND DAILY AUTORUN & SCHEDULER API
+// ==================================================
+
+// Get scheduler configuration for a novel
+app.get('/api/scheduler/config/:id', (req: Request, res: Response) => {
+  try {
+    const novelId = String(req.params.id);
+    const config = schedulerEngine.getConfig(novelId);
+    res.json(config);
+  } catch (err) {
+    res.status(500).json({ error: String(err) });
+  }
+});
+
+// Update scheduler configuration
+app.post('/api/scheduler/config/:id', (req: Request, res: Response) => {
+  try {
+    const novelId = String(req.params.id);
+    const updated = schedulerEngine.updateConfig(novelId, req.body || {});
+    res.json(updated);
+  } catch (err) {
+    res.status(500).json({ error: String(err) });
+  }
+});
+
+// Toggle daily auto run ON/OFF
+app.post('/api/scheduler/toggle/:id', (req: Request, res: Response) => {
+  try {
+    const novelId = String(req.params.id);
+    const current = schedulerEngine.getConfig(novelId);
+    const updated = schedulerEngine.updateConfig(novelId, { enabled: !current.enabled });
+    res.json(updated);
+  } catch (err) {
+    res.status(500).json({ error: String(err) });
+  }
+});
+
+// Skip today's scheduled run
+app.post('/api/scheduler/skip-today/:id', (req: Request, res: Response) => {
+  try {
+    const novelId = String(req.params.id);
+    const config = schedulerEngine.getConfig(novelId);
+    const today = schedulerEngine.getCurrentDateInTimezone(config.timezone);
+    const updated = schedulerEngine.updateConfig(novelId, { skip_until_date: today });
+    res.json({ ok: true, skipped_date: today, config: updated });
+  } catch (err) {
+    res.status(500).json({ error: String(err) });
+  }
+});
+
+// Trigger daily run now (manual or scheduled)
+app.post('/api/scheduler/run-now/:id', async (req: Request, res: Response) => {
+  try {
+    const novelId = String(req.params.id);
+    const overrideLimit = req.body?.chapter_limit ? parseInt(String(req.body.chapter_limit), 10) : undefined;
+    const result = await schedulerEngine.executeDailyRun(novelId, {
+      forceNow: true,
+      overrideLimit,
+      triggerSource: 'manual_run_now',
+    });
+    res.json(result);
+  } catch (err) {
+    res.status(500).json({ error: String(err) });
+  }
+});
+
+// Get automation execution history
+app.get('/api/scheduler/history/:id', (req: Request, res: Response) => {
+  try {
+    const novelId = String(req.params.id);
+    const history = schedulerEngine.getHistory(novelId);
+    res.json(history);
+  } catch (err) {
+    res.status(500).json({ error: String(err) });
+  }
+});
+
+// Hosting reality check (Requirement 48)
+app.get('/api/scheduler/capabilities', (_req: Request, res: Response) => {
+  try {
+    const caps = schedulerEngine.inspectHostingCapabilities();
+    res.json(caps);
+  } catch (err) {
+    res.status(500).json({ error: String(err) });
+  }
+});
+
+// Secure internal entry point for Cloud Scheduler / platform cron (Requirement 47)
+app.post('/api/scheduler/daily-run', async (req: Request, res: Response) => {
+  const authHeader = req.headers.authorization || (req.query.token as string);
+  if (!schedulerEngine.verifySchedulerAuth(authHeader)) {
+    return res.status(401).json({ error: 'Unauthorized: Invalid or missing scheduler authentication token.' });
+  }
+
+  try {
+    // Run daily autorun across all enabled projects
+    const projects = libraryStorage.listLibraryProjects();
+    const results = [];
+    for (const p of projects) {
+      const cfg = schedulerEngine.getConfig(p.project_id);
+      if (cfg.enabled && !cfg.paused) {
+        const runRes = await schedulerEngine.executeDailyRun(p.project_id, {
+          triggerSource: 'scheduler_cron',
+        });
+        results.push(runRes);
+      }
+    }
+    res.json({ ok: true, processed_projects: results.length, runs: results });
+  } catch (err) {
+    res.status(500).json({ error: String(err) });
+  }
+});
+
+// Storage and Library Health inspection (Requirement 30)
+app.get('/api/library/health', (_req: Request, res: Response) => {
+  try {
+    const health = schedulerEngine.inspectLibraryHealth();
+    res.json(health);
+  } catch (err) {
+    res.status(500).json({ error: String(err) });
+  }
+});
+
+// Missing / damaged asset verification (Requirement 31)
+app.get('/api/library/:id/chapters/:chapterNum/integrity', (req: Request, res: Response) => {
+  try {
+    const novelId = String(req.params.id);
+    const chapterNum = parseInt(String(req.params.chapterNum), 10) || 1;
+    const report = schedulerEngine.verifyChapterAssets(novelId, chapterNum);
+    res.json(report);
+  } catch (err) {
+    res.status(500).json({ error: String(err) });
+  }
+});
+
 // Export a chapter as Comic Book Archive (.CBZ)
 app.get('/api/novels/:id/export/cbz/:chapterNum', (req: Request, res: Response) => {
   try {
@@ -2153,13 +2291,11 @@ function sleep(ms: number) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
-// Start server on 0.0.0.0:3000 (and process.env.PORT if specified and different)
-app.listen(3000, HOST, () => {
-  console.log(`Inkstone server listening at http://${HOST}:3000`);
-});
+console.log('[BOOT] ROUTES_READY');
+console.log(`[BOOT] LISTEN_ATTEMPT port=${PORT}`);
 
-if (PORT !== 3000) {
-  app.listen(PORT, HOST, () => {
-    console.log(`Inkstone server also listening at http://${HOST}:${PORT}`);
-  });
-}
+// Start server on 0.0.0.0 listening on process.env.PORT (with 3000 fallback)
+app.listen(PORT, HOST, () => {
+  console.log(`[BOOT] LISTENING port=${PORT}`);
+  console.log(`Inkstone server listening at http://${HOST}:${PORT}`);
+});

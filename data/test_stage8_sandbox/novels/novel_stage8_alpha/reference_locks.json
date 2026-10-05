@@ -51,13 +51,13 @@
       ],
       "locked": true,
       "user_overrides": {},
-      "created_at": 1791029410522,
-      "updated_at": 1791029410522
+      "created_at": 1791108889201,
+      "updated_at": 1791108889201
     }
   },
   "style_locks": [
     {
-      "style_id": "style_e7b24917",
+      "style_id": "style_a5733b58",
       "version": 1,
       "reference_series": "The Eternal Supreme",
       "series_type": "manhwa",
@@ -109,11 +109,11 @@
       "active": true,
       "user_overrides": {},
       "provider_notes": "Standardized provider-independent visual constraints; adaptable to both Agnes L2 img2img and prompt conditioning.",
-      "created_at": 1791029410517,
-      "updated_at": 1791029410517
+      "created_at": 1791108889197,
+      "updated_at": 1791108889197
     },
     {
-      "style_id": "style_9343fba0",
+      "style_id": "style_2cd7360d",
       "version": 2,
       "reference_series": "Berserk",
       "series_type": "manga",
@@ -165,8 +165,8 @@
       "active": false,
       "user_overrides": {},
       "provider_notes": "Standardized provider-independent visual constraints; adaptable to both Agnes L2 img2img and prompt conditioning.",
-      "created_at": 1791029410518,
-      "updated_at": 1791029410518
+      "created_at": 1791108889199,
+      "updated_at": 1791108889199
     }
   ],
   "active_style_version": 1,
@@ -174,5 +174,5 @@
     "1": 1,
     "51": 2
   },
-  "updated_at": 1791029410522
+  "updated_at": 1791108889201
 }

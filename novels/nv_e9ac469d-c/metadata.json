@@ -1,0 +1,17 @@
+{
+  "id": "nv_e9ac469d-c",
+  "title": "epic_10_chapters",
+  "filename": "epic_10_chapters.txt",
+  "format": "txt",
+  "file_size": 3136,
+  "language": "English (en)",
+  "detected_chapter_count": 10,
+  "approx_word_count": 616,
+  "approx_char_count": 3080,
+  "warnings": [],
+  "duplicate_chapters": [],
+  "missing_chapters": [],
+  "custom_pattern": "^(?:Chapter|الفصل|第|CHAPTER|##|Ch\\.)\\s*.*",
+  "created_at": 1791108772031,
+  "updated_at": 1791108772284
+}
